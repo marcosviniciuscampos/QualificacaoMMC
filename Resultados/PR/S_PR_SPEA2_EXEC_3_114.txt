@@ -1,0 +1,2657 @@
+Funções objetivo
+1 -759128.0
+2 -483187.33370000013
+3 -0.4764321946010984
+
+
+Mamógrafos: 
+
+Mamógrafo 0 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 1 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 2 instalado em Maringá capacidade ociosa 0
+
+Maringá => 6758/35720
+
+Mamógrafo 3 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 4 instalado em Ponta Grossa capacidade ociosa 0
+
+Ponta Grossa => 6758/27419
+
+Mamógrafo 5 instalado em Cascavel capacidade ociosa 0
+
+Cascavel => 6758/25896
+
+Mamógrafo 6 instalado em Foz do Iguaçu capacidade ociosa 0
+
+Foz do Iguaçu => 6758/22878
+
+Mamógrafo 7 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 8 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 9 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 10 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 11 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 12 instalado em São José dos Pinhais capacidade ociosa 0
+
+São José dos Pinhais => 6758/22622
+
+Mamógrafo 13 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 14 instalado em Maringá capacidade ociosa 0
+
+Maringá => 6758/35720
+
+Mamógrafo 15 instalado em Ponta Grossa capacidade ociosa 0
+
+Ponta Grossa => 6758/27419
+
+Mamógrafo 16 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 17 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 18 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 19 instalado em Ponta Grossa capacidade ociosa 0
+
+Ponta Grossa => 6758/27419
+
+Mamógrafo 20 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 21 instalado em Cascavel capacidade ociosa 0
+
+Cascavel => 6758/25896
+
+Mamógrafo 22 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 23 instalado em Colombo capacidade ociosa 0
+
+Colombo => 6758/17978
+
+Mamógrafo 24 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 25 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 26 instalado em Maringá capacidade ociosa 0
+
+Maringá => 6758/35720
+
+Mamógrafo 27 instalado em Foz do Iguaçu capacidade ociosa 0
+
+Foz do Iguaçu => 6758/22878
+
+Mamógrafo 28 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 29 instalado em São José dos Pinhais capacidade ociosa 0
+
+São José dos Pinhais => 6758/22622
+
+Mamógrafo 30 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 31 instalado em Guarapuava capacidade ociosa 0
+
+Guarapuava => 6758/14870
+
+Mamógrafo 32 instalado em Tapejara capacidade ociosa 5506
+
+Tapejara => 1252/1252
+
+Mamógrafo 33 instalado em Ponta Grossa capacidade ociosa 0
+
+Ponta Grossa => 6758/27419
+
+Mamógrafo 34 instalado em Cascavel capacidade ociosa 0
+
+Cascavel => 6758/25896
+
+Mamógrafo 35 instalado em Paranaguá capacidade ociosa 0
+
+Paranaguá => 6758/11978
+
+Mamógrafo 36 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 37 instalado em Apucarana capacidade ociosa 0
+
+Apucarana => 6758/11400
+
+Mamógrafo 38 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 39 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 40 instalado em Colombo capacidade ociosa 0
+
+Colombo => 6758/17978
+
+Mamógrafo 41 instalado em Toledo capacidade ociosa 0
+
+Toledo => 6758/11034
+
+Mamógrafo 42 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 43 instalado em Pinhais capacidade ociosa 0
+
+Pinhais => 6758/10596
+
+Mamógrafo 44 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 45 instalado em Campo Largo capacidade ociosa 0
+
+Campo Largo => 6758/10055
+
+Mamógrafo 46 instalado em Araucária capacidade ociosa 0
+
+Araucária => 6758/9996
+
+Mamógrafo 47 instalado em Umuarama capacidade ociosa 0
+
+Umuarama => 6758/9611
+
+Mamógrafo 48 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 49 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 50 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 51 instalado em Arapongas capacidade ociosa 0
+
+Arapongas => 6758/9658
+
+Mamógrafo 52 instalado em São José dos Pinhais capacidade ociosa 0
+
+São José dos Pinhais => 6758/22622
+
+Mamógrafo 53 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 54 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 55 instalado em Foz do Iguaçu capacidade ociosa 0
+
+Foz do Iguaçu => 6758/22878
+
+Mamógrafo 56 instalado em Maringá capacidade ociosa 0
+
+Maringá => 6758/35720
+
+Mamógrafo 57 instalado em Cambé capacidade ociosa 0
+
+Cambé => 6758/9051
+
+Mamógrafo 58 instalado em Almirante Tamandaré capacidade ociosa 0
+
+Almirante Tamandaré => 6758/8475
+
+Mamógrafo 59 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 60 instalado em Campo Mourão capacidade ociosa 0
+
+Campo Mourão => 6758/8290
+
+Mamógrafo 61 instalado em Guarapuava capacidade ociosa 0
+
+Guarapuava => 6758/14870
+
+Mamógrafo 62 instalado em Curitiba capacidade ociosa 0
+
+Curitiba => 6758/172901
+
+Mamógrafo 63 instalado em Paranavaí capacidade ociosa 0
+
+Paranavaí => 6758/7865
+
+Mamógrafo 64 instalado em Sarandi capacidade ociosa 0
+
+Sarandi => 6758/7336
+
+Mamógrafo 65 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 66 instalado em Francisco Beltrão capacidade ociosa 0
+
+Francisco Beltrão => 6758/7150
+
+Mamógrafo 67 instalado em Piraquara capacidade ociosa 0
+
+Piraquara => 6758/7129
+
+Mamógrafo 68 instalado em Fazenda Rio Grande capacidade ociosa 144
+
+Fazenda Rio Grande => 6614/6614
+
+Mamógrafo 69 instalado em Cianorte capacidade ociosa 223
+
+Cianorte => 6535/6535
+
+Mamógrafo 70 instalado em Telêmaco Borba capacidade ociosa 0
+
+Telêmaco Borba => 6048/6048
+Ventania => 710/741
+
+Mamógrafo 71 instalado em Pato Branco capacidade ociosa 0
+
+Pato Branco => 6758/6778
+
+Mamógrafo 72 instalado em Cascavel capacidade ociosa 1136
+
+Cascavel => 5622/25896
+
+Mamógrafo 73 instalado em Ponta Grossa capacidade ociosa 6371
+
+Ponta Grossa => 387/27419
+
+Mamógrafo 74 instalado em Rolândia capacidade ociosa 1384
+
+Rolândia => 5374/5374
+
+Mamógrafo 75 instalado em Castro capacidade ociosa 60
+
+Carambeí => 1436/1436
+Castro => 5262/5262
+
+Mamógrafo 76 instalado em Irati capacidade ociosa 1685
+
+Irati => 5073/5073
+
+Mamógrafo 77 instalado em Apucarana capacidade ociosa 2116
+
+Apucarana => 4642/11400
+
+Mamógrafo 78 instalado em Paranaguá capacidade ociosa 1538
+
+Paranaguá => 5220/11978
+
+Mamógrafo 79 instalado em Ibiporã capacidade ociosa 2216
+
+Ibiporã => 4542/4542
+
+Mamógrafo 80 instalado em Colombo capacidade ociosa 2296
+
+Colombo => 4462/17978
+
+Mamógrafo 81 instalado em Cornélio Procópio capacidade ociosa 2096
+
+Cornélio Procópio => 4662/4662
+
+Mamógrafo 82 instalado em Toledo capacidade ociosa 2482
+
+Toledo => 4276/11034
+
+Mamógrafo 83 instalado em Prudentópolis capacidade ociosa 2150
+
+Guamiranga => 639/639
+Prudentópolis => 3969/3969
+
+Mamógrafo 84 instalado em Curitiba capacidade ociosa 2807
+
+Curitiba => 3951/172901
+
+Mamógrafo 85 instalado em União da Vitória capacidade ociosa 1337
+
+Paula Freitas => 447/447
+Porto Vitória => 332/332
+União da Vitória => 4642/4642
+
+Mamógrafo 86 instalado em Pinhais capacidade ociosa 2920
+
+Pinhais => 3838/10596
+
+Mamógrafo 87 instalado em Medianeira capacidade ociosa 2901
+
+Medianeira => 3857/3857
+
+Mamógrafo 88 instalado em Marechal Cândido Rondon capacidade ociosa 1998
+
+Marechal Cândido Rondon => 4396/4396
+Quatro Pontes => 364/364
+
+Mamógrafo 89 instalado em Jacarezinho capacidade ociosa 3224
+
+Jacarezinho => 3534/3534
+
+Mamógrafo 90 instalado em Santo Antônio da Platina capacidade ociosa 2942
+
+Santo Antônio da Platina => 3816/3816
+
+Mamógrafo 91 instalado em Lapa capacidade ociosa 2923
+
+Lapa => 3835/3835
+
+Mamógrafo 92 instalado em São Mateus do Sul capacidade ociosa 2176
+
+Antônio Olinto => 625/625
+Paulo Frontin => 559/559
+São Mateus do Sul => 3398/3398
+
+Mamógrafo 93 instalado em Campo Largo capacidade ociosa 3461
+
+Campo Largo => 3297/10055
+
+Mamógrafo 94 instalado em Palmas capacidade ociosa 3026
+
+Coronel Domingos Soares => 498/498
+Palmas => 3234/3234
+
+Mamógrafo 95 instalado em Assis Chateaubriand capacidade ociosa 3506
+
+Assis Chateaubriand => 3252/3252
+
+Mamógrafo 96 instalado em Campina Grande do Sul capacidade ociosa 3530
+
+Campina Grande do Sul => 3228/3228
+
+Mamógrafo 97 instalado em Dois Vizinhos capacidade ociosa 2603
+
+Boa Esperança do Iguaçu => 239/239
+Cruzeiro do Iguaçu => 374/374
+Dois Vizinhos => 3226/3226
+Sulina => 316/316
+
+Mamógrafo 98 instalado em Paiçandu capacidade ociosa 3541
+
+Paiçandu => 3217/3217
+
+Mamógrafo 99 instalado em Araucária capacidade ociosa 3520
+
+Araucária => 3238/9996
+
+Mamógrafo 100 instalado em Mandaguari capacidade ociosa 3660
+
+Mandaguari => 3098/3098
+
+Mamógrafo 101 instalado em Bandeirantes capacidade ociosa 3754
+
+Bandeirantes => 3004/3004
+
+Mamógrafo 102 instalado em Arapongas capacidade ociosa 3858
+
+Arapongas => 2900/9658
+
+Mamógrafo 103 instalado em Marialva capacidade ociosa 3757
+
+Marialva => 3001/3001
+
+Mamógrafo 104 instalado em Guaratuba capacidade ociosa 3875
+
+Guaratuba => 2883/2883
+
+Mamógrafo 105 instalado em Matinhos capacidade ociosa 3869
+
+Matinhos => 2889/2889
+
+Mamógrafo 106 instalado em Ivaiporã capacidade ociosa 2904
+
+Arapuã => 313/313
+Ariranha do Ivaí => 215/215
+Cruzmaltina => 286/286
+Ivaiporã => 3040/3040
+
+Mamógrafo 107 instalado em Umuarama capacidade ociosa 3905
+
+Umuarama => 2853/9611
+
+Mamógrafo 108 instalado em Pitanga capacidade ociosa 3304
+
+Campina do Simão => 323/323
+Mato Rico => 324/324
+Pitanga => 2807/2807
+
+Mamógrafo 109 instalado em Jaguariaíva capacidade ociosa 4038
+
+Jaguariaíva => 2720/2720
+
+Mamógrafo 110 instalado em Rio Negro capacidade ociosa 3557
+
+Campo do Tenente => 534/534
+Rio Negro => 2667/2667
+
+Mamógrafo 111 instalado em Palmeira capacidade ociosa 4015
+
+Palmeira => 2743/2743
+
+Mamógrafo 112 instalado em Goioerê capacidade ociosa 3405
+
+Farol => 312/312
+Goioerê => 2777/2777
+Rancho Alegre D'Oeste => 264/264
+
+Mamógrafo 113 instalado em Paiçandu capacidade ociosa 6758
+
+
+Mamógrafo 114 instalado em Palotina capacidade ociosa 4101
+
+Palotina => 2657/2657
+
+Mamógrafo 115 instalado em Guaíra capacidade ociosa 3093
+
+Francisco Alves => 593/593
+Guaíra => 2617/2617
+Mercedes => 455/455
+
+Mamógrafo 116 instalado em Foz do Iguaçu capacidade ociosa 4154
+
+Foz do Iguaçu => 2604/22878
+
+Mamógrafo 117 instalado em Nova Esperança capacidade ociosa 4255
+
+Nova Esperança => 2503/2503
+
+Mamógrafo 118 instalado em Ibaiti capacidade ociosa 4267
+
+Ibaiti => 2460/2460
+Ventania => 31/741
+
+Mamógrafo 119 instalado em São José dos Pinhais capacidade ociosa 4410
+
+São José dos Pinhais => 2348/22622
+
+Mamógrafo 120 instalado em Rio Branco do Sul capacidade ociosa 4414
+
+Rio Branco do Sul => 2344/2344
+
+Mamógrafo 121 instalado em Bandeirantes capacidade ociosa 6758
+
+
+Mamógrafo 122 instalado em Cambé capacidade ociosa 4465
+
+Cambé => 2293/9051
+
+Mamógrafo 123 instalado em Quedas do Iguaçu capacidade ociosa 3929
+
+Espigão Alto do Iguaçu => 363/363
+Quedas do Iguaçu => 2466/2466
+
+Mamógrafo 124 instalado em Imbituva capacidade ociosa 4500
+
+Imbituva => 2258/2258
+
+Mamógrafo 125 instalado em São Miguel do Iguaçu capacidade ociosa 4467
+
+São Miguel do Iguaçu => 2291/2291
+
+Mamógrafo 126 instalado em Cambará capacidade ociosa 4537
+
+Cambará => 2221/2221
+
+Mamógrafo 127 instalado em Astorga capacidade ociosa 4368
+
+Astorga => 2390/2390
+
+Mamógrafo 128 instalado em Planalto capacidade ociosa 5450
+
+Planalto => 1308/1308
+
+Mamógrafo 129 instalado em Ubiratã capacidade ociosa 4636
+
+Ubiratã => 2122/2122
+
+Mamógrafo 130 instalado em Campo Magro capacidade ociosa 4663
+
+Campo Magro => 2095/2095
+
+Mamógrafo 131 instalado em Arapoti capacidade ociosa 4669
+
+Arapoti => 2089/2089
+
+Mamógrafo 132 instalado em Coronel Vivida capacidade ociosa 4735
+
+Coronel Vivida => 2003/2003
+Pato Branco => 20/6778
+
+Mamógrafo 133 instalado em Colorado capacidade ociosa 4260
+
+Colorado => 2197/2197
+Jardim Olinda => 130/130
+Santa Inês => 171/171
+
+Mamógrafo 134 instalado em Pontal do Paraná capacidade ociosa 4755
+
+Pontal do Paraná => 2003/2003
+
+Mamógrafo 135 instalado em Jandaia do Sul capacidade ociosa 4795
+
+Jandaia do Sul => 1963/1963
+
+Mamógrafo 136 instalado em Maringá capacidade ociosa 0
+
+Maringá => 6758/35720
+
+Mamógrafo 137 instalado em Andirá capacidade ociosa 4795
+
+Andirá => 1963/1963
+
+Mamógrafo 138 instalado em Piraí do Sul capacidade ociosa 4840
+
+Piraí do Sul => 1918/1918
+
+Mamógrafo 139 instalado em Cruzeiro do Oeste capacidade ociosa 4863
+
+Cruzeiro do Oeste => 1895/1895
+
+Mamógrafo 140 instalado em Rio Branco do Sul capacidade ociosa 6758
+
+
+Mamógrafo 141 instalado em Altônia capacidade ociosa 4684
+
+Altônia => 1888/1888
+Esperança Nova => 186/186
+
+Mamógrafo 142 instalado em Santa Terezinha de Itaipu capacidade ociosa 4887
+
+Santa Terezinha de Itaipu => 1871/1871
+
+Mamógrafo 143 instalado em Mandirituba capacidade ociosa 4937
+
+Mandirituba => 1821/1821
+
+Mamógrafo 144 instalado em Mandaguaçu capacidade ociosa 4971
+
+Mandaguaçu => 1787/1787
+
+Mamógrafo 145 instalado em Ortigueira capacidade ociosa 4116
+
+Imbaú => 829/829
+Ortigueira => 1813/1813
+
+Mamógrafo 146 instalado em Wenceslau Braz capacidade ociosa 5002
+
+Wenceslau Braz => 1756/1756
+
+Mamógrafo 147 instalado em Mandaguaçu capacidade ociosa 6758
+
+
+Mamógrafo 148 instalado em Almirante Tamandaré capacidade ociosa 5041
+
+Almirante Tamandaré => 1717/8475
+
+Mamógrafo 149 instalado em Chopinzinho capacidade ociosa 5007
+
+Chopinzinho => 1751/1751
+
+Mamógrafo 150 instalado em Quatro Barras capacidade ociosa 5046
+
+Quatro Barras => 1712/1712
+
+Mamógrafo 151 instalado em Itaperuçu capacidade ociosa 5063
+
+Itaperuçu => 1695/1695
+
+Mamógrafo 152 instalado em Capanema capacidade ociosa 5027
+
+Capanema => 1731/1731
+
+Mamógrafo 153 instalado em Santo Antônio do Sudoeste capacidade ociosa 5145
+
+Santo Antônio do Sudoeste => 1613/1613
+
+Mamógrafo 154 instalado em Terra Roxa capacidade ociosa 5194
+
+Terra Roxa => 1564/1564
+
+Mamógrafo 155 instalado em Campo Mourão capacidade ociosa 5226
+
+Campo Mourão => 1532/8290
+
+Mamógrafo 156 instalado em Corbélia capacidade ociosa 5240
+
+Corbélia => 1518/1518
+
+Mamógrafo 157 instalado em Siqueira Campos capacidade ociosa 5090
+
+Siqueira Campos => 1668/1668
+
+Mamógrafo 158 instalado em Ampére capacidade ociosa 5246
+
+Ampére => 1512/1512
+
+Mamógrafo 159 instalado em Marialva capacidade ociosa 6758
+
+
+Mamógrafo 160 instalado em Realeza capacidade ociosa 5255
+
+Realeza => 1503/1503
+
+Mamógrafo 161 instalado em Engenheiro Beltrão capacidade ociosa 5439
+
+Engenheiro Beltrão => 1319/1319
+
+Mamógrafo 162 instalado em Assaí capacidade ociosa 5278
+
+Assaí => 1480/1480
+
+Mamógrafo 163 instalado em Clevelândia capacidade ociosa 4680
+
+Clevelândia => 1506/1506
+Vitorino => 572/572
+
+Mamógrafo 164 instalado em Tibagi capacidade ociosa 5250
+
+Tibagi => 1508/1508
+
+Mamógrafo 165 instalado em Bela Vista do Paraíso capacidade ociosa 5332
+
+Bela Vista do Paraíso => 1426/1426
+
+Mamógrafo 166 instalado em Londrina capacidade ociosa 0
+
+Londrina => 6758/48750
+
+Mamógrafo 167 instalado em Faxinal capacidade ociosa 4790
+
+Faxinal => 1415/1415
+Novo Itacolomi => 257/257
+Rio Branco do Ivaí => 296/296
+
+Mamógrafo 168 instalado em Iporã capacidade ociosa 5336
+
+Iporã => 1422/1422
+
+Mamógrafo 169 instalado em Cafelândia capacidade ociosa 5477
+
+Cafelândia => 1281/1281
+
+Mamógrafo 170 instalado em Matelândia capacidade ociosa 5352
+
+Matelândia => 1406/1406
+
+Mamógrafo 171 instalado em Terra Boa capacidade ociosa 5352
+
+Terra Boa => 1406/1406
+
+Mamógrafo 172 instalado em Quitandinha capacidade ociosa 5364
+
+Quitandinha => 1394/1394
+
+Mamógrafo 173 instalado em Cruz Machado capacidade ociosa 5379
+
+Cruz Machado => 1379/1379
+
+Mamógrafo 174 instalado em Campina da Lagoa capacidade ociosa 5153
+
+Campina da Lagoa => 1412/1412
+Iguatu => 193/193
+
+Mamógrafo 175 instalado em Mamborê capacidade ociosa 4991
+
+Boa Esperança => 452/452
+Mamborê => 1315/1315
+
+Cidades cobertas pelo mamógrafo 0 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 1 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 2 => Maringá, 
+
+
+Cidades cobertas pelo mamógrafo 3 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 4 => Ponta Grossa, 
+
+
+Cidades cobertas pelo mamógrafo 5 => Cascavel, 
+
+
+Cidades cobertas pelo mamógrafo 6 => Foz do Iguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 7 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 8 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 9 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 10 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 11 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 12 => São José dos Pinhais, 
+
+
+Cidades cobertas pelo mamógrafo 13 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 14 => Maringá, 
+
+
+Cidades cobertas pelo mamógrafo 15 => Ponta Grossa, 
+
+
+Cidades cobertas pelo mamógrafo 16 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 17 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 18 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 19 => Ponta Grossa, 
+
+
+Cidades cobertas pelo mamógrafo 20 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 21 => Cascavel, 
+
+
+Cidades cobertas pelo mamógrafo 22 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 23 => Colombo, 
+
+
+Cidades cobertas pelo mamógrafo 24 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 25 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 26 => Maringá, 
+
+
+Cidades cobertas pelo mamógrafo 27 => Foz do Iguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 28 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 29 => São José dos Pinhais, 
+
+
+Cidades cobertas pelo mamógrafo 30 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 31 => Guarapuava, 
+
+
+Cidades cobertas pelo mamógrafo 32 => Tapejara, 
+
+
+Cidades cobertas pelo mamógrafo 33 => Ponta Grossa, 
+
+
+Cidades cobertas pelo mamógrafo 34 => Cascavel, 
+
+
+Cidades cobertas pelo mamógrafo 35 => Paranaguá, 
+
+
+Cidades cobertas pelo mamógrafo 36 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 37 => Apucarana, 
+
+
+Cidades cobertas pelo mamógrafo 38 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 39 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 40 => Colombo, 
+
+
+Cidades cobertas pelo mamógrafo 41 => Toledo, 
+
+
+Cidades cobertas pelo mamógrafo 42 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 43 => Pinhais, 
+
+
+Cidades cobertas pelo mamógrafo 44 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 45 => Campo Largo, 
+
+
+Cidades cobertas pelo mamógrafo 46 => Araucária, 
+
+
+Cidades cobertas pelo mamógrafo 47 => Umuarama, 
+
+
+Cidades cobertas pelo mamógrafo 48 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 49 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 50 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 51 => Arapongas, 
+
+
+Cidades cobertas pelo mamógrafo 52 => São José dos Pinhais, 
+
+
+Cidades cobertas pelo mamógrafo 53 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 54 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 55 => Foz do Iguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 56 => Maringá, 
+
+
+Cidades cobertas pelo mamógrafo 57 => Cambé, 
+
+
+Cidades cobertas pelo mamógrafo 58 => Almirante Tamandaré, 
+
+
+Cidades cobertas pelo mamógrafo 59 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 60 => Campo Mourão, 
+
+
+Cidades cobertas pelo mamógrafo 61 => Guarapuava, 
+
+
+Cidades cobertas pelo mamógrafo 62 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 63 => Paranavaí, 
+
+
+Cidades cobertas pelo mamógrafo 64 => Sarandi, 
+
+
+Cidades cobertas pelo mamógrafo 65 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 66 => Francisco Beltrão, 
+
+
+Cidades cobertas pelo mamógrafo 67 => Piraquara, 
+
+
+Cidades cobertas pelo mamógrafo 68 => Fazenda Rio Grande, 
+
+
+Cidades cobertas pelo mamógrafo 69 => Cianorte, 
+
+
+Cidades cobertas pelo mamógrafo 70 => Telêmaco Borba, Ventania, 
+
+
+Cidades cobertas pelo mamógrafo 71 => Pato Branco, 
+
+
+Cidades cobertas pelo mamógrafo 72 => Cascavel, 
+
+
+Cidades cobertas pelo mamógrafo 73 => Ponta Grossa, 
+
+
+Cidades cobertas pelo mamógrafo 74 => Rolândia, 
+
+
+Cidades cobertas pelo mamógrafo 75 => Carambeí, Castro, 
+
+
+Cidades cobertas pelo mamógrafo 76 => Irati, 
+
+
+Cidades cobertas pelo mamógrafo 77 => Apucarana, 
+
+
+Cidades cobertas pelo mamógrafo 78 => Paranaguá, 
+
+
+Cidades cobertas pelo mamógrafo 79 => Ibiporã, 
+
+
+Cidades cobertas pelo mamógrafo 80 => Colombo, 
+
+
+Cidades cobertas pelo mamógrafo 81 => Cornélio Procópio, 
+
+
+Cidades cobertas pelo mamógrafo 82 => Toledo, 
+
+
+Cidades cobertas pelo mamógrafo 83 => Guamiranga, Prudentópolis, 
+
+
+Cidades cobertas pelo mamógrafo 84 => Curitiba, 
+
+
+Cidades cobertas pelo mamógrafo 85 => Paula Freitas, Porto Vitória, União da Vitória, 
+
+
+Cidades cobertas pelo mamógrafo 86 => Pinhais, 
+
+
+Cidades cobertas pelo mamógrafo 87 => Medianeira, 
+
+
+Cidades cobertas pelo mamógrafo 88 => Marechal Cândido Rondon, Quatro Pontes, 
+
+
+Cidades cobertas pelo mamógrafo 89 => Jacarezinho, 
+
+
+Cidades cobertas pelo mamógrafo 90 => Santo Antônio da Platina, 
+
+
+Cidades cobertas pelo mamógrafo 91 => Lapa, 
+
+
+Cidades cobertas pelo mamógrafo 92 => Antônio Olinto, Paulo Frontin, São Mateus do Sul, 
+
+
+Cidades cobertas pelo mamógrafo 93 => Campo Largo, 
+
+
+Cidades cobertas pelo mamógrafo 94 => Coronel Domingos Soares, Palmas, 
+
+
+Cidades cobertas pelo mamógrafo 95 => Assis Chateaubriand, 
+
+
+Cidades cobertas pelo mamógrafo 96 => Campina Grande do Sul, 
+
+
+Cidades cobertas pelo mamógrafo 97 => Boa Esperança do Iguaçu, Cruzeiro do Iguaçu, Dois Vizinhos, Sulina, 
+
+
+Cidades cobertas pelo mamógrafo 98 => Paiçandu, 
+
+
+Cidades cobertas pelo mamógrafo 99 => Araucária, 
+
+
+Cidades cobertas pelo mamógrafo 100 => Mandaguari, 
+
+
+Cidades cobertas pelo mamógrafo 101 => Bandeirantes, 
+
+
+Cidades cobertas pelo mamógrafo 102 => Arapongas, 
+
+
+Cidades cobertas pelo mamógrafo 103 => Marialva, 
+
+
+Cidades cobertas pelo mamógrafo 104 => Guaratuba, 
+
+
+Cidades cobertas pelo mamógrafo 105 => Matinhos, 
+
+
+Cidades cobertas pelo mamógrafo 106 => Arapuã, Ariranha do Ivaí, Cruzmaltina, Ivaiporã, 
+
+
+Cidades cobertas pelo mamógrafo 107 => Umuarama, 
+
+
+Cidades cobertas pelo mamógrafo 108 => Campina do Simão, Mato Rico, Pitanga, 
+
+
+Cidades cobertas pelo mamógrafo 109 => Jaguariaíva, 
+
+
+Cidades cobertas pelo mamógrafo 110 => Campo do Tenente, Rio Negro, 
+
+
+Cidades cobertas pelo mamógrafo 111 => Palmeira, 
+
+
+Cidades cobertas pelo mamógrafo 112 => Farol, Goioerê, Rancho Alegre D'Oeste, 
+
+
+Cidades cobertas pelo mamógrafo 113 => 
+
+
+Cidades cobertas pelo mamógrafo 114 => Palotina, 
+
+
+Cidades cobertas pelo mamógrafo 115 => Francisco Alves, Guaíra, Mercedes, 
+
+
+Cidades cobertas pelo mamógrafo 116 => Foz do Iguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 117 => Nova Esperança, 
+
+
+Cidades cobertas pelo mamógrafo 118 => Ibaiti, Ventania, 
+
+
+Cidades cobertas pelo mamógrafo 119 => São José dos Pinhais, 
+
+
+Cidades cobertas pelo mamógrafo 120 => Rio Branco do Sul, 
+
+
+Cidades cobertas pelo mamógrafo 121 => 
+
+
+Cidades cobertas pelo mamógrafo 122 => Cambé, 
+
+
+Cidades cobertas pelo mamógrafo 123 => Espigão Alto do Iguaçu, Quedas do Iguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 124 => Imbituva, 
+
+
+Cidades cobertas pelo mamógrafo 125 => São Miguel do Iguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 126 => Cambará, 
+
+
+Cidades cobertas pelo mamógrafo 127 => Astorga, 
+
+
+Cidades cobertas pelo mamógrafo 128 => Planalto, 
+
+
+Cidades cobertas pelo mamógrafo 129 => Ubiratã, 
+
+
+Cidades cobertas pelo mamógrafo 130 => Campo Magro, 
+
+
+Cidades cobertas pelo mamógrafo 131 => Arapoti, 
+
+
+Cidades cobertas pelo mamógrafo 132 => Coronel Vivida, Pato Branco, 
+
+
+Cidades cobertas pelo mamógrafo 133 => Colorado, Jardim Olinda, Santa Inês, 
+
+
+Cidades cobertas pelo mamógrafo 134 => Pontal do Paraná, 
+
+
+Cidades cobertas pelo mamógrafo 135 => Jandaia do Sul, 
+
+
+Cidades cobertas pelo mamógrafo 136 => Maringá, 
+
+
+Cidades cobertas pelo mamógrafo 137 => Andirá, 
+
+
+Cidades cobertas pelo mamógrafo 138 => Piraí do Sul, 
+
+
+Cidades cobertas pelo mamógrafo 139 => Cruzeiro do Oeste, 
+
+
+Cidades cobertas pelo mamógrafo 140 => 
+
+
+Cidades cobertas pelo mamógrafo 141 => Altônia, Esperança Nova, 
+
+
+Cidades cobertas pelo mamógrafo 142 => Santa Terezinha de Itaipu, 
+
+
+Cidades cobertas pelo mamógrafo 143 => Mandirituba, 
+
+
+Cidades cobertas pelo mamógrafo 144 => Mandaguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 145 => Imbaú, Ortigueira, 
+
+
+Cidades cobertas pelo mamógrafo 146 => Wenceslau Braz, 
+
+
+Cidades cobertas pelo mamógrafo 147 => 
+
+
+Cidades cobertas pelo mamógrafo 148 => Almirante Tamandaré, 
+
+
+Cidades cobertas pelo mamógrafo 149 => Chopinzinho, 
+
+
+Cidades cobertas pelo mamógrafo 150 => Quatro Barras, 
+
+
+Cidades cobertas pelo mamógrafo 151 => Itaperuçu, 
+
+
+Cidades cobertas pelo mamógrafo 152 => Capanema, 
+
+
+Cidades cobertas pelo mamógrafo 153 => Santo Antônio do Sudoeste, 
+
+
+Cidades cobertas pelo mamógrafo 154 => Terra Roxa, 
+
+
+Cidades cobertas pelo mamógrafo 155 => Campo Mourão, 
+
+
+Cidades cobertas pelo mamógrafo 156 => Corbélia, 
+
+
+Cidades cobertas pelo mamógrafo 157 => Siqueira Campos, 
+
+
+Cidades cobertas pelo mamógrafo 158 => Ampére, 
+
+
+Cidades cobertas pelo mamógrafo 159 => 
+
+
+Cidades cobertas pelo mamógrafo 160 => Realeza, 
+
+
+Cidades cobertas pelo mamógrafo 161 => Engenheiro Beltrão, 
+
+
+Cidades cobertas pelo mamógrafo 162 => Assaí, 
+
+
+Cidades cobertas pelo mamógrafo 163 => Clevelândia, Vitorino, 
+
+
+Cidades cobertas pelo mamógrafo 164 => Tibagi, 
+
+
+Cidades cobertas pelo mamógrafo 165 => Bela Vista do Paraíso, 
+
+
+Cidades cobertas pelo mamógrafo 166 => Londrina, 
+
+
+Cidades cobertas pelo mamógrafo 167 => Faxinal, Novo Itacolomi, Rio Branco do Ivaí, 
+
+
+Cidades cobertas pelo mamógrafo 168 => Iporã, 
+
+
+Cidades cobertas pelo mamógrafo 169 => Cafelândia, 
+
+
+Cidades cobertas pelo mamógrafo 170 => Matelândia, 
+
+
+Cidades cobertas pelo mamógrafo 171 => Terra Boa, 
+
+
+Cidades cobertas pelo mamógrafo 172 => Quitandinha, 
+
+
+Cidades cobertas pelo mamógrafo 173 => Cruz Machado, 
+
+
+Cidades cobertas pelo mamógrafo 174 => Campina da Lagoa, Iguatu, 
+
+
+Cidades cobertas pelo mamógrafo 175 => Boa Esperança, Mamborê, 
+
+
+
+Lista de mamógrafos na cidade Almirante Tamandaré: 58, 148, 
+
+
+Lista de mamógrafos na cidade Altônia: 141, 
+
+
+Lista de mamógrafos na cidade Ampére: 158, 
+
+
+Lista de mamógrafos na cidade Andirá: 137, 
+
+
+Lista de mamógrafos na cidade Antonina: 
+
+
+Lista de mamógrafos na cidade Apucarana: 37, 77, 
+
+
+Lista de mamógrafos na cidade Arapongas: 51, 102, 
+
+
+Lista de mamógrafos na cidade Arapoti: 131, 
+
+
+Lista de mamógrafos na cidade Araucária: 46, 99, 
+
+
+Lista de mamógrafos na cidade Assaí: 162, 
+
+
+Lista de mamógrafos na cidade Assis Chateaubriand: 95, 
+
+
+Lista de mamógrafos na cidade Astorga: 127, 
+
+
+Lista de mamógrafos na cidade Bandeirantes: 101, 121, 
+
+
+Lista de mamógrafos na cidade Bela Vista do Paraíso: 165, 
+
+
+Lista de mamógrafos na cidade Cafelândia: 169, 
+
+
+Lista de mamógrafos na cidade Cambará: 126, 
+
+
+Lista de mamógrafos na cidade Cambé: 57, 122, 
+
+
+Lista de mamógrafos na cidade Campina da Lagoa: 174, 
+
+
+Lista de mamógrafos na cidade Campina Grande do Sul: 96, 
+
+
+Lista de mamógrafos na cidade Campo Largo: 45, 93, 
+
+
+Lista de mamógrafos na cidade Campo Magro: 130, 
+
+
+Lista de mamógrafos na cidade Campo Mourão: 60, 155, 
+
+
+Lista de mamógrafos na cidade Cândido de Abreu: 
+
+
+Lista de mamógrafos na cidade Capanema: 152, 
+
+
+Lista de mamógrafos na cidade Capitão Leônidas Marques: 
+
+
+Lista de mamógrafos na cidade Carambeí: 
+
+
+Lista de mamógrafos na cidade Cascavel: 5, 21, 34, 72, 
+
+
+Lista de mamógrafos na cidade Castro: 75, 
+
+
+Lista de mamógrafos na cidade Cerro Azul: 
+
+
+Lista de mamógrafos na cidade Chopinzinho: 149, 
+
+
+Lista de mamógrafos na cidade Cianorte: 69, 
+
+
+Lista de mamógrafos na cidade Clevelândia: 163, 
+
+
+Lista de mamógrafos na cidade Colombo: 23, 40, 80, 
+
+
+Lista de mamógrafos na cidade Colorado: 133, 
+
+
+Lista de mamógrafos na cidade Contenda: 
+
+
+Lista de mamógrafos na cidade Corbélia: 156, 
+
+
+Lista de mamógrafos na cidade Cornélio Procópio: 81, 
+
+
+Lista de mamógrafos na cidade Coronel Vivida: 132, 
+
+
+Lista de mamógrafos na cidade Cruzeiro do Oeste: 139, 
+
+
+Lista de mamógrafos na cidade Cruz Machado: 173, 
+
+
+Lista de mamógrafos na cidade Curitiba: 0, 1, 7, 8, 9, 11, 13, 18, 20, 22, 24, 25, 28, 36, 38, 39, 42, 44, 48, 49, 50, 53, 54, 59, 62, 84, 
+
+
+Lista de mamógrafos na cidade Dois Vizinhos: 97, 
+
+
+Lista de mamógrafos na cidade Engenheiro Beltrão: 161, 
+
+
+Lista de mamógrafos na cidade Faxinal: 167, 
+
+
+Lista de mamógrafos na cidade Fazenda Rio Grande: 68, 
+
+
+Lista de mamógrafos na cidade Foz do Iguaçu: 6, 27, 55, 116, 
+
+
+Lista de mamógrafos na cidade Francisco Beltrão: 66, 
+
+
+Lista de mamógrafos na cidade Goioerê: 112, 
+
+
+Lista de mamógrafos na cidade Guaíra: 115, 
+
+
+Lista de mamógrafos na cidade Guaraniaçu: 
+
+
+Lista de mamógrafos na cidade Guarapuava: 31, 61, 
+
+
+Lista de mamógrafos na cidade Guaratuba: 104, 
+
+
+Lista de mamógrafos na cidade Ibaiti: 118, 
+
+
+Lista de mamógrafos na cidade Ibiporã: 79, 
+
+
+Lista de mamógrafos na cidade Imbituva: 124, 
+
+
+Lista de mamógrafos na cidade Iporã: 168, 
+
+
+Lista de mamógrafos na cidade Irati: 76, 
+
+
+Lista de mamógrafos na cidade Itaperuçu: 151, 
+
+
+Lista de mamógrafos na cidade Ivaiporã: 106, 
+
+
+Lista de mamógrafos na cidade Jacarezinho: 89, 
+
+
+Lista de mamógrafos na cidade Jaguariaíva: 109, 
+
+
+Lista de mamógrafos na cidade Jandaia do Sul: 135, 
+
+
+Lista de mamógrafos na cidade Lapa: 91, 
+
+
+Lista de mamógrafos na cidade Laranjeiras do Sul: 
+
+
+Lista de mamógrafos na cidade Loanda: 
+
+
+Lista de mamógrafos na cidade Londrina: 3, 10, 16, 17, 30, 65, 166, 
+
+
+Lista de mamógrafos na cidade Mamborê: 175, 
+
+
+Lista de mamógrafos na cidade Mandaguaçu: 144, 147, 
+
+
+Lista de mamógrafos na cidade Mandaguari: 100, 
+
+
+Lista de mamógrafos na cidade Mandirituba: 143, 
+
+
+Lista de mamógrafos na cidade Mangueirinha: 
+
+
+Lista de mamógrafos na cidade Marechal Cândido Rondon: 88, 
+
+
+Lista de mamógrafos na cidade Marialva: 103, 159, 
+
+
+Lista de mamógrafos na cidade Maringá: 2, 14, 26, 56, 136, 
+
+
+Lista de mamógrafos na cidade Matelândia: 170, 
+
+
+Lista de mamógrafos na cidade Matinhos: 105, 
+
+
+Lista de mamógrafos na cidade Medianeira: 87, 
+
+
+Lista de mamógrafos na cidade Morretes: 
+
+
+Lista de mamógrafos na cidade Nova Esperança: 117, 
+
+
+Lista de mamógrafos na cidade Ortigueira: 145, 
+
+
+Lista de mamógrafos na cidade Paiçandu: 98, 113, 
+
+
+Lista de mamógrafos na cidade Palmas: 94, 
+
+
+Lista de mamógrafos na cidade Palmeira: 111, 
+
+
+Lista de mamógrafos na cidade Palotina: 114, 
+
+
+Lista de mamógrafos na cidade Paranaguá: 35, 78, 
+
+
+Lista de mamógrafos na cidade Paranavaí: 63, 
+
+
+Lista de mamógrafos na cidade Pato Branco: 71, 
+
+
+Lista de mamógrafos na cidade Pinhais: 43, 86, 
+
+
+Lista de mamógrafos na cidade Pinhão: 
+
+
+Lista de mamógrafos na cidade Piraí do Sul: 138, 
+
+
+Lista de mamógrafos na cidade Piraquara: 67, 
+
+
+Lista de mamógrafos na cidade Pitanga: 108, 
+
+
+Lista de mamógrafos na cidade Planalto: 128, 
+
+
+Lista de mamógrafos na cidade Ponta Grossa: 4, 15, 19, 33, 73, 
+
+
+Lista de mamógrafos na cidade Pontal do Paraná: 134, 
+
+
+Lista de mamógrafos na cidade Porecatu: 
+
+
+Lista de mamógrafos na cidade Prudentópolis: 83, 
+
+
+Lista de mamógrafos na cidade Quatro Barras: 150, 
+
+
+Lista de mamógrafos na cidade Quedas do Iguaçu: 123, 
+
+
+Lista de mamógrafos na cidade Quitandinha: 172, 
+
+
+Lista de mamógrafos na cidade Realeza: 160, 
+
+
+Lista de mamógrafos na cidade Reserva: 
+
+
+Lista de mamógrafos na cidade Rio Branco do Sul: 120, 140, 
+
+
+Lista de mamógrafos na cidade Rio Negro: 110, 
+
+
+Lista de mamógrafos na cidade Rolândia: 74, 
+
+
+Lista de mamógrafos na cidade Santa Helena: 
+
+
+Lista de mamógrafos na cidade Santa Terezinha de Itaipu: 142, 
+
+
+Lista de mamógrafos na cidade Santo Antônio da Platina: 90, 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Sudoeste: 153, 
+
+
+Lista de mamógrafos na cidade São José dos Pinhais: 12, 29, 52, 119, 
+
+
+Lista de mamógrafos na cidade São Mateus do Sul: 92, 
+
+
+Lista de mamógrafos na cidade São Miguel do Iguaçu: 125, 
+
+
+Lista de mamógrafos na cidade Sarandi: 64, 
+
+
+Lista de mamógrafos na cidade Sengés: 
+
+
+Lista de mamógrafos na cidade Sertanópolis: 
+
+
+Lista de mamógrafos na cidade Siqueira Campos: 157, 
+
+
+Lista de mamógrafos na cidade Tapejara: 32, 
+
+
+Lista de mamógrafos na cidade Telêmaco Borba: 70, 
+
+
+Lista de mamógrafos na cidade Terra Boa: 171, 
+
+
+Lista de mamógrafos na cidade Terra Rica: 
+
+
+Lista de mamógrafos na cidade Terra Roxa: 154, 
+
+
+Lista de mamógrafos na cidade Tibagi: 164, 
+
+
+Lista de mamógrafos na cidade Toledo: 41, 82, 
+
+
+Lista de mamógrafos na cidade Ubiratã: 129, 
+
+
+Lista de mamógrafos na cidade Umuarama: 47, 107, 
+
+
+Lista de mamógrafos na cidade União da Vitória: 85, 
+
+
+Lista de mamógrafos na cidade Wenceslau Braz: 146, 
+
+
+
+Cobertura da demanda
+Cidade Abatiá:  0/696 => 0.0%
+Cidade Adrianópolis:  0/496 => 0.0%
+Cidade Agudos do Sul:  0/667 => 0.0%
+Cidade Almirante Tamandaré:  8475/8475 => 100.0%
+Mamógrafo 58 instalado em Almirante Tamandaré => 6758/8475
+Mamógrafo 148 instalado em Almirante Tamandaré => 1717/8475
+Cidade Altamira do Paraná:  0/376 => 0.0%
+Cidade Altônia:  1888/1888 => 100.0%
+Mamógrafo 141 instalado em Altônia => 1888/1888
+Cidade Alto Paraná:  0/1243 => 0.0%
+Cidade Alto Piquiri:  0/891 => 0.0%
+Cidade Alvorada do Sul:  0/948 => 0.0%
+Cidade Amaporã:  0/456 => 0.0%
+Cidade Ampére:  1512/1512 => 100.0%
+Mamógrafo 158 instalado em Ampére => 1512/1512
+Cidade Anahy:  0/259 => 0.0%
+Cidade Andirá:  1963/1963 => 100.0%
+Mamógrafo 137 instalado em Andirá => 1963/1963
+Cidade Ângulo:  0/256 => 0.0%
+Cidade Antonina:  0/1615 => 0.0%
+Cidade Antônio Olinto:  625/625 => 100.0%
+Mamógrafo 92 instalado em São Mateus do Sul => 625/625
+Cidade Apucarana:  11400/11400 => 100.0%
+Mamógrafo 37 instalado em Apucarana => 6758/11400
+Mamógrafo 77 instalado em Apucarana => 4642/11400
+Cidade Arapongas:  9658/9658 => 100.0%
+Mamógrafo 51 instalado em Arapongas => 6758/9658
+Mamógrafo 102 instalado em Arapongas => 2900/9658
+Cidade Arapoti:  2089/2089 => 100.0%
+Mamógrafo 131 instalado em Arapoti => 2089/2089
+Cidade Arapuã:  313/313 => 100.0%
+Mamógrafo 106 instalado em Ivaiporã => 313/313
+Cidade Araruna:  0/1225 => 0.0%
+Cidade Araucária:  9996/9996 => 100.0%
+Mamógrafo 46 instalado em Araucária => 6758/9996
+Mamógrafo 99 instalado em Araucária => 3238/9996
+Cidade Ariranha do Ivaí:  215/215 => 100.0%
+Mamógrafo 106 instalado em Ivaiporã => 215/215
+Cidade Assaí:  1480/1480 => 100.0%
+Mamógrafo 162 instalado em Assaí => 1480/1480
+Cidade Assis Chateaubriand:  3252/3252 => 100.0%
+Mamógrafo 95 instalado em Assis Chateaubriand => 3252/3252
+Cidade Astorga:  2390/2390 => 100.0%
+Mamógrafo 127 instalado em Astorga => 2390/2390
+Cidade Atalaia:  0/385 => 0.0%
+Cidade Balsa Nova:  0/966 => 0.0%
+Cidade Bandeirantes:  3004/3004 => 100.0%
+Mamógrafo 101 instalado em Bandeirantes => 3004/3004
+Cidade Barbosa Ferraz:  0/1163 => 0.0%
+Cidade Barracão:  0/855 => 0.0%
+Cidade Barra do Jacaré:  0/265 => 0.0%
+Cidade Bela Vista da Caroba:  0/360 => 0.0%
+Cidade Bela Vista do Paraíso:  1426/1426 => 100.0%
+Mamógrafo 165 instalado em Bela Vista do Paraíso => 1426/1426
+Cidade Bituruna:  0/1211 => 0.0%
+Cidade Boa Esperança:  452/452 => 100.0%
+Mamógrafo 175 instalado em Mamborê => 452/452
+Cidade Boa Esperança do Iguaçu:  239/239 => 100.0%
+Mamógrafo 97 instalado em Dois Vizinhos => 239/239
+Cidade Boa Ventura de São Roque:  0/499 => 0.0%
+Cidade Boa Vista da Aparecida:  0/677 => 0.0%
+Cidade Bocaiúva do Sul:  0/841 => 0.0%
+Cidade Bom Jesus do Sul:  0/320 => 0.0%
+Cidade Bom Sucesso:  0/578 => 0.0%
+Cidade Bom Sucesso do Sul:  0/307 => 0.0%
+Cidade Borrazópolis:  0/775 => 0.0%
+Cidade Braganey:  0/493 => 0.0%
+Cidade Brasilândia do Sul:  0/306 => 0.0%
+Cidade Cafeara:  0/241 => 0.0%
+Cidade Cafelândia:  1281/1281 => 100.0%
+Mamógrafo 169 instalado em Cafelândia => 1281/1281
+Cidade Cafezal do Sul:  0/410 => 0.0%
+Cidade Califórnia:  0/726 => 0.0%
+Cidade Cambará:  2221/2221 => 100.0%
+Mamógrafo 126 instalado em Cambará => 2221/2221
+Cidade Cambé:  9051/9051 => 100.0%
+Mamógrafo 57 instalado em Cambé => 6758/9051
+Mamógrafo 122 instalado em Cambé => 2293/9051
+Cidade Cambira:  0/676 => 0.0%
+Cidade Campina da Lagoa:  1412/1412 => 100.0%
+Mamógrafo 174 instalado em Campina da Lagoa => 1412/1412
+Cidade Campina do Simão:  323/323 => 100.0%
+Mamógrafo 108 instalado em Pitanga => 323/323
+Cidade Campina Grande do Sul:  3228/3228 => 100.0%
+Mamógrafo 96 instalado em Campina Grande do Sul => 3228/3228
+Cidade Campo Bonito:  0/371 => 0.0%
+Cidade Campo do Tenente:  534/534 => 100.0%
+Mamógrafo 110 instalado em Rio Negro => 534/534
+Cidade Campo Largo:  10055/10055 => 100.0%
+Mamógrafo 45 instalado em Campo Largo => 6758/10055
+Mamógrafo 93 instalado em Campo Largo => 3297/10055
+Cidade Campo Magro:  2095/2095 => 100.0%
+Mamógrafo 130 instalado em Campo Magro => 2095/2095
+Cidade Campo Mourão:  8290/8290 => 100.0%
+Mamógrafo 60 instalado em Campo Mourão => 6758/8290
+Mamógrafo 155 instalado em Campo Mourão => 1532/8290
+Cidade Cândido de Abreu:  0/1331 => 0.0%
+Cidade Candói:  0/1195 => 0.0%
+Cidade Cantagalo:  0/1047 => 0.0%
+Cidade Capanema:  1731/1731 => 100.0%
+Mamógrafo 152 instalado em Capanema => 1731/1731
+Cidade Capitão Leônidas Marques:  0/1297 => 0.0%
+Cidade Carambeí:  1436/1436 => 100.0%
+Mamógrafo 75 instalado em Castro => 1436/1436
+Cidade Carlópolis:  0/1213 => 0.0%
+Cidade Cascavel:  25896/25896 => 100.0%
+Mamógrafo 5 instalado em Cascavel => 6758/25896
+Mamógrafo 21 instalado em Cascavel => 6758/25896
+Mamógrafo 34 instalado em Cascavel => 6758/25896
+Mamógrafo 72 instalado em Cascavel => 5622/25896
+Cidade Castro:  5262/5262 => 100.0%
+Mamógrafo 75 instalado em Castro => 5262/5262
+Cidade Catanduvas:  0/807 => 0.0%
+Cidade Centenário do Sul:  0/1052 => 0.0%
+Cidade Cerro Azul:  0/1254 => 0.0%
+Cidade Céu Azul:  0/1016 => 0.0%
+Cidade Chopinzinho:  1751/1751 => 100.0%
+Mamógrafo 149 instalado em Chopinzinho => 1751/1751
+Cidade Cianorte:  6535/6535 => 100.0%
+Mamógrafo 69 instalado em Cianorte => 6535/6535
+Cidade Cidade Gaúcha:  0/939 => 0.0%
+Cidade Clevelândia:  1506/1506 => 100.0%
+Mamógrafo 163 instalado em Clevelândia => 1506/1506
+Cidade Colombo:  17978/17978 => 100.0%
+Mamógrafo 23 instalado em Colombo => 6758/17978
+Mamógrafo 40 instalado em Colombo => 6758/17978
+Mamógrafo 80 instalado em Colombo => 4462/17978
+Cidade Colorado:  2197/2197 => 100.0%
+Mamógrafo 133 instalado em Colorado => 2197/2197
+Cidade Congonhinhas:  0/687 => 0.0%
+Cidade Conselheiro Mairinck:  0/308 => 0.0%
+Cidade Contenda:  0/1316 => 0.0%
+Cidade Corbélia:  1518/1518 => 100.0%
+Mamógrafo 156 instalado em Corbélia => 1518/1518
+Cidade Cornélio Procópio:  4662/4662 => 100.0%
+Mamógrafo 81 instalado em Cornélio Procópio => 4662/4662
+Cidade Coronel Domingos Soares:  498/498 => 100.0%
+Mamógrafo 94 instalado em Palmas => 498/498
+Cidade Coronel Vivida:  2003/2003 => 100.0%
+Mamógrafo 132 instalado em Coronel Vivida => 2003/2003
+Cidade Corumbataí do Sul:  0/361 => 0.0%
+Cidade Cruzeiro do Iguaçu:  374/374 => 100.0%
+Mamógrafo 97 instalado em Dois Vizinhos => 374/374
+Cidade Cruzeiro do Oeste:  1895/1895 => 100.0%
+Mamógrafo 139 instalado em Cruzeiro do Oeste => 1895/1895
+Cidade Cruzeiro do Sul:  0/427 => 0.0%
+Cidade Cruz Machado:  1379/1379 => 100.0%
+Mamógrafo 173 instalado em Cruz Machado => 1379/1379
+Cidade Cruzmaltina:  286/286 => 100.0%
+Mamógrafo 106 instalado em Ivaiporã => 286/286
+Cidade Curitiba:  172901/172901 => 100.0%
+Mamógrafo 0 instalado em Curitiba => 6758/172901
+Mamógrafo 1 instalado em Curitiba => 6758/172901
+Mamógrafo 7 instalado em Curitiba => 6758/172901
+Mamógrafo 8 instalado em Curitiba => 6758/172901
+Mamógrafo 9 instalado em Curitiba => 6758/172901
+Mamógrafo 11 instalado em Curitiba => 6758/172901
+Mamógrafo 13 instalado em Curitiba => 6758/172901
+Mamógrafo 18 instalado em Curitiba => 6758/172901
+Mamógrafo 20 instalado em Curitiba => 6758/172901
+Mamógrafo 22 instalado em Curitiba => 6758/172901
+Mamógrafo 24 instalado em Curitiba => 6758/172901
+Mamógrafo 25 instalado em Curitiba => 6758/172901
+Mamógrafo 28 instalado em Curitiba => 6758/172901
+Mamógrafo 36 instalado em Curitiba => 6758/172901
+Mamógrafo 38 instalado em Curitiba => 6758/172901
+Mamógrafo 39 instalado em Curitiba => 6758/172901
+Mamógrafo 42 instalado em Curitiba => 6758/172901
+Mamógrafo 44 instalado em Curitiba => 6758/172901
+Mamógrafo 48 instalado em Curitiba => 6758/172901
+Mamógrafo 49 instalado em Curitiba => 6758/172901
+Mamógrafo 50 instalado em Curitiba => 6758/172901
+Mamógrafo 53 instalado em Curitiba => 6758/172901
+Mamógrafo 54 instalado em Curitiba => 6758/172901
+Mamógrafo 59 instalado em Curitiba => 6758/172901
+Mamógrafo 62 instalado em Curitiba => 6758/172901
+Mamógrafo 84 instalado em Curitiba => 3951/172901
+Cidade Curiúva:  0/1126 => 0.0%
+Cidade Diamante do Norte:  0/508 => 0.0%
+Cidade Diamante do Sul:  0/263 => 0.0%
+Cidade Diamante D'Oeste:  0/399 => 0.0%
+Cidade Dois Vizinhos:  3226/3226 => 100.0%
+Mamógrafo 97 instalado em Dois Vizinhos => 3226/3226
+Cidade Douradina:  0/657 => 0.0%
+Cidade Doutor Camargo:  0/595 => 0.0%
+Cidade Enéas Marques:  0/578 => 0.0%
+Cidade Engenheiro Beltrão:  1319/1319 => 100.0%
+Mamógrafo 161 instalado em Engenheiro Beltrão => 1319/1319
+Cidade Esperança Nova:  186/186 => 100.0%
+Mamógrafo 141 instalado em Altônia => 186/186
+Cidade Entre Rios do Oeste:  0/364 => 0.0%
+Cidade Espigão Alto do Iguaçu:  363/363 => 100.0%
+Mamógrafo 123 instalado em Quedas do Iguaçu => 363/363
+Cidade Farol:  312/312 => 100.0%
+Mamógrafo 112 instalado em Goioerê => 312/312
+Cidade Faxinal:  1415/1415 => 100.0%
+Mamógrafo 167 instalado em Faxinal => 1415/1415
+Cidade Fazenda Rio Grande:  6614/6614 => 100.0%
+Mamógrafo 68 instalado em Fazenda Rio Grande => 6614/6614
+Cidade Fênix:  0/441 => 0.0%
+Cidade Fernandes Pinheiro:  0/468 => 0.0%
+Cidade Figueira:  0/738 => 0.0%
+Cidade Floraí:  0/513 => 0.0%
+Cidade Flor da Serra do Sul:  0/402 => 0.0%
+Cidade Floresta:  0/565 => 0.0%
+Cidade Florestópolis:  0/985 => 0.0%
+Cidade Flórida:  0/238 => 0.0%
+Cidade Formosa do Oeste:  0/777 => 0.0%
+Cidade Foz do Iguaçu:  22878/22878 => 100.0%
+Mamógrafo 6 instalado em Foz do Iguaçu => 6758/22878
+Mamógrafo 27 instalado em Foz do Iguaçu => 6758/22878
+Mamógrafo 55 instalado em Foz do Iguaçu => 6758/22878
+Mamógrafo 116 instalado em Foz do Iguaçu => 2604/22878
+Cidade Francisco Alves:  593/593 => 100.0%
+Mamógrafo 115 instalado em Guaíra => 593/593
+Cidade Francisco Beltrão:  6758/7150 => 94.51748251748252%
+Mamógrafo 66 instalado em Francisco Beltrão => 6758/7150
+Cidade Foz do Jordão:  0/425 => 0.0%
+Cidade General Carneiro:  0/1015 => 0.0%
+Cidade Godoy Moreira:  0/318 => 0.0%
+Cidade Goioerê:  2777/2777 => 100.0%
+Mamógrafo 112 instalado em Goioerê => 2777/2777
+Cidade Goioxim:  0/571 => 0.0%
+Cidade Grandes Rios:  0/600 => 0.0%
+Cidade Guaíra:  2617/2617 => 100.0%
+Mamógrafo 115 instalado em Guaíra => 2617/2617
+Cidade Guairaçá:  0/534 => 0.0%
+Cidade Guamiranga:  639/639 => 100.0%
+Mamógrafo 83 instalado em Prudentópolis => 639/639
+Cidade Guapirama:  0/357 => 0.0%
+Cidade Guaporema:  0/200 => 0.0%
+Cidade Guaraci:  0/465 => 0.0%
+Cidade Guaraniaçu:  0/1304 => 0.0%
+Cidade Guarapuava:  13516/14870 => 90.8944182918628%
+Mamógrafo 31 instalado em Guarapuava => 6758/14870
+Mamógrafo 61 instalado em Guarapuava => 6758/14870
+Cidade Guaraqueçaba:  0/553 => 0.0%
+Cidade Guaratuba:  2883/2883 => 100.0%
+Mamógrafo 104 instalado em Guaratuba => 2883/2883
+Cidade Honório Serpa:  0/485 => 0.0%
+Cidade Ibaiti:  2460/2460 => 100.0%
+Mamógrafo 118 instalado em Ibaiti => 2460/2460
+Cidade Ibema:  0/484 => 0.0%
+Cidade Ibiporã:  4542/4542 => 100.0%
+Mamógrafo 79 instalado em Ibiporã => 4542/4542
+Cidade Icaraíma:  0/805 => 0.0%
+Cidade Iguaraçu:  0/366 => 0.0%
+Cidade Iguatu:  193/193 => 100.0%
+Mamógrafo 174 instalado em Campina da Lagoa => 193/193
+Cidade Imbaú:  829/829 => 100.0%
+Mamógrafo 145 instalado em Ortigueira => 829/829
+Cidade Imbituva:  2258/2258 => 100.0%
+Mamógrafo 124 instalado em Imbituva => 2258/2258
+Cidade Inácio Martins:  0/789 => 0.0%
+Cidade Inajá:  0/266 => 0.0%
+Cidade Indianópolis:  0/410 => 0.0%
+Cidade Ipiranga:  0/1052 => 0.0%
+Cidade Iporã:  1422/1422 => 100.0%
+Mamógrafo 168 instalado em Iporã => 1422/1422
+Cidade Iracema do Oeste:  0/247 => 0.0%
+Cidade Irati:  5073/5073 => 100.0%
+Mamógrafo 76 instalado em Irati => 5073/5073
+Cidade Iretama:  0/941 => 0.0%
+Cidade Itaguajé:  0/413 => 0.0%
+Cidade Itaipulândia:  0/761 => 0.0%
+Cidade Itambaracá:  0/616 => 0.0%
+Cidade Itambé:  0/561 => 0.0%
+Cidade Itapejara d'Oeste:  0/985 => 0.0%
+Cidade Itaperuçu:  1695/1695 => 100.0%
+Mamógrafo 151 instalado em Itaperuçu => 1695/1695
+Cidade Itaúna do Sul:  0/292 => 0.0%
+Cidade Ivaí:  0/935 => 0.0%
+Cidade Ivaiporã:  3040/3040 => 100.0%
+Mamógrafo 106 instalado em Ivaiporã => 3040/3040
+Cidade Ivaté:  0/663 => 0.0%
+Cidade Ivatuba:  0/258 => 0.0%
+Cidade Jaboti:  0/432 => 0.0%
+Cidade Jacarezinho:  3534/3534 => 100.0%
+Mamógrafo 89 instalado em Jacarezinho => 3534/3534
+Cidade Jaguapitã:  0/1097 => 0.0%
+Cidade Jaguariaíva:  2720/2720 => 100.0%
+Mamógrafo 109 instalado em Jaguariaíva => 2720/2720
+Cidade Jandaia do Sul:  1963/1963 => 100.0%
+Mamógrafo 135 instalado em Jandaia do Sul => 1963/1963
+Cidade Janiópolis:  0/612 => 0.0%
+Cidade Japira:  0/420 => 0.0%
+Cidade Japurá:  0/841 => 0.0%
+Cidade Jardim Alegre:  0/1121 => 0.0%
+Cidade Jardim Olinda:  130/130 => 100.0%
+Mamógrafo 133 instalado em Colorado => 130/130
+Cidade Jataizinho:  0/1028 => 0.0%
+Cidade Jesuítas:  0/871 => 0.0%
+Cidade Joaquim Távora:  0/943 => 0.0%
+Cidade Jundiaí do Sul:  0/314 => 0.0%
+Cidade Juranda:  0/725 => 0.0%
+Cidade Jussara:  0/591 => 0.0%
+Cidade Kaloré:  0/437 => 0.0%
+Cidade Lapa:  3835/3835 => 100.0%
+Mamógrafo 91 instalado em Lapa => 3835/3835
+Cidade Laranjal:  0/443 => 0.0%
+Cidade Laranjeiras do Sul:  0/2631 => 0.0%
+Cidade Leópolis:  0/394 => 0.0%
+Cidade Lidianópolis:  0/386 => 0.0%
+Cidade Lindoeste:  0/489 => 0.0%
+Cidade Loanda:  0/1941 => 0.0%
+Cidade Lobato:  0/428 => 0.0%
+Cidade Londrina:  47306/48750 => 97.03794871794872%
+Mamógrafo 3 instalado em Londrina => 6758/48750
+Mamógrafo 10 instalado em Londrina => 6758/48750
+Mamógrafo 16 instalado em Londrina => 6758/48750
+Mamógrafo 17 instalado em Londrina => 6758/48750
+Mamógrafo 30 instalado em Londrina => 6758/48750
+Mamógrafo 65 instalado em Londrina => 6758/48750
+Mamógrafo 166 instalado em Londrina => 6758/48750
+Cidade Luiziana:  0/613 => 0.0%
+Cidade Lunardelli:  0/489 => 0.0%
+Cidade Lupionópolis:  0/416 => 0.0%
+Cidade Mallet:  0/1058 => 0.0%
+Cidade Mamborê:  1315/1315 => 100.0%
+Mamógrafo 175 instalado em Mamborê => 1315/1315
+Cidade Mandaguaçu:  1787/1787 => 100.0%
+Mamógrafo 144 instalado em Mandaguaçu => 1787/1787
+Cidade Mandaguari:  3098/3098 => 100.0%
+Mamógrafo 100 instalado em Mandaguari => 3098/3098
+Cidade Mandirituba:  1821/1821 => 100.0%
+Mamógrafo 143 instalado em Mandirituba => 1821/1821
+Cidade Manfrinópolis:  0/256 => 0.0%
+Cidade Mangueirinha:  0/1367 => 0.0%
+Cidade Manoel Ribas:  0/1070 => 0.0%
+Cidade Marechal Cândido Rondon:  4396/4396 => 100.0%
+Mamógrafo 88 instalado em Marechal Cândido Rondon => 4396/4396
+Cidade Maria Helena:  0/549 => 0.0%
+Cidade Marialva:  3001/3001 => 100.0%
+Mamógrafo 103 instalado em Marialva => 3001/3001
+Cidade Marilândia do Sul:  0/763 => 0.0%
+Cidade Marilena:  0/580 => 0.0%
+Cidade Mariluz:  0/842 => 0.0%
+Cidade Maringá:  33790/35720 => 94.59686450167973%
+Mamógrafo 2 instalado em Maringá => 6758/35720
+Mamógrafo 14 instalado em Maringá => 6758/35720
+Mamógrafo 26 instalado em Maringá => 6758/35720
+Mamógrafo 56 instalado em Maringá => 6758/35720
+Mamógrafo 136 instalado em Maringá => 6758/35720
+Cidade Mariópolis:  0/582 => 0.0%
+Cidade Maripá:  0/529 => 0.0%
+Cidade Marmeleiro:  0/1239 => 0.0%
+Cidade Marquinho:  0/403 => 0.0%
+Cidade Marumbi:  0/422 => 0.0%
+Cidade Matelândia:  1406/1406 => 100.0%
+Mamógrafo 170 instalado em Matelândia => 1406/1406
+Cidade Matinhos:  2889/2889 => 100.0%
+Mamógrafo 105 instalado em Matinhos => 2889/2889
+Cidade Mato Rico:  324/324 => 100.0%
+Mamógrafo 108 instalado em Pitanga => 324/324
+Cidade Mauá da Serra:  0/648 => 0.0%
+Cidade Medianeira:  3857/3857 => 100.0%
+Mamógrafo 87 instalado em Medianeira => 3857/3857
+Cidade Mercedes:  455/455 => 100.0%
+Mamógrafo 115 instalado em Guaíra => 455/455
+Cidade Mirador:  0/193 => 0.0%
+Cidade Miraselva:  0/166 => 0.0%
+Cidade Missal:  0/988 => 0.0%
+Cidade Moreira Sales:  0/1204 => 0.0%
+Cidade Morretes:  0/1299 => 0.0%
+Cidade Munhoz de Melo:  0/322 => 0.0%
+Cidade Nossa Senhora das Graças:  0/366 => 0.0%
+Cidade Nova Aliança do Ivaí:  0/122 => 0.0%
+Cidade Nova América da Colina:  0/303 => 0.0%
+Cidade Nova Aurora:  0/1146 => 0.0%
+Cidade Nova Cantu:  0/661 => 0.0%
+Cidade Nova Esperança:  2503/2503 => 100.0%
+Mamógrafo 117 instalado em Nova Esperança => 2503/2503
+Cidade Nova Esperança do Sudoeste:  0/431 => 0.0%
+Cidade Nova Fátima:  0/719 => 0.0%
+Cidade Nova Laranjeiras:  0/858 => 0.0%
+Cidade Nova Londrina:  0/1176 => 0.0%
+Cidade Nova Olímpia:  0/507 => 0.0%
+Cidade Nova Santa Bárbara:  0/350 => 0.0%
+Cidade Nova Santa Rosa:  0/699 => 0.0%
+Cidade Nova Prata do Iguaçu:  0/892 => 0.0%
+Cidade Nova Tebas:  0/651 => 0.0%
+Cidade Novo Itacolomi:  257/257 => 100.0%
+Mamógrafo 167 instalado em Faxinal => 257/257
+Cidade Ortigueira:  1813/1813 => 100.0%
+Mamógrafo 145 instalado em Ortigueira => 1813/1813
+Cidade Ourizona:  0/315 => 0.0%
+Cidade Ouro Verde do Oeste:  0/488 => 0.0%
+Cidade Paiçandu:  3217/3217 => 100.0%
+Mamógrafo 98 instalado em Paiçandu => 3217/3217
+Cidade Palmas:  3234/3234 => 100.0%
+Mamógrafo 94 instalado em Palmas => 3234/3234
+Cidade Palmeira:  2743/2743 => 100.0%
+Mamógrafo 111 instalado em Palmeira => 2743/2743
+Cidade Palmital:  0/1177 => 0.0%
+Cidade Palotina:  2657/2657 => 100.0%
+Mamógrafo 114 instalado em Palotina => 2657/2657
+Cidade Paraíso do Norte:  0/1039 => 0.0%
+Cidade Paranacity:  0/843 => 0.0%
+Cidade Paranaguá:  11978/11978 => 100.0%
+Mamógrafo 35 instalado em Paranaguá => 6758/11978
+Mamógrafo 78 instalado em Paranaguá => 5220/11978
+Cidade Paranapoema:  0/236 => 0.0%
+Cidade Paranavaí:  6758/7865 => 85.9249841068023%
+Mamógrafo 63 instalado em Paranavaí => 6758/7865
+Cidade Pato Bragado:  0/435 => 0.0%
+Cidade Pato Branco:  6778/6778 => 100.0%
+Mamógrafo 71 instalado em Pato Branco => 6758/6778
+Mamógrafo 132 instalado em Coronel Vivida => 20/6778
+Cidade Paula Freitas:  447/447 => 100.0%
+Mamógrafo 85 instalado em União da Vitória => 447/447
+Cidade Paulo Frontin:  559/559 => 100.0%
+Mamógrafo 92 instalado em São Mateus do Sul => 559/559
+Cidade Peabiru:  0/1236 => 0.0%
+Cidade Perobal:  0/523 => 0.0%
+Cidade Pérola:  0/963 => 0.0%
+Cidade Pérola d'Oeste:  0/660 => 0.0%
+Cidade Piên:  0/875 => 0.0%
+Cidade Pinhais:  10596/10596 => 100.0%
+Mamógrafo 43 instalado em Pinhais => 6758/10596
+Mamógrafo 86 instalado em Pinhais => 3838/10596
+Cidade Pinhalão:  0/549 => 0.0%
+Cidade Pinhal de São Bento:  0/228 => 0.0%
+Cidade Pinhão:  0/2311 => 0.0%
+Cidade Piraí do Sul:  1918/1918 => 100.0%
+Mamógrafo 138 instalado em Piraí do Sul => 1918/1918
+Cidade Piraquara:  6758/7129 => 94.7959040538645%
+Mamógrafo 67 instalado em Piraquara => 6758/7129
+Cidade Pitanga:  2807/2807 => 100.0%
+Mamógrafo 108 instalado em Pitanga => 2807/2807
+Cidade Pitangueiras:  0/250 => 0.0%
+Cidade Planaltina do Paraná:  0/356 => 0.0%
+Cidade Planalto:  1308/1308 => 100.0%
+Mamógrafo 128 instalado em Planalto => 1308/1308
+Cidade Ponta Grossa:  27419/27419 => 100.0%
+Mamógrafo 4 instalado em Ponta Grossa => 6758/27419
+Mamógrafo 15 instalado em Ponta Grossa => 6758/27419
+Mamógrafo 19 instalado em Ponta Grossa => 6758/27419
+Mamógrafo 33 instalado em Ponta Grossa => 6758/27419
+Mamógrafo 73 instalado em Ponta Grossa => 387/27419
+Cidade Pontal do Paraná:  2003/2003 => 100.0%
+Mamógrafo 134 instalado em Pontal do Paraná => 2003/2003
+Cidade Porecatu:  0/1348 => 0.0%
+Cidade Porto Amazonas:  0/386 => 0.0%
+Cidade Porto Barreiro:  0/305 => 0.0%
+Cidade Porto Rico:  0/227 => 0.0%
+Cidade Porto Vitória:  332/332 => 100.0%
+Mamógrafo 85 instalado em União da Vitória => 332/332
+Cidade Prado Ferreira:  0/296 => 0.0%
+Cidade Pranchita:  0/529 => 0.0%
+Cidade Presidente Castelo Branco:  0/409 => 0.0%
+Cidade Primeiro de Maio:  0/1045 => 0.0%
+Cidade Prudentópolis:  3969/3969 => 100.0%
+Mamógrafo 83 instalado em Prudentópolis => 3969/3969
+Cidade Quarto Centenário:  0/439 => 0.0%
+Cidade Quatiguá:  0/698 => 0.0%
+Cidade Quatro Barras:  1712/1712 => 100.0%
+Mamógrafo 150 instalado em Quatro Barras => 1712/1712
+Cidade Quatro Pontes:  364/364 => 100.0%
+Mamógrafo 88 instalado em Marechal Cândido Rondon => 364/364
+Cidade Quedas do Iguaçu:  2466/2466 => 100.0%
+Mamógrafo 123 instalado em Quedas do Iguaçu => 2466/2466
+Cidade Querência do Norte:  0/988 => 0.0%
+Cidade Quinta do Sol:  0/463 => 0.0%
+Cidade Quitandinha:  1394/1394 => 100.0%
+Mamógrafo 172 instalado em Quitandinha => 1394/1394
+Cidade Ramilândia:  0/329 => 0.0%
+Cidade Rancho Alegre:  0/377 => 0.0%
+Cidade Rancho Alegre D'Oeste:  264/264 => 100.0%
+Mamógrafo 112 instalado em Goioerê => 264/264
+Cidade Realeza:  1503/1503 => 100.0%
+Mamógrafo 160 instalado em Realeza => 1503/1503
+Cidade Rebouças:  0/1184 => 0.0%
+Cidade Renascença:  0/605 => 0.0%
+Cidade Reserva:  0/1795 => 0.0%
+Cidade Reserva do Iguaçu:  0/516 => 0.0%
+Cidade Ribeirão Claro:  0/966 => 0.0%
+Cidade Ribeirão do Pinhal:  0/1175 => 0.0%
+Cidade Rio Azul:  0/1108 => 0.0%
+Cidade Rio Bom:  0/303 => 0.0%
+Cidade Rio Bonito do Iguaçu:  0/1067 => 0.0%
+Cidade Rio Branco do Ivaí:  296/296 => 100.0%
+Mamógrafo 167 instalado em Faxinal => 296/296
+Cidade Rio Branco do Sul:  2344/2344 => 100.0%
+Mamógrafo 120 instalado em Rio Branco do Sul => 2344/2344
+Cidade Rio Negro:  2667/2667 => 100.0%
+Mamógrafo 110 instalado em Rio Negro => 2667/2667
+Cidade Rolândia:  5374/5374 => 100.0%
+Mamógrafo 74 instalado em Rolândia => 5374/5374
+Cidade Roncador:  0/1013 => 0.0%
+Cidade Rondon:  0/809 => 0.0%
+Cidade Rosário do Ivaí:  0/477 => 0.0%
+Cidade Sabáudia:  0/562 => 0.0%
+Cidade Salgado Filho:  0/381 => 0.0%
+Cidade Salto do Itararé:  0/474 => 0.0%
+Cidade Salto do Lontra:  0/1193 => 0.0%
+Cidade Santa Amélia:  0/354 => 0.0%
+Cidade Santa Cecília do Pavão:  0/336 => 0.0%
+Cidade Santa Cruz de Monte Castelo:  0/729 => 0.0%
+Cidade Santa Fé:  0/999 => 0.0%
+Cidade Santa Helena:  0/2151 => 0.0%
+Cidade Santa Inês:  171/171 => 100.0%
+Mamógrafo 133 instalado em Colorado => 171/171
+Cidade Santa Isabel do Ivaí:  0/836 => 0.0%
+Cidade Santa Izabel do Oeste:  0/1156 => 0.0%
+Cidade Santa Lúcia:  0/345 => 0.0%
+Cidade Santa Maria do Oeste:  0/890 => 0.0%
+Cidade Santa Mariana:  0/1157 => 0.0%
+Cidade Santa Mônica:  0/288 => 0.0%
+Cidade Santana do Itararé:  0/459 => 0.0%
+Cidade Santa Tereza do Oeste:  0/834 => 0.0%
+Cidade Santa Terezinha de Itaipu:  1871/1871 => 100.0%
+Mamógrafo 142 instalado em Santa Terezinha de Itaipu => 1871/1871
+Cidade Santo Antônio da Platina:  3816/3816 => 100.0%
+Mamógrafo 90 instalado em Santo Antônio da Platina => 3816/3816
+Cidade Santo Antônio do Caiuá:  0/258 => 0.0%
+Cidade Santo Antônio do Paraíso:  0/218 => 0.0%
+Cidade Santo Antônio do Sudoeste:  1613/1613 => 100.0%
+Mamógrafo 153 instalado em Santo Antônio do Sudoeste => 1613/1613
+Cidade Santo Inácio:  0/477 => 0.0%
+Cidade São Carlos do Ivaí:  0/544 => 0.0%
+Cidade São Jerônimo da Serra:  0/905 => 0.0%
+Cidade São João:  0/1031 => 0.0%
+Cidade São João do Caiuá:  0/513 => 0.0%
+Cidade São João do Ivaí:  0/1118 => 0.0%
+Cidade São João do Triunfo:  0/1004 => 0.0%
+Cidade São Jorge d'Oeste:  0/849 => 0.0%
+Cidade São Jorge do Ivaí:  0/540 => 0.0%
+Cidade São Jorge do Patrocínio:  0/569 => 0.0%
+Cidade São José da Boa Vista:  0/563 => 0.0%
+Cidade São José das Palmeiras:  0/342 => 0.0%
+Cidade São José dos Pinhais:  22622/22622 => 100.0%
+Mamógrafo 12 instalado em São José dos Pinhais => 6758/22622
+Mamógrafo 29 instalado em São José dos Pinhais => 6758/22622
+Mamógrafo 52 instalado em São José dos Pinhais => 6758/22622
+Mamógrafo 119 instalado em São José dos Pinhais => 2348/22622
+Cidade São Manoel do Paraná:  0/196 => 0.0%
+Cidade São Mateus do Sul:  3398/3398 => 100.0%
+Mamógrafo 92 instalado em São Mateus do Sul => 3398/3398
+Cidade São Miguel do Iguaçu:  2291/2291 => 100.0%
+Mamógrafo 125 instalado em São Miguel do Iguaçu => 2291/2291
+Cidade São Pedro do Iguaçu:  0/582 => 0.0%
+Cidade São Pedro do Ivaí:  0/903 => 0.0%
+Cidade São Pedro do Paraná:  0/232 => 0.0%
+Cidade São Sebastião da Amoreira:  0/761 => 0.0%
+Cidade São Tomé:  0/500 => 0.0%
+Cidade Sapopema:  0/531 => 0.0%
+Cidade Sarandi:  6758/7336 => 92.12104689203926%
+Mamógrafo 64 instalado em Sarandi => 6758/7336
+Cidade Saudade do Iguaçu:  0/392 => 0.0%
+Cidade Sengés:  0/1379 => 0.0%
+Cidade Serranópolis do Iguaçu:  0/432 => 0.0%
+Cidade Sertaneja:  0/570 => 0.0%
+Cidade Sertanópolis:  0/1495 => 0.0%
+Cidade Siqueira Campos:  1668/1668 => 100.0%
+Mamógrafo 157 instalado em Siqueira Campos => 1668/1668
+Cidade Sulina:  316/316 => 100.0%
+Mamógrafo 97 instalado em Dois Vizinhos => 316/316
+Cidade Tamarana:  0/954 => 0.0%
+Cidade Tamboara:  0/437 => 0.0%
+Cidade Tapejara:  1252/1252 => 100.0%
+Mamógrafo 32 instalado em Tapejara => 1252/1252
+Cidade Tapira:  0/547 => 0.0%
+Cidade Teixeira Soares:  0/779 => 0.0%
+Cidade Telêmaco Borba:  6048/6048 => 100.0%
+Mamógrafo 70 instalado em Telêmaco Borba => 6048/6048
+Cidade Terra Boa:  1406/1406 => 100.0%
+Mamógrafo 171 instalado em Terra Boa => 1406/1406
+Cidade Terra Rica:  0/1334 => 0.0%
+Cidade Terra Roxa:  1564/1564 => 100.0%
+Mamógrafo 154 instalado em Terra Roxa => 1564/1564
+Cidade Tibagi:  1508/1508 => 100.0%
+Mamógrafo 164 instalado em Tibagi => 1508/1508
+Cidade Tijucas do Sul:  0/1139 => 0.0%
+Cidade Toledo:  11034/11034 => 100.0%
+Mamógrafo 41 instalado em Toledo => 6758/11034
+Mamógrafo 82 instalado em Toledo => 4276/11034
+Cidade Tomazina:  0/793 => 0.0%
+Cidade Três Barras do Paraná:  0/985 => 0.0%
+Cidade Tunas do Paraná:  0/380 => 0.0%
+Cidade Tuneiras do Oeste:  0/747 => 0.0%
+Cidade Tupãssi:  0/759 => 0.0%
+Cidade Turvo:  0/1096 => 0.0%
+Cidade Ubiratã:  2122/2122 => 100.0%
+Mamógrafo 129 instalado em Ubiratã => 2122/2122
+Cidade Umuarama:  9611/9611 => 100.0%
+Mamógrafo 47 instalado em Umuarama => 6758/9611
+Mamógrafo 107 instalado em Umuarama => 2853/9611
+Cidade União da Vitória:  4642/4642 => 100.0%
+Mamógrafo 85 instalado em União da Vitória => 4642/4642
+Cidade Uniflor:  0/207 => 0.0%
+Cidade Uraí:  0/1050 => 0.0%
+Cidade Wenceslau Braz:  1756/1756 => 100.0%
+Mamógrafo 146 instalado em Wenceslau Braz => 1756/1756
+Cidade Ventania:  741/741 => 100.0%
+Mamógrafo 70 instalado em Telêmaco Borba => 710/741
+Mamógrafo 118 instalado em Ibaiti => 31/741
+Cidade Vera Cruz do Oeste:  0/811 => 0.0%
+Cidade Verê:  0/764 => 0.0%
+Cidade Alto Paraíso:  0/286 => 0.0%
+Cidade Doutor Ulysses:  0/396 => 0.0%
+Cidade Virmond:  0/335 => 0.0%
+Cidade Vitorino:  572/572 => 100.0%
+Mamógrafo 163 instalado em Clevelândia => 572/572
+Cidade Xambrê:  0/556 => 0.0%
+Coberturas
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.9451748251748252
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.9089441829186281
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.9703794871794872
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.9459686450167973
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.8592498410680229
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.947959040538645
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.9212104689203926
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0

@@ -1,0 +1,1194 @@
+Funções objetivo
+1 -386568.0
+2 -1266277.6413744898
+3 -0.4871276485585621
+
+
+Mamógrafos: 
+
+Mamógrafo 0 instalado em Ananindeua capacidade ociosa 0
+
+Ananindeua => 6758/38824
+
+Mamógrafo 1 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 2 instalado em Ananindeua capacidade ociosa 0
+
+Ananindeua => 6758/38824
+
+Mamógrafo 3 instalado em Ananindeua capacidade ociosa 0
+
+Ananindeua => 6758/38824
+
+Mamógrafo 4 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 5 instalado em Ananindeua capacidade ociosa 0
+
+Ananindeua => 6758/38824
+
+Mamógrafo 6 instalado em Santarém capacidade ociosa 0
+
+Santarém => 6758/19408
+
+Mamógrafo 7 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 8 instalado em Santarém capacidade ociosa 0
+
+Santarém => 6758/19408
+
+Mamógrafo 9 instalado em Castanhal capacidade ociosa 0
+
+Castanhal => 6758/12420
+
+Mamógrafo 10 instalado em Marabá capacidade ociosa 0
+
+Marabá => 6758/14628
+
+Mamógrafo 11 instalado em Parauapebas capacidade ociosa 0
+
+Parauapebas => 6758/8861
+
+Mamógrafo 12 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 13 instalado em Abaetetuba capacidade ociosa 0
+
+Abaetetuba => 6758/8434
+
+Mamógrafo 14 instalado em Ananindeua capacidade ociosa 0
+
+Ananindeua => 6758/38824
+
+Mamógrafo 15 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 16 instalado em Bragança capacidade ociosa 0
+
+Bragança => 6739/6739
+Tracuateua => 19/1501
+
+Mamógrafo 17 instalado em Marituba capacidade ociosa 0
+
+Marituba => 6758/7508
+
+Mamógrafo 18 instalado em Altamira capacidade ociosa 0
+
+Altamira => 6509/6509
+Brasil Novo => 249/990
+
+Mamógrafo 19 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 20 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 21 instalado em Cametá capacidade ociosa 0
+
+Cametá => 6294/6294
+São Sebastião da Boa Vista => 464/1128
+
+Mamógrafo 22 instalado em Itaituba capacidade ociosa 0
+
+Itaituba => 6236/6236
+Trairão => 522/899
+
+Mamógrafo 23 instalado em Marapanim capacidade ociosa 0
+
+Curuçá => 2099/2099
+Marapanim => 1638/1638
+Terra Alta => 627/627
+Vigia => 2394/3023
+
+Mamógrafo 24 instalado em Tucuruí capacidade ociosa 587
+
+Tucuruí => 6171/6171
+
+Mamógrafo 25 instalado em Marabá capacidade ociosa 0
+
+Marabá => 6758/14628
+
+Mamógrafo 26 instalado em Portel capacidade ociosa 1660
+
+Anajás => 1004/1004
+Bagre => 966/966
+Melgaço => 960/960
+Portel => 2168/2168
+
+Mamógrafo 27 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 28 instalado em Acará capacidade ociosa 2544
+
+Acará => 2780/2780
+Concórdia do Pará => 1434/1434
+
+Mamógrafo 29 instalado em Paragominas capacidade ociosa 0
+
+Ipixuna do Pará => 958/2549
+Paragominas => 5800/5800
+
+Mamógrafo 30 instalado em Rurópolis capacidade ociosa 4508
+
+Rurópolis => 2250/2250
+
+Mamógrafo 31 instalado em Castanhal capacidade ociosa 0
+
+Castanhal => 5662/12420
+Inhangapi => 621/621
+São Francisco do Pará => 475/995
+
+Mamógrafo 32 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 33 instalado em Rondon do Pará capacidade ociosa 3247
+
+Abel Figueiredo => 434/434
+Rondon do Pará => 3077/3077
+
+Mamógrafo 34 instalado em Pacajá capacidade ociosa 4627
+
+Pacajá => 2131/2131
+
+Mamógrafo 35 instalado em Ananindeua capacidade ociosa 0
+
+Ananindeua => 5034/38824
+Belém => 165/121809
+Marituba => 750/7508
+Santa Bárbara do Pará => 809/1113
+
+Mamógrafo 36 instalado em Redenção capacidade ociosa 1132
+
+Pau D'Arco => 387/387
+Redenção => 5239/5239
+
+Mamógrafo 37 instalado em Ponta de Pedras capacidade ociosa 0
+
+Barcarena => 5275/6187
+Ponta de Pedras => 1483/1483
+
+Mamógrafo 38 instalado em Breves capacidade ociosa 2275
+
+Breves => 4483/4483
+
+Mamógrafo 39 instalado em Tailândia capacidade ociosa 2920
+
+Tailândia => 3838/3838
+
+Mamógrafo 40 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 41 instalado em Oriximiná capacidade ociosa 3231
+
+Oriximiná => 3527/3527
+
+Mamógrafo 42 instalado em Benevides capacidade ociosa 1232
+
+Benevides => 3524/3524
+Santa Bárbara do Pará => 304/1113
+Santo Antônio do Tauá => 1698/1698
+
+Mamógrafo 43 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 44 instalado em Santa Izabel do Pará capacidade ociosa 0
+
+Bujaru => 1356/1356
+Colares => 398/680
+Santa Izabel do Pará => 3855/3855
+São Francisco do Pará => 520/995
+Vigia => 629/3023
+
+Mamógrafo 45 instalado em Moju capacidade ociosa 0
+
+Abaetetuba => 1676/8434
+Barcarena => 912/6187
+Moju => 3466/3466
+Muaná => 704/1788
+
+Mamógrafo 46 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 47 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 48 instalado em Ulianópolis capacidade ociosa 4458
+
+Ulianópolis => 2300/2300
+
+Mamógrafo 49 instalado em Conceição do Araguaia capacidade ociosa 3546
+
+Conceição do Araguaia => 3212/3212
+
+Mamógrafo 50 instalado em Monte Alegre capacidade ociosa 3410
+
+Monte Alegre => 3348/3348
+
+Mamógrafo 51 instalado em Igarapé-Miri capacidade ociosa 2492
+
+Igarapé-Miri => 3182/3182
+Muaná => 1084/1788
+
+Mamógrafo 52 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 53 instalado em Santana do Araguaia capacidade ociosa 3565
+
+Santana do Araguaia => 3193/3193
+
+Mamógrafo 54 instalado em São Félix do Xingu capacidade ociosa 1531
+
+São Félix do Xingu => 5227/5227
+
+Mamógrafo 55 instalado em Breu Branco capacidade ociosa 3941
+
+Breu Branco => 2817/2817
+
+Mamógrafo 56 instalado em Tomé-Açu capacidade ociosa 3675
+
+Tomé-Açu => 3083/3083
+
+Mamógrafo 57 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 58 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 59 instalado em Itupiranga capacidade ociosa 2796
+
+Itupiranga => 2850/2850
+Marabá => 1112/14628
+
+Mamógrafo 60 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 61 instalado em Viseu capacidade ociosa 3919
+
+Viseu => 2839/2839
+
+Mamógrafo 62 instalado em Ourilândia do Norte capacidade ociosa 3066
+
+Ourilândia do Norte => 1521/1521
+Tucumã => 2171/2171
+
+Mamógrafo 63 instalado em Belém capacidade ociosa 0
+
+Belém => 6758/121809
+
+Mamógrafo 64 instalado em São Geraldo do Araguaia capacidade ociosa 4398
+
+Piçarra => 774/774
+São Geraldo do Araguaia => 1586/1586
+
+Mamógrafo 65 instalado em Óbidos capacidade ociosa 1778
+
+Juruti => 2193/2193
+Óbidos => 2787/2787
+
+Mamógrafo 66 instalado em Xinguara capacidade ociosa 2438
+
+Rio Maria => 1250/1250
+Sapucaia => 324/324
+Xinguara => 2746/2746
+
+Mamógrafo 67 instalado em Igarapé-Açu capacidade ociosa 0
+
+Igarapé-Açu => 2341/2341
+Magalhães Barata => 473/473
+Maracanã => 875/1656
+Nova Timboteua => 929/929
+Peixe-Boi => 532/532
+Santa Maria do Pará => 1608/1608
+
+Cidades cobertas pelo mamógrafo 0 => Ananindeua, 
+
+
+Cidades cobertas pelo mamógrafo 1 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 2 => Ananindeua, 
+
+
+Cidades cobertas pelo mamógrafo 3 => Ananindeua, 
+
+
+Cidades cobertas pelo mamógrafo 4 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 5 => Ananindeua, 
+
+
+Cidades cobertas pelo mamógrafo 6 => Santarém, 
+
+
+Cidades cobertas pelo mamógrafo 7 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 8 => Santarém, 
+
+
+Cidades cobertas pelo mamógrafo 9 => Castanhal, 
+
+
+Cidades cobertas pelo mamógrafo 10 => Marabá, 
+
+
+Cidades cobertas pelo mamógrafo 11 => Parauapebas, 
+
+
+Cidades cobertas pelo mamógrafo 12 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 13 => Abaetetuba, 
+
+
+Cidades cobertas pelo mamógrafo 14 => Ananindeua, 
+
+
+Cidades cobertas pelo mamógrafo 15 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 16 => Bragança, Tracuateua, 
+
+
+Cidades cobertas pelo mamógrafo 17 => Marituba, 
+
+
+Cidades cobertas pelo mamógrafo 18 => Altamira, Brasil Novo, 
+
+
+Cidades cobertas pelo mamógrafo 19 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 20 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 21 => Cametá, São Sebastião da Boa Vista, 
+
+
+Cidades cobertas pelo mamógrafo 22 => Itaituba, Trairão, 
+
+
+Cidades cobertas pelo mamógrafo 23 => Curuçá, Marapanim, Terra Alta, Vigia, 
+
+
+Cidades cobertas pelo mamógrafo 24 => Tucuruí, 
+
+
+Cidades cobertas pelo mamógrafo 25 => Marabá, 
+
+
+Cidades cobertas pelo mamógrafo 26 => Anajás, Bagre, Melgaço, Portel, 
+
+
+Cidades cobertas pelo mamógrafo 27 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 28 => Acará, Concórdia do Pará, 
+
+
+Cidades cobertas pelo mamógrafo 29 => Ipixuna do Pará, Paragominas, 
+
+
+Cidades cobertas pelo mamógrafo 30 => Rurópolis, 
+
+
+Cidades cobertas pelo mamógrafo 31 => Castanhal, Inhangapi, São Francisco do Pará, 
+
+
+Cidades cobertas pelo mamógrafo 32 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 33 => Abel Figueiredo, Rondon do Pará, 
+
+
+Cidades cobertas pelo mamógrafo 34 => Pacajá, 
+
+
+Cidades cobertas pelo mamógrafo 35 => Ananindeua, Belém, Marituba, Santa Bárbara do Pará, 
+
+
+Cidades cobertas pelo mamógrafo 36 => Pau D'Arco, Redenção, 
+
+
+Cidades cobertas pelo mamógrafo 37 => Barcarena, Ponta de Pedras, 
+
+
+Cidades cobertas pelo mamógrafo 38 => Breves, 
+
+
+Cidades cobertas pelo mamógrafo 39 => Tailândia, 
+
+
+Cidades cobertas pelo mamógrafo 40 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 41 => Oriximiná, 
+
+
+Cidades cobertas pelo mamógrafo 42 => Benevides, Santa Bárbara do Pará, Santo Antônio do Tauá, 
+
+
+Cidades cobertas pelo mamógrafo 43 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 44 => Bujaru, Colares, Santa Izabel do Pará, São Francisco do Pará, Vigia, 
+
+
+Cidades cobertas pelo mamógrafo 45 => Abaetetuba, Barcarena, Moju, Muaná, 
+
+
+Cidades cobertas pelo mamógrafo 46 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 47 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 48 => Ulianópolis, 
+
+
+Cidades cobertas pelo mamógrafo 49 => Conceição do Araguaia, 
+
+
+Cidades cobertas pelo mamógrafo 50 => Monte Alegre, 
+
+
+Cidades cobertas pelo mamógrafo 51 => Igarapé-Miri, Muaná, 
+
+
+Cidades cobertas pelo mamógrafo 52 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 53 => Santana do Araguaia, 
+
+
+Cidades cobertas pelo mamógrafo 54 => São Félix do Xingu, 
+
+
+Cidades cobertas pelo mamógrafo 55 => Breu Branco, 
+
+
+Cidades cobertas pelo mamógrafo 56 => Tomé-Açu, 
+
+
+Cidades cobertas pelo mamógrafo 57 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 58 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 59 => Itupiranga, Marabá, 
+
+
+Cidades cobertas pelo mamógrafo 60 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 61 => Viseu, 
+
+
+Cidades cobertas pelo mamógrafo 62 => Ourilândia do Norte, Tucumã, 
+
+
+Cidades cobertas pelo mamógrafo 63 => Belém, 
+
+
+Cidades cobertas pelo mamógrafo 64 => Piçarra, São Geraldo do Araguaia, 
+
+
+Cidades cobertas pelo mamógrafo 65 => Juruti, Óbidos, 
+
+
+Cidades cobertas pelo mamógrafo 66 => Rio Maria, Sapucaia, Xinguara, 
+
+
+Cidades cobertas pelo mamógrafo 67 => Igarapé-Açu, Magalhães Barata, Maracanã, Nova Timboteua, Peixe-Boi, Santa Maria do Pará, 
+
+
+
+Lista de mamógrafos na cidade Abaetetuba: 13, 
+
+
+Lista de mamógrafos na cidade Acará: 28, 
+
+
+Lista de mamógrafos na cidade Afuá: 
+
+
+Lista de mamógrafos na cidade Água Azul do Norte: 
+
+
+Lista de mamógrafos na cidade Alenquer: 
+
+
+Lista de mamógrafos na cidade Almeirim: 
+
+
+Lista de mamógrafos na cidade Altamira: 18, 
+
+
+Lista de mamógrafos na cidade Ananindeua: 0, 2, 3, 5, 14, 35, 
+
+
+Lista de mamógrafos na cidade Augusto Corrêa: 
+
+
+Lista de mamógrafos na cidade Aurora do Pará: 
+
+
+Lista de mamógrafos na cidade Baião: 
+
+
+Lista de mamógrafos na cidade Barcarena: 
+
+
+Lista de mamógrafos na cidade Belém: 1, 4, 7, 12, 15, 19, 20, 27, 32, 40, 43, 46, 47, 52, 57, 58, 60, 63, 
+
+
+Lista de mamógrafos na cidade Benevides: 42, 
+
+
+Lista de mamógrafos na cidade Bragança: 16, 
+
+
+Lista de mamógrafos na cidade Breu Branco: 55, 
+
+
+Lista de mamógrafos na cidade Breves: 38, 
+
+
+Lista de mamógrafos na cidade Bujaru: 
+
+
+Lista de mamógrafos na cidade Cachoeira do Piriá: 
+
+
+Lista de mamógrafos na cidade Cametá: 21, 
+
+
+Lista de mamógrafos na cidade Canaã dos Carajás: 
+
+
+Lista de mamógrafos na cidade Capanema: 
+
+
+Lista de mamógrafos na cidade Capitão Poço: 
+
+
+Lista de mamógrafos na cidade Castanhal: 9, 31, 
+
+
+Lista de mamógrafos na cidade Conceição do Araguaia: 49, 
+
+
+Lista de mamógrafos na cidade Concórdia do Pará: 
+
+
+Lista de mamógrafos na cidade Curuçá: 
+
+
+Lista de mamógrafos na cidade Dom Eliseu: 
+
+
+Lista de mamógrafos na cidade Eldorado do Carajás: 
+
+
+Lista de mamógrafos na cidade Garrafão do Norte: 
+
+
+Lista de mamógrafos na cidade Goianésia do Pará: 
+
+
+Lista de mamógrafos na cidade Igarapé-Açu: 67, 
+
+
+Lista de mamógrafos na cidade Igarapé-Miri: 51, 
+
+
+Lista de mamógrafos na cidade Ipixuna do Pará: 
+
+
+Lista de mamógrafos na cidade Irituia: 
+
+
+Lista de mamógrafos na cidade Itaituba: 22, 
+
+
+Lista de mamógrafos na cidade Itupiranga: 59, 
+
+
+Lista de mamógrafos na cidade Jacundá: 
+
+
+Lista de mamógrafos na cidade Juruti: 
+
+
+Lista de mamógrafos na cidade Mãe do Rio: 
+
+
+Lista de mamógrafos na cidade Marabá: 10, 25, 
+
+
+Lista de mamógrafos na cidade Maracanã: 
+
+
+Lista de mamógrafos na cidade Marapanim: 23, 
+
+
+Lista de mamógrafos na cidade Marituba: 17, 
+
+
+Lista de mamógrafos na cidade Medicilândia: 
+
+
+Lista de mamógrafos na cidade Mocajuba: 
+
+
+Lista de mamógrafos na cidade Moju: 45, 
+
+
+Lista de mamógrafos na cidade Monte Alegre: 50, 
+
+
+Lista de mamógrafos na cidade Muaná: 
+
+
+Lista de mamógrafos na cidade Novo Progresso: 
+
+
+Lista de mamógrafos na cidade Novo Repartimento: 
+
+
+Lista de mamógrafos na cidade Óbidos: 65, 
+
+
+Lista de mamógrafos na cidade Oeiras do Pará: 
+
+
+Lista de mamógrafos na cidade Oriximiná: 41, 
+
+
+Lista de mamógrafos na cidade Ourilândia do Norte: 62, 
+
+
+Lista de mamógrafos na cidade Pacajá: 34, 
+
+
+Lista de mamógrafos na cidade Paragominas: 29, 
+
+
+Lista de mamógrafos na cidade Parauapebas: 11, 
+
+
+Lista de mamógrafos na cidade Placas: 
+
+
+Lista de mamógrafos na cidade Ponta de Pedras: 37, 
+
+
+Lista de mamógrafos na cidade Portel: 26, 
+
+
+Lista de mamógrafos na cidade Porto de Moz: 
+
+
+Lista de mamógrafos na cidade Prainha: 
+
+
+Lista de mamógrafos na cidade Redenção: 36, 
+
+
+Lista de mamógrafos na cidade Rio Maria: 
+
+
+Lista de mamógrafos na cidade Rondon do Pará: 33, 
+
+
+Lista de mamógrafos na cidade Rurópolis: 30, 
+
+
+Lista de mamógrafos na cidade Salinópolis: 
+
+
+Lista de mamógrafos na cidade Salvaterra: 
+
+
+Lista de mamógrafos na cidade Santa Izabel do Pará: 44, 
+
+
+Lista de mamógrafos na cidade Santa Maria do Pará: 
+
+
+Lista de mamógrafos na cidade Santana do Araguaia: 53, 
+
+
+Lista de mamógrafos na cidade Santarém: 6, 8, 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Tauá: 
+
+
+Lista de mamógrafos na cidade São Domingos do Araguaia: 
+
+
+Lista de mamógrafos na cidade São Domingos do Capim: 
+
+
+Lista de mamógrafos na cidade São Félix do Xingu: 54, 
+
+
+Lista de mamógrafos na cidade São Geraldo do Araguaia: 64, 
+
+
+Lista de mamógrafos na cidade São Miguel do Guamá: 
+
+
+Lista de mamógrafos na cidade Soure: 
+
+
+Lista de mamógrafos na cidade Tailândia: 39, 
+
+
+Lista de mamógrafos na cidade Tomé-Açu: 56, 
+
+
+Lista de mamógrafos na cidade Tracuateua: 
+
+
+Lista de mamógrafos na cidade Tucumã: 
+
+
+Lista de mamógrafos na cidade Tucuruí: 24, 
+
+
+Lista de mamógrafos na cidade Ulianópolis: 48, 
+
+
+Lista de mamógrafos na cidade Uruará: 
+
+
+Lista de mamógrafos na cidade Vigia: 
+
+
+Lista de mamógrafos na cidade Viseu: 61, 
+
+
+Lista de mamógrafos na cidade Xinguara: 66, 
+
+
+
+Cobertura da demanda
+Cidade Abaetetuba:  8434/8434 => 100.0%
+Mamógrafo 13 instalado em Abaetetuba => 6758/8434
+Mamógrafo 45 instalado em Moju => 1676/8434
+Cidade Abel Figueiredo:  434/434 => 100.0%
+Mamógrafo 33 instalado em Rondon do Pará => 434/434
+Cidade Acará:  2780/2780 => 100.0%
+Mamógrafo 28 instalado em Acará => 2780/2780
+Cidade Afuá:  0/1538 => 0.0%
+Cidade Água Azul do Norte:  0/1447 => 0.0%
+Cidade Alenquer:  0/2909 => 0.0%
+Cidade Almeirim:  0/1870 => 0.0%
+Cidade Altamira:  6509/6509 => 100.0%
+Mamógrafo 18 instalado em Altamira => 6509/6509
+Cidade Anajás:  1004/1004 => 100.0%
+Mamógrafo 26 instalado em Portel => 1004/1004
+Cidade Ananindeua:  38824/38824 => 100.0%
+Mamógrafo 0 instalado em Ananindeua => 6758/38824
+Mamógrafo 2 instalado em Ananindeua => 6758/38824
+Mamógrafo 3 instalado em Ananindeua => 6758/38824
+Mamógrafo 5 instalado em Ananindeua => 6758/38824
+Mamógrafo 14 instalado em Ananindeua => 6758/38824
+Mamógrafo 35 instalado em Ananindeua => 5034/38824
+Cidade Anapu:  0/1064 => 0.0%
+Cidade Augusto Corrêa:  0/2063 => 0.0%
+Cidade Aurora do Pará:  0/1428 => 0.0%
+Cidade Aveiro:  0/826 => 0.0%
+Cidade Bagre:  966/966 => 100.0%
+Mamógrafo 26 instalado em Portel => 966/966
+Cidade Baião:  0/1975 => 0.0%
+Cidade Bannach:  0/218 => 0.0%
+Cidade Barcarena:  6187/6187 => 100.0%
+Mamógrafo 37 instalado em Ponta de Pedras => 5275/6187
+Mamógrafo 45 instalado em Moju => 912/6187
+Cidade Belém:  121809/121809 => 100.0%
+Mamógrafo 1 instalado em Belém => 6758/121809
+Mamógrafo 4 instalado em Belém => 6758/121809
+Mamógrafo 7 instalado em Belém => 6758/121809
+Mamógrafo 12 instalado em Belém => 6758/121809
+Mamógrafo 15 instalado em Belém => 6758/121809
+Mamógrafo 19 instalado em Belém => 6758/121809
+Mamógrafo 20 instalado em Belém => 6758/121809
+Mamógrafo 27 instalado em Belém => 6758/121809
+Mamógrafo 32 instalado em Belém => 6758/121809
+Mamógrafo 35 instalado em Ananindeua => 165/121809
+Mamógrafo 40 instalado em Belém => 6758/121809
+Mamógrafo 43 instalado em Belém => 6758/121809
+Mamógrafo 46 instalado em Belém => 6758/121809
+Mamógrafo 47 instalado em Belém => 6758/121809
+Mamógrafo 52 instalado em Belém => 6758/121809
+Mamógrafo 57 instalado em Belém => 6758/121809
+Mamógrafo 58 instalado em Belém => 6758/121809
+Mamógrafo 60 instalado em Belém => 6758/121809
+Mamógrafo 63 instalado em Belém => 6758/121809
+Cidade Belterra:  0/1011 => 0.0%
+Cidade Benevides:  3524/3524 => 100.0%
+Mamógrafo 42 instalado em Benevides => 3524/3524
+Cidade Bom Jesus do Tocantins:  0/947 => 0.0%
+Cidade Bonito:  0/760 => 0.0%
+Cidade Bragança:  6739/6739 => 100.0%
+Mamógrafo 16 instalado em Bragança => 6739/6739
+Cidade Brasil Novo:  249/990 => 25.151515151515152%
+Mamógrafo 18 instalado em Altamira => 249/990
+Cidade Brejo Grande do Araguaia:  0/465 => 0.0%
+Cidade Breu Branco:  2817/2817 => 100.0%
+Mamógrafo 55 instalado em Breu Branco => 2817/2817
+Cidade Breves:  4483/4483 => 100.0%
+Mamógrafo 38 instalado em Breves => 4483/4483
+Cidade Bujaru:  1356/1356 => 100.0%
+Mamógrafo 44 instalado em Santa Izabel do Pará => 1356/1356
+Cidade Cachoeira do Piriá:  0/1291 => 0.0%
+Cidade Cachoeira do Arari:  0/1181 => 0.0%
+Cidade Cametá:  6294/6294 => 100.0%
+Mamógrafo 21 instalado em Cametá => 6294/6294
+Cidade Canaã dos Carajás:  0/1584 => 0.0%
+Cidade Capanema:  0/4648 => 0.0%
+Cidade Capitão Poço:  0/3063 => 0.0%
+Cidade Castanhal:  12420/12420 => 100.0%
+Mamógrafo 9 instalado em Castanhal => 6758/12420
+Mamógrafo 31 instalado em Castanhal => 5662/12420
+Cidade Chaves:  0/1021 => 0.0%
+Cidade Colares:  398/680 => 58.529411764705884%
+Mamógrafo 44 instalado em Santa Izabel do Pará => 398/680
+Cidade Conceição do Araguaia:  3212/3212 => 100.0%
+Mamógrafo 49 instalado em Conceição do Araguaia => 3212/3212
+Cidade Concórdia do Pará:  1434/1434 => 100.0%
+Mamógrafo 28 instalado em Acará => 1434/1434
+Cidade Cumaru do Norte:  0/560 => 0.0%
+Cidade Curionópolis:  0/1174 => 0.0%
+Cidade Curralinho:  0/1152 => 0.0%
+Cidade Curuá:  0/615 => 0.0%
+Cidade Curuçá:  2099/2099 => 100.0%
+Mamógrafo 23 instalado em Marapanim => 2099/2099
+Cidade Dom Eliseu:  0/3104 => 0.0%
+Cidade Eldorado do Carajás:  0/1871 => 0.0%
+Cidade Faro:  0/422 => 0.0%
+Cidade Floresta do Araguaia:  0/1067 => 0.0%
+Cidade Garrafão do Norte:  0/1265 => 0.0%
+Cidade Goianésia do Pará:  0/1736 => 0.0%
+Cidade Gurupá:  0/1248 => 0.0%
+Cidade Igarapé-Açu:  2341/2341 => 100.0%
+Mamógrafo 67 instalado em Igarapé-Açu => 2341/2341
+Cidade Igarapé-Miri:  3182/3182 => 100.0%
+Mamógrafo 51 instalado em Igarapé-Miri => 3182/3182
+Cidade Inhangapi:  621/621 => 100.0%
+Mamógrafo 31 instalado em Castanhal => 621/621
+Cidade Ipixuna do Pará:  958/2549 => 37.58336602589251%
+Mamógrafo 29 instalado em Paragominas => 958/2549
+Cidade Irituia:  0/1778 => 0.0%
+Cidade Itaituba:  6236/6236 => 100.0%
+Mamógrafo 22 instalado em Itaituba => 6236/6236
+Cidade Itupiranga:  2850/2850 => 100.0%
+Mamógrafo 59 instalado em Itupiranga => 2850/2850
+Cidade Jacareacanga:  0/742 => 0.0%
+Cidade Jacundá:  0/3124 => 0.0%
+Cidade Juruti:  2193/2193 => 100.0%
+Mamógrafo 65 instalado em Óbidos => 2193/2193
+Cidade Limoeiro do Ajuru:  0/1176 => 0.0%
+Cidade Mãe do Rio:  0/1757 => 0.0%
+Cidade Magalhães Barata:  473/473 => 100.0%
+Mamógrafo 67 instalado em Igarapé-Açu => 473/473
+Cidade Marabá:  14628/14628 => 100.0%
+Mamógrafo 10 instalado em Marabá => 6758/14628
+Mamógrafo 25 instalado em Marabá => 6758/14628
+Mamógrafo 59 instalado em Itupiranga => 1112/14628
+Cidade Maracanã:  875/1656 => 52.83816425120773%
+Mamógrafo 67 instalado em Igarapé-Açu => 875/1656
+Cidade Marapanim:  1638/1638 => 100.0%
+Mamógrafo 23 instalado em Marapanim => 1638/1638
+Cidade Marituba:  7508/7508 => 100.0%
+Mamógrafo 17 instalado em Marituba => 6758/7508
+Mamógrafo 35 instalado em Ananindeua => 750/7508
+Cidade Medicilândia:  0/1582 => 0.0%
+Cidade Melgaço:  960/960 => 100.0%
+Mamógrafo 26 instalado em Portel => 960/960
+Cidade Mocajuba:  0/1410 => 0.0%
+Cidade Moju:  3466/3466 => 100.0%
+Mamógrafo 45 instalado em Moju => 3466/3466
+Cidade Monte Alegre:  3348/3348 => 100.0%
+Mamógrafo 50 instalado em Monte Alegre => 3348/3348
+Cidade Muaná:  1788/1788 => 100.0%
+Mamógrafo 45 instalado em Moju => 704/1788
+Mamógrafo 51 instalado em Igarapé-Miri => 1084/1788
+Cidade Nova Esperança do Piriá:  0/935 => 0.0%
+Cidade Nova Ipixuna:  0/853 => 0.0%
+Cidade Nova Timboteua:  929/929 => 100.0%
+Mamógrafo 67 instalado em Igarapé-Açu => 929/929
+Cidade Novo Progresso:  0/1639 => 0.0%
+Cidade Novo Repartimento:  0/3390 => 0.0%
+Cidade Óbidos:  2787/2787 => 100.0%
+Mamógrafo 65 instalado em Óbidos => 2787/2787
+Cidade Oeiras do Pará:  0/1286 => 0.0%
+Cidade Oriximiná:  3527/3527 => 100.0%
+Mamógrafo 41 instalado em Oriximiná => 3527/3527
+Cidade Ourém:  0/987 => 0.0%
+Cidade Ourilândia do Norte:  1521/1521 => 100.0%
+Mamógrafo 62 instalado em Ourilândia do Norte => 1521/1521
+Cidade Pacajá:  2131/2131 => 100.0%
+Mamógrafo 34 instalado em Pacajá => 2131/2131
+Cidade Palestina do Pará:  0/457 => 0.0%
+Cidade Paragominas:  5800/5800 => 100.0%
+Mamógrafo 29 instalado em Paragominas => 5800/5800
+Cidade Parauapebas:  6758/8861 => 76.26678704435166%
+Mamógrafo 11 instalado em Parauapebas => 6758/8861
+Cidade Pau D'Arco:  387/387 => 100.0%
+Mamógrafo 36 instalado em Redenção => 387/387
+Cidade Peixe-Boi:  532/532 => 100.0%
+Mamógrafo 67 instalado em Igarapé-Açu => 532/532
+Cidade Piçarra:  774/774 => 100.0%
+Mamógrafo 64 instalado em São Geraldo do Araguaia => 774/774
+Cidade Placas:  0/1263 => 0.0%
+Cidade Ponta de Pedras:  1483/1483 => 100.0%
+Mamógrafo 37 instalado em Ponta de Pedras => 1483/1483
+Cidade Portel:  2168/2168 => 100.0%
+Mamógrafo 26 instalado em Portel => 2168/2168
+Cidade Porto de Moz:  0/1355 => 0.0%
+Cidade Prainha:  0/1489 => 0.0%
+Cidade Primavera:  0/640 => 0.0%
+Cidade Quatipuru:  0/761 => 0.0%
+Cidade Redenção:  5239/5239 => 100.0%
+Mamógrafo 36 instalado em Redenção => 5239/5239
+Cidade Rio Maria:  1250/1250 => 100.0%
+Mamógrafo 66 instalado em Xinguara => 1250/1250
+Cidade Rondon do Pará:  3077/3077 => 100.0%
+Mamógrafo 33 instalado em Rondon do Pará => 3077/3077
+Cidade Rurópolis:  2250/2250 => 100.0%
+Mamógrafo 30 instalado em Rurópolis => 2250/2250
+Cidade Salinópolis:  0/2390 => 0.0%
+Cidade Salvaterra:  0/1280 => 0.0%
+Cidade Santa Bárbara do Pará:  1113/1113 => 100.0%
+Mamógrafo 35 instalado em Ananindeua => 809/1113
+Mamógrafo 42 instalado em Benevides => 304/1113
+Cidade Santa Cruz do Arari:  0/510 => 0.0%
+Cidade Santa Izabel do Pará:  3855/3855 => 100.0%
+Mamógrafo 44 instalado em Santa Izabel do Pará => 3855/3855
+Cidade Santa Luzia do Pará:  0/1114 => 0.0%
+Cidade Santa Maria das Barreiras:  0/1146 => 0.0%
+Cidade Santa Maria do Pará:  1608/1608 => 100.0%
+Mamógrafo 67 instalado em Igarapé-Açu => 1608/1608
+Cidade Santana do Araguaia:  3193/3193 => 100.0%
+Mamógrafo 53 instalado em Santana do Araguaia => 3193/3193
+Cidade Santarém:  13516/19408 => 69.64138499587798%
+Mamógrafo 6 instalado em Santarém => 6758/19408
+Mamógrafo 8 instalado em Santarém => 6758/19408
+Cidade Santarém Novo:  0/338 => 0.0%
+Cidade Santo Antônio do Tauá:  1698/1698 => 100.0%
+Mamógrafo 42 instalado em Benevides => 1698/1698
+Cidade São Caetano de Odivelas:  0/1032 => 0.0%
+Cidade São Domingos do Araguaia:  0/1364 => 0.0%
+Cidade São Domingos do Capim:  0/1444 => 0.0%
+Cidade São Félix do Xingu:  5227/5227 => 100.0%
+Mamógrafo 54 instalado em São Félix do Xingu => 5227/5227
+Cidade São Francisco do Pará:  995/995 => 100.0%
+Mamógrafo 31 instalado em Castanhal => 475/995
+Mamógrafo 44 instalado em Santa Izabel do Pará => 520/995
+Cidade São Geraldo do Araguaia:  1586/1586 => 100.0%
+Mamógrafo 64 instalado em São Geraldo do Araguaia => 1586/1586
+Cidade São João da Ponta:  0/302 => 0.0%
+Cidade São João de Pirabas:  0/1196 => 0.0%
+Cidade São João do Araguaia:  0/766 => 0.0%
+Cidade São Miguel do Guamá:  0/3062 => 0.0%
+Cidade São Sebastião da Boa Vista:  464/1128 => 41.13475177304964%
+Mamógrafo 21 instalado em Cametá => 464/1128
+Cidade Sapucaia:  324/324 => 100.0%
+Mamógrafo 66 instalado em Xinguara => 324/324
+Cidade Senador José Porfírio:  0/681 => 0.0%
+Cidade Soure:  0/1553 => 0.0%
+Cidade Tailândia:  3838/3838 => 100.0%
+Mamógrafo 39 instalado em Tailândia => 3838/3838
+Cidade Terra Alta:  627/627 => 100.0%
+Mamógrafo 23 instalado em Marapanim => 627/627
+Cidade Terra Santa:  0/925 => 0.0%
+Cidade Tomé-Açu:  3083/3083 => 100.0%
+Mamógrafo 56 instalado em Tomé-Açu => 3083/3083
+Cidade Tracuateua:  19/1501 => 1.2658227848101267%
+Mamógrafo 16 instalado em Bragança => 19/1501
+Cidade Trairão:  522/899 => 58.06451612903226%
+Mamógrafo 22 instalado em Itaituba => 522/899
+Cidade Tucumã:  2171/2171 => 100.0%
+Mamógrafo 62 instalado em Ourilândia do Norte => 2171/2171
+Cidade Tucuruí:  6171/6171 => 100.0%
+Mamógrafo 24 instalado em Tucuruí => 6171/6171
+Cidade Ulianópolis:  2300/2300 => 100.0%
+Mamógrafo 48 instalado em Ulianópolis => 2300/2300
+Cidade Uruará:  0/2407 => 0.0%
+Cidade Vigia:  3023/3023 => 100.0%
+Mamógrafo 23 instalado em Marapanim => 2394/3023
+Mamógrafo 44 instalado em Santa Izabel do Pará => 629/3023
+Cidade Viseu:  2839/2839 => 100.0%
+Mamógrafo 61 instalado em Viseu => 2839/2839
+Cidade Vitória do Xingu:  0/756 => 0.0%
+Cidade Xinguara:  2746/2746 => 100.0%
+Mamógrafo 66 instalado em Xinguara => 2746/2746
+Coberturas
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.2515151515151515
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.5852941176470589
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.37583366025892506
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.5283816425120773
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.7626678704435166
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.6964138499587799
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.41134751773049644
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.012658227848101266
+0.5806451612903226
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0

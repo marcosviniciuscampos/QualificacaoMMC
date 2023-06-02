@@ -1,0 +1,37 @@
+Para cada instância, em sua respectiva pasta, existem os seguintes arquivos:
+
+FRONT_<NOME_DA_INSTANCIA>.CSV => Em cada linha desse arquivo estão os valores das funções objetivo dos indivíduos não-dominados. Os três primeiros valores referem-se a cobertura, distância viajada e inequidade de cobertura. Os três seguintes trazem a mesma informação dos anteriores, porém de forma normalizada e tratando todos objetivos como minimização. Dessa forma, a cobertura passa a ser demanda descoberta. Os indivíduos descritos nesse arquivo compõe o conjunto dos indivíduos não-dominados para a respectiva instância. Os dados são resultado de todas as execuções dos algoritmos NSGA-II e SPEA2 combinadas.
+
+Os próximos cinco arquivos seguem o mesmo padrão, diferenciando-se do mencionado acima em relação a forma que o conjunto de soluções não-dominadas é gerado.
+
+
+FRONT_<NOME_DA_INSTANCIA>_EXISTENTE.TXT 			=> Conjunto de soluções não-dominadas considerando os mamógrafos existentes
+FRONT_<NOME_DA_INSTANCIA>_NSGA-II.TXT  			=> Conjunto de soluções não-dominadas considerando as 30 execuções do algoritmo NSGA-II
+FRONT_<NOME_DA_INSTANCIA>_SPEA2.TXT  				=> SetConjunto de soluções não-dominadas considerando as 30 execuções do algoritmo SPEA2
+FRONT_<NOME_DA_INSTANCIA>_NSGA-II_EXEC_<#EXEC>.TXT 		=> Conjunto de soluções não-dominadas para uma execução do algoritmo NSGA-II
+FRONT_<NOME_DA_INSTANCIA>SPEA2_EXEC_<#EXEC>.TXT 		=> Set de soluções não-dominadas para uma execução do algoritmo SPEA2
+
+
+
+Os próximos dois arquivos apresentam resultados com relação aos indicadores Hypervolume e Spacing, para cada execução de cada algoritmo. Em cada linha os dados disponíveis: id da execução, valor do Hypervolume e valor do Spacing
+
+INDICADORES_<NOME_DA_INSTANCIA>_NSGA-II.TXT 		=> Resultados de Hypervolume e Spacing usando NSGA-II
+INDICADORES_<NOME_DA_INSTANCIA>_SPEA2.TXT 		=> Resultados de Hypervolume e Spacing usando SPEA2
+
+
+O indivíduo é descrito no seguinte arquivo:
+
+S_<NOME_DA_INSTANCIA>_<ALGORITMO>_EXEC_<#EXEC>_<#INDIVIDUO>.TXT => Esse arquivo descreve um indivíduo gerado em uma das execuções de um algoritmo para uma determinada instância.
+
+Esse arquivo traz o seguinte conteúdo:
+
+- Valores das funções objetivo
+- Localização, Alocação e Capacidade Ociosa de cada mamógrafo
+- Lista de cidades cobertas por cada mamógrafo
+- Lisa de mamógrafos por cidade
+- Cobertura da Demanda por cidade
+
+
+Existe ainda um arquivo para tratar as coberturas. Esse tem n linhas, com n sendo o número de cidades da instâncias. Em cada linha existe o código ibge que representa a cidade e a cobertura dela. O nome desse arquivo segue um seguinte formato semelhante ao mencionado anteriormente, com o acréscimo da palavras "cobertura" no fim:
+
+S_<NOME_DA_INSTANCIA>_<ALGORITMO>_EXEC_<#EXEC>_<#INDIVIDUO>_cobertura.TXT

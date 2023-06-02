@@ -1,0 +1,2262 @@
+Funções objetivo
+1 -479716.0
+2 -9804736.159399997
+3 -0.18274182033886427
+
+
+Mamógrafos: 
+
+Mamógrafo 0 instalado em Anápolis capacidade ociosa 0
+
+Anápolis => 6758/30197
+
+Mamógrafo 1 instalado em Bom Jardim de Goiás capacidade ociosa 4111
+
+Aragarças => 1560/1560
+Baliza => 317/317
+Bom Jardim de Goiás => 770/770
+
+Mamógrafo 2 instalado em Itapirapuã capacidade ociosa 2970
+
+Goiás => 2346/2346
+Itapirapuã => 713/713
+Matrinchã => 391/391
+Novo Brasil => 338/338
+
+Mamógrafo 3 instalado em Rio Verde capacidade ociosa 0
+
+Rio Verde => 6758/13888
+
+Mamógrafo 4 instalado em Montes Claros de Goiás capacidade ociosa 5128
+
+Diorama => 228/228
+Jaupaci => 282/282
+Montes Claros de Goiás => 736/736
+Santa Fé de Goiás => 384/384
+
+Mamógrafo 5 instalado em Posse capacidade ociosa 2758
+
+Alvorada do Norte => 605/605
+Guarani de Goiás => 321/321
+Iaciara => 838/838
+Posse => 2236/2236
+
+Mamógrafo 6 instalado em Simolândia capacidade ociosa 6060
+
+Buritinópolis => 241/241
+Simolândia => 457/457
+
+Mamógrafo 7 instalado em Aparecida de Goiânia capacidade ociosa 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mamógrafo 8 instalado em Luziânia capacidade ociosa 0
+
+Luziânia => 6758/12916
+
+Mamógrafo 9 instalado em Americano do Brasil capacidade ociosa 0
+
+Adelândia => 218/218
+Americano do Brasil => 479/479
+Anicuns => 1766/1766
+Itaberaí => 3009/3009
+Nazário => 142/695
+Sanclerlândia => 683/683
+Turvânia => 461/461
+
+Mamógrafo 10 instalado em Rio Verde capacidade ociosa 0
+
+Rio Verde => 6758/13888
+
+Mamógrafo 11 instalado em Luziânia capacidade ociosa 0
+
+Luziânia => 6158/12916
+Valparaíso de Goiás => 600/10302
+
+Mamógrafo 12 instalado em Doverlândia capacidade ociosa 6102
+
+Doverlândia => 656/656
+
+Mamógrafo 13 instalado em Vila Boa capacidade ociosa 6470
+
+Vila Boa => 288/288
+
+Mamógrafo 14 instalado em Aparecida de Goiânia capacidade ociosa 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mamógrafo 15 instalado em Araçu capacidade ociosa 0
+
+Araçu => 360/360
+Avelinópolis => 223/223
+Damolândia => 286/286
+Inhumas => 3260/4494
+Itaguari => 406/406
+Itauçu => 824/824
+Nazário => 553/695
+Santa Bárbara de Goiás => 494/494
+Taquaral de Goiás => 352/352
+
+Mamógrafo 16 instalado em Santo Antônio de Goiás capacidade ociosa 0
+
+Anápolis => 4393/30197
+Caldazinha => 291/291
+Campo Limpo de Goiás => 475/475
+Guapó => 1207/1207
+Santo Antônio de Goiás => 392/392
+
+Mamógrafo 17 instalado em São Domingos capacidade ociosa 5589
+
+Divinópolis de Goiás => 367/367
+São Domingos => 802/802
+
+Mamógrafo 18 instalado em Mundo Novo capacidade ociosa 5260
+
+Mundo Novo => 543/543
+Nova Crixás => 955/955
+
+Mamógrafo 19 instalado em Nerópolis capacidade ociosa 0
+
+Anápolis => 4427/30197
+Nerópolis => 2033/2033
+Santa Rosa de Goiás => 298/298
+
+Mamógrafo 20 instalado em Cavalcante capacidade ociosa 5962
+
+Cavalcante => 609/609
+Teresina de Goiás => 187/187
+
+Mamógrafo 21 instalado em Cabeceiras capacidade ociosa 6215
+
+Cabeceiras => 543/543
+
+Mamógrafo 22 instalado em Planaltina capacidade ociosa 17
+
+Formosa => 904/7662
+Planaltina => 5837/5837
+
+Mamógrafo 23 instalado em Catalão capacidade ociosa 0
+
+Catalão => 6758/7651
+
+Mamógrafo 24 instalado em Cachoeira Alta capacidade ociosa 2368
+
+Aparecida do Rio Doce => 204/204
+Cachoeira Alta => 820/820
+Caçu => 1116/1116
+Paranaiguara => 790/790
+São Simão => 1460/1460
+
+Mamógrafo 25 instalado em Novo Gama capacidade ociosa 0
+
+Novo Gama => 6758/6853
+
+Mamógrafo 26 instalado em Jataí capacidade ociosa 0
+
+Jataí => 6758/7351
+
+Mamógrafo 27 instalado em Senador Canedo capacidade ociosa 0
+
+Aragoiânia => 318/724
+Senador Canedo => 6440/6440
+
+Mamógrafo 28 instalado em Goiânia capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 29 instalado em Amorinópolis capacidade ociosa 2796
+
+Amorinópolis => 346/346
+Iporá => 3084/3084
+Israelândia => 271/271
+Ivolândia => 261/261
+
+Mamógrafo 30 instalado em Rio Verde capacidade ociosa 5214
+
+Montividiu => 826/826
+Rio Verde => 372/13888
+Santo Antônio da Barra => 346/346
+
+Mamógrafo 31 instalado em Flores de Goiás capacidade ociosa 5904
+
+Flores de Goiás => 854/854
+
+Mamógrafo 32 instalado em Goiânia capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 33 instalado em Goiânia capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 34 instalado em Inaciolândia capacidade ociosa 3453
+
+Bom Jesus de Goiás => 1658/1658
+Cachoeira Dourada => 741/741
+Gouvelândia => 420/420
+Inaciolândia => 486/486
+
+Mamógrafo 35 instalado em Caldas Novas capacidade ociosa 0
+
+Água Limpa => 176/176
+Caldas Novas => 5981/5981
+Corumbaíba => 154/701
+Marzagão => 168/168
+Rio Quente => 279/279
+
+Mamógrafo 36 instalado em Aparecida de Goiânia capacidade ociosa 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mamógrafo 37 instalado em Santo Antônio do Descoberto capacidade ociosa 0
+
+Águas Lindas de Goiás => 2321/10776
+Santo Antônio do Descoberto => 4437/4437
+
+Mamógrafo 38 instalado em Água Fria de Goiás capacidade ociosa 6164
+
+Água Fria de Goiás => 386/386
+Mimoso de Goiás => 208/208
+
+Mamógrafo 39 instalado em Mambaí capacidade ociosa 5841
+
+Damianópolis => 266/266
+Mambaí => 441/441
+Sítio d'Abadia => 210/210
+
+Mamógrafo 40 instalado em Indiara capacidade ociosa 0
+
+Acreúna => 1679/1679
+Cezarina => 656/656
+Edealina => 130/327
+Edéia => 975/975
+Indiara => 1122/1122
+Jandaia => 584/584
+Palminópolis => 352/352
+Paraúna => 922/922
+Varjão => 338/338
+
+Mamógrafo 41 instalado em Mineiros capacidade ociosa 2320
+
+Mineiros => 4127/4127
+Portelândia => 311/311
+
+Mamógrafo 42 instalado em Águas Lindas de Goiás capacidade ociosa 0
+
+Águas Lindas de Goiás => 6758/10776
+
+Mamógrafo 43 instalado em São João d'Aliança capacidade ociosa 6052
+
+São João d'Aliança => 706/706
+
+Mamógrafo 44 instalado em Quirinópolis capacidade ociosa 2716
+
+Castelândia => 319/319
+Quirinópolis => 3723/3723
+
+Mamógrafo 45 instalado em Goiânia capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 46 instalado em Bonfinópolis capacidade ociosa 0
+
+Aparecida de Goiânia => 3475/37056
+Bonfinópolis => 633/633
+Silvânia => 1610/1610
+Vianópolis => 1040/1040
+
+Mamógrafo 47 instalado em Goianésia capacidade ociosa 0
+
+Barro Alto => 673/673
+Goianésia => 5030/5030
+Rianápolis => 392/392
+Santa Rita do Novo Destino => 248/273
+Vila Propício => 415/415
+
+Mamógrafo 48 instalado em Luziânia capacidade ociosa 0
+
+Cidade Ocidental => 3719/4318
+Novo Gama => 95/6853
+Valparaíso de Goiás => 2944/10302
+
+Mamógrafo 49 instalado em Porangatu capacidade ociosa 1947
+
+Estrela do Norte => 295/295
+Mutunópolis => 326/326
+Novo Planalto => 329/329
+Porangatu => 3519/3519
+Santa Tereza de Goiás => 342/342
+
+Mamógrafo 50 instalado em Nova Veneza capacidade ociosa 0
+
+Anápolis => 6065/30197
+Nova Veneza => 693/693
+
+Mamógrafo 51 instalado em Petrolina de Goiás capacidade ociosa 0
+
+Anápolis => 1648/30197
+Jaraguá => 3466/3466
+Jesúpolis => 196/196
+Petrolina de Goiás => 909/909
+São Francisco de Goiás => 539/539
+
+Mamógrafo 52 instalado em Niquelândia capacidade ociosa 3368
+
+Niquelândia => 3390/3390
+
+Mamógrafo 53 instalado em Alexânia capacidade ociosa 2812
+
+Abadiânia => 1252/1252
+Alexânia => 1880/1880
+Corumbá de Goiás => 814/814
+
+Mamógrafo 54 instalado em Santa Helena de Goiás capacidade ociosa 2117
+
+Maurilândia => 807/807
+Porteirão => 255/255
+Santa Helena de Goiás => 3261/3261
+Turvelândia => 318/318
+
+Mamógrafo 55 instalado em Caturaí capacidade ociosa 0
+
+Abadia de Goiás => 586/586
+Caturaí => 420/420
+Goiânia => 4518/121318
+Inhumas => 1234/4494
+
+Mamógrafo 56 instalado em Araguapaz capacidade ociosa 3853
+
+Araguapaz => 659/659
+Aruanã => 571/571
+Faina => 625/625
+Mozarlândia => 1050/1050
+
+Mamógrafo 57 instalado em Cristalina capacidade ociosa 3360
+
+Cristalina => 3398/3398
+
+Mamógrafo 58 instalado em Brazabrantes capacidade ociosa 0
+
+Aparecida de Goiânia => 6462/37056
+Brazabrantes => 296/296
+
+Mamógrafo 59 instalado em Valparaíso de Goiás capacidade ociosa 0
+
+Valparaíso de Goiás => 6758/10302
+
+Mamógrafo 60 instalado em Bela Vista de Goiás capacidade ociosa 0
+
+Aparecida de Goiânia => 1832/37056
+Bela Vista de Goiás => 2117/2117
+Cristianópolis => 257/257
+Piracanjuba => 2233/2233
+São Miguel do Passa Quatro => 319/319
+
+Mamógrafo 61 instalado em Goianira capacidade ociosa 0
+
+Aparecida de Goiânia => 3811/37056
+Campestre de Goiás => 282/282
+Goianira => 2665/2665
+
+Mamógrafo 62 instalado em Goiatuba capacidade ociosa 0
+
+Aloândia => 191/191
+Buriti Alegre => 811/811
+Goiatuba => 2977/2977
+Itumbiara => 2127/8885
+Joviânia => 417/613
+Panamá => 235/235
+
+Mamógrafo 63 instalado em Minaçu capacidade ociosa 4115
+
+Minaçu => 2643/2643
+
+Mamógrafo 64 instalado em São Luís de Montes Belos capacidade ociosa 1008
+
+Aurilândia => 364/364
+Buriti de Goiás => 247/247
+Cachoeira de Goiás => 119/119
+Córrego do Ouro => 252/252
+Firminópolis => 1126/1126
+Moiporá => 174/174
+Mossâmedes => 466/466
+São João da Paraúna => 167/167
+São Luís de Montes Belos => 2835/2835
+
+Mamógrafo 65 instalado em Pires do Rio capacidade ociosa 0
+
+Ipameri => 2086/2191
+Orizona => 1256/1256
+Palmelo => 221/221
+Pires do Rio => 2615/2615
+Santa Cruz de Goiás => 289/289
+Urutaí => 291/291
+
+Mamógrafo 66 instalado em Itapuranga capacidade ociosa 676
+
+Carmo do Rio Verde => 798/798
+Guaraíta => 246/246
+Heitoraí => 314/314
+Itaguaru => 525/525
+Itapuranga => 2521/2521
+Morro Agudo de Goiás => 225/225
+São Patrício => 181/181
+Uruana => 1272/1272
+
+Mamógrafo 67 instalado em Trindade capacidade ociosa 0
+
+Trindade => 6758/9052
+
+Mamógrafo 68 instalado em Leopoldo de Bulhões capacidade ociosa 0
+
+Anápolis => 6110/30197
+Leopoldo de Bulhões => 648/648
+
+Mamógrafo 69 instalado em Terezópolis de Goiás capacidade ociosa 0
+
+Anápolis => 796/30197
+Gameleira de Goiás => 270/270
+Goianápolis => 853/853
+Goiânia => 4330/121318
+Terezópolis de Goiás => 509/509
+
+Mamógrafo 70 instalado em Bela Vista de Goiás capacidade ociosa 0
+
+Aparecida de Goiânia => 1202/37056
+Goiânia => 5556/121318
+
+Mamógrafo 71 instalado em Nerópolis capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 72 instalado em São Luiz do Norte capacidade ociosa 0
+
+Guarinos => 207/207
+Hidrolina => 369/369
+Ipiranga de Goiás => 86/271
+Itapaci => 1537/1537
+Nova Glória => 765/765
+Pilar de Goiás => 251/251
+Santa Rita do Novo Destino => 25/273
+São Luiz do Norte => 375/375
+Uruaçu => 3143/3143
+
+Mamógrafo 73 instalado em Santo Antônio de Goiás capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 74 instalado em Ouro Verde de Goiás capacidade ociosa 0
+
+Goiânia => 6384/121318
+Ouro Verde de Goiás => 374/374
+
+Mamógrafo 75 instalado em Padre Bernardo capacidade ociosa 4734
+
+Padre Bernardo => 2024/2024
+
+Mamógrafo 76 instalado em Catalão capacidade ociosa 3943
+
+Anhanguera => 96/96
+Catalão => 893/7651
+Cumari => 250/250
+Davinópolis => 192/192
+Goiandira => 471/471
+Nova Aurora => 184/184
+Ouvidor => 470/470
+Três Ranchos => 259/259
+
+Mamógrafo 77 instalado em Pirenópolis capacidade ociosa 3484
+
+Cocalzinho de Goiás => 1338/1338
+Pirenópolis => 1936/1936
+
+Mamógrafo 78 instalado em São Miguel do Araguaia capacidade ociosa 4853
+
+São Miguel do Araguaia => 1905/1905
+
+Mamógrafo 79 instalado em Trindade capacidade ociosa 0
+
+Aragoiânia => 406/724
+Goiânia => 2016/121318
+Palmeiras de Goiás => 2042/2042
+Trindade => 2294/9052
+
+Mamógrafo 80 instalado em Jussara capacidade ociosa 4395
+
+Fazenda Nova => 600/600
+Jussara => 1763/1763
+
+Mamógrafo 81 instalado em Formoso capacidade ociosa 5347
+
+Campinaçu => 309/309
+Formoso => 457/457
+Montividiu do Norte => 338/338
+Trombas => 307/307
+
+Mamógrafo 82 instalado em Rubiataba capacidade ociosa 1290
+
+Ceres => 2044/2044
+Ipiranga de Goiás => 185/271
+Nova América => 200/200
+Rialma => 987/987
+Rubiataba => 1703/1703
+Santa Isabel => 349/349
+
+Mamógrafo 83 instalado em Hidrolândia capacidade ociosa 0
+
+Cromínia => 327/327
+Goiânia => 4745/121318
+Hidrolândia => 1398/1398
+Professor Jamil => 288/288
+
+Mamógrafo 84 instalado em Serranópolis capacidade ociosa 6200
+
+Serranópolis => 558/558
+
+Mamógrafo 85 instalado em Goianira capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 86 instalado em Nerópolis capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 87 instalado em Bela Vista de Goiás capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 88 instalado em Terezópolis de Goiás capacidade ociosa 0
+
+Goiânia => 6758/121318
+
+Mamógrafo 89 instalado em Pontalina capacidade ociosa 219
+
+Edealina => 197/327
+Joviânia => 196/613
+Mairipotaba => 235/235
+Morrinhos => 3747/3747
+Pontalina => 1560/1560
+Vicentinópolis => 604/604
+
+Mamógrafo 90 instalado em Campo Alegre de Goiás capacidade ociosa 6273
+
+Campo Alegre de Goiás => 485/485
+
+Mamógrafo 91 instalado em Caiapônia capacidade ociosa 4954
+
+Caiapônia => 1516/1516
+Palestina de Goiás => 288/288
+
+Mamógrafo 92 instalado em Campos Belos capacidade ociosa 4872
+
+Campos Belos => 1350/1350
+Monte Alegre de Goiás => 536/536
+
+Mamógrafo 93 instalado em Formosa capacidade ociosa 0
+
+Formosa => 6758/7662
+
+Mamógrafo 94 instalado em Crixás capacidade ociosa 5220
+
+Crixás => 1287/1287
+Uirapuru => 251/251
+
+Mamógrafo 95 instalado em Itumbiara capacidade ociosa 0
+
+Itumbiara => 6758/8885
+
+Mamógrafo 96 instalado em Itajá capacidade ociosa 5404
+
+Aporé => 310/310
+Itajá => 428/428
+Itarumã => 504/504
+Lagoa Santa => 112/112
+
+Mamógrafo 97 instalado em Alto Horizonte capacidade ociosa 2680
+
+Alto Horizonte => 320/320
+Amaralina => 307/307
+Campinorte => 903/903
+Campos Verdes => 447/447
+Mara Rosa => 924/924
+Nova Iguaçu de Goiás => 238/238
+Santa Terezinha de Goiás => 939/939
+
+Mamógrafo 98 instalado em Alto Paraíso de Goiás capacidade ociosa 6251
+
+Alto Paraíso de Goiás => 507/507
+
+Mamógrafo 99 instalado em Piranhas capacidade ociosa 5362
+
+Arenópolis => 320/320
+Piranhas => 1076/1076
+
+Cidades cobertas pelo mamógrafo 0 => Anápolis, 
+
+
+Cidades cobertas pelo mamógrafo 1 => Aragarças, Baliza, Bom Jardim de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 2 => Goiás, Itapirapuã, Matrinchã, Novo Brasil, 
+
+
+Cidades cobertas pelo mamógrafo 3 => Rio Verde, 
+
+
+Cidades cobertas pelo mamógrafo 4 => Diorama, Jaupaci, Montes Claros de Goiás, Santa Fé de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 5 => Alvorada do Norte, Guarani de Goiás, Iaciara, Posse, 
+
+
+Cidades cobertas pelo mamógrafo 6 => Buritinópolis, Simolândia, 
+
+
+Cidades cobertas pelo mamógrafo 7 => Aparecida de Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 8 => Luziânia, 
+
+
+Cidades cobertas pelo mamógrafo 9 => Adelândia, Americano do Brasil, Anicuns, Itaberaí, Nazário, Sanclerlândia, Turvânia, 
+
+
+Cidades cobertas pelo mamógrafo 10 => Rio Verde, 
+
+
+Cidades cobertas pelo mamógrafo 11 => Luziânia, Valparaíso de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 12 => Doverlândia, 
+
+
+Cidades cobertas pelo mamógrafo 13 => Vila Boa, 
+
+
+Cidades cobertas pelo mamógrafo 14 => Aparecida de Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 15 => Araçu, Avelinópolis, Damolândia, Inhumas, Itaguari, Itauçu, Nazário, Santa Bárbara de Goiás, Taquaral de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 16 => Anápolis, Caldazinha, Campo Limpo de Goiás, Guapó, Santo Antônio de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 17 => Divinópolis de Goiás, São Domingos, 
+
+
+Cidades cobertas pelo mamógrafo 18 => Mundo Novo, Nova Crixás, 
+
+
+Cidades cobertas pelo mamógrafo 19 => Anápolis, Nerópolis, Santa Rosa de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 20 => Cavalcante, Teresina de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 21 => Cabeceiras, 
+
+
+Cidades cobertas pelo mamógrafo 22 => Formosa, Planaltina, 
+
+
+Cidades cobertas pelo mamógrafo 23 => Catalão, 
+
+
+Cidades cobertas pelo mamógrafo 24 => Aparecida do Rio Doce, Cachoeira Alta, Caçu, Paranaiguara, São Simão, 
+
+
+Cidades cobertas pelo mamógrafo 25 => Novo Gama, 
+
+
+Cidades cobertas pelo mamógrafo 26 => Jataí, 
+
+
+Cidades cobertas pelo mamógrafo 27 => Aragoiânia, Senador Canedo, 
+
+
+Cidades cobertas pelo mamógrafo 28 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 29 => Amorinópolis, Iporá, Israelândia, Ivolândia, 
+
+
+Cidades cobertas pelo mamógrafo 30 => Montividiu, Rio Verde, Santo Antônio da Barra, 
+
+
+Cidades cobertas pelo mamógrafo 31 => Flores de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 32 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 33 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 34 => Bom Jesus de Goiás, Cachoeira Dourada, Gouvelândia, Inaciolândia, 
+
+
+Cidades cobertas pelo mamógrafo 35 => Água Limpa, Caldas Novas, Corumbaíba, Marzagão, Rio Quente, 
+
+
+Cidades cobertas pelo mamógrafo 36 => Aparecida de Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 37 => Águas Lindas de Goiás, Santo Antônio do Descoberto, 
+
+
+Cidades cobertas pelo mamógrafo 38 => Água Fria de Goiás, Mimoso de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 39 => Damianópolis, Mambaí, Sítio d'Abadia, 
+
+
+Cidades cobertas pelo mamógrafo 40 => Acreúna, Cezarina, Edealina, Edéia, Indiara, Jandaia, Palminópolis, Paraúna, Varjão, 
+
+
+Cidades cobertas pelo mamógrafo 41 => Mineiros, Portelândia, 
+
+
+Cidades cobertas pelo mamógrafo 42 => Águas Lindas de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 43 => São João d'Aliança, 
+
+
+Cidades cobertas pelo mamógrafo 44 => Castelândia, Quirinópolis, 
+
+
+Cidades cobertas pelo mamógrafo 45 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 46 => Aparecida de Goiânia, Bonfinópolis, Silvânia, Vianópolis, 
+
+
+Cidades cobertas pelo mamógrafo 47 => Barro Alto, Goianésia, Rianápolis, Santa Rita do Novo Destino, Vila Propício, 
+
+
+Cidades cobertas pelo mamógrafo 48 => Cidade Ocidental, Novo Gama, Valparaíso de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 49 => Estrela do Norte, Mutunópolis, Novo Planalto, Porangatu, Santa Tereza de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 50 => Anápolis, Nova Veneza, 
+
+
+Cidades cobertas pelo mamógrafo 51 => Anápolis, Jaraguá, Jesúpolis, Petrolina de Goiás, São Francisco de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 52 => Niquelândia, 
+
+
+Cidades cobertas pelo mamógrafo 53 => Abadiânia, Alexânia, Corumbá de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 54 => Maurilândia, Porteirão, Santa Helena de Goiás, Turvelândia, 
+
+
+Cidades cobertas pelo mamógrafo 55 => Abadia de Goiás, Caturaí, Goiânia, Inhumas, 
+
+
+Cidades cobertas pelo mamógrafo 56 => Araguapaz, Aruanã, Faina, Mozarlândia, 
+
+
+Cidades cobertas pelo mamógrafo 57 => Cristalina, 
+
+
+Cidades cobertas pelo mamógrafo 58 => Aparecida de Goiânia, Brazabrantes, 
+
+
+Cidades cobertas pelo mamógrafo 59 => Valparaíso de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 60 => Aparecida de Goiânia, Bela Vista de Goiás, Cristianópolis, Piracanjuba, São Miguel do Passa Quatro, 
+
+
+Cidades cobertas pelo mamógrafo 61 => Aparecida de Goiânia, Campestre de Goiás, Goianira, 
+
+
+Cidades cobertas pelo mamógrafo 62 => Aloândia, Buriti Alegre, Goiatuba, Itumbiara, Joviânia, Panamá, 
+
+
+Cidades cobertas pelo mamógrafo 63 => Minaçu, 
+
+
+Cidades cobertas pelo mamógrafo 64 => Aurilândia, Buriti de Goiás, Cachoeira de Goiás, Córrego do Ouro, Firminópolis, Moiporá, Mossâmedes, São João da Paraúna, São Luís de Montes Belos, 
+
+
+Cidades cobertas pelo mamógrafo 65 => Ipameri, Orizona, Palmelo, Pires do Rio, Santa Cruz de Goiás, Urutaí, 
+
+
+Cidades cobertas pelo mamógrafo 66 => Carmo do Rio Verde, Guaraíta, Heitoraí, Itaguaru, Itapuranga, Morro Agudo de Goiás, São Patrício, Uruana, 
+
+
+Cidades cobertas pelo mamógrafo 67 => Trindade, 
+
+
+Cidades cobertas pelo mamógrafo 68 => Anápolis, Leopoldo de Bulhões, 
+
+
+Cidades cobertas pelo mamógrafo 69 => Anápolis, Gameleira de Goiás, Goianápolis, Goiânia, Terezópolis de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 70 => Aparecida de Goiânia, Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 71 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 72 => Guarinos, Hidrolina, Ipiranga de Goiás, Itapaci, Nova Glória, Pilar de Goiás, Santa Rita do Novo Destino, São Luiz do Norte, Uruaçu, 
+
+
+Cidades cobertas pelo mamógrafo 73 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 74 => Goiânia, Ouro Verde de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 75 => Padre Bernardo, 
+
+
+Cidades cobertas pelo mamógrafo 76 => Anhanguera, Catalão, Cumari, Davinópolis, Goiandira, Nova Aurora, Ouvidor, Três Ranchos, 
+
+
+Cidades cobertas pelo mamógrafo 77 => Cocalzinho de Goiás, Pirenópolis, 
+
+
+Cidades cobertas pelo mamógrafo 78 => São Miguel do Araguaia, 
+
+
+Cidades cobertas pelo mamógrafo 79 => Aragoiânia, Goiânia, Palmeiras de Goiás, Trindade, 
+
+
+Cidades cobertas pelo mamógrafo 80 => Fazenda Nova, Jussara, 
+
+
+Cidades cobertas pelo mamógrafo 81 => Campinaçu, Formoso, Montividiu do Norte, Trombas, 
+
+
+Cidades cobertas pelo mamógrafo 82 => Ceres, Ipiranga de Goiás, Nova América, Rialma, Rubiataba, Santa Isabel, 
+
+
+Cidades cobertas pelo mamógrafo 83 => Cromínia, Goiânia, Hidrolândia, Professor Jamil, 
+
+
+Cidades cobertas pelo mamógrafo 84 => Serranópolis, 
+
+
+Cidades cobertas pelo mamógrafo 85 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 86 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 87 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 88 => Goiânia, 
+
+
+Cidades cobertas pelo mamógrafo 89 => Edealina, Joviânia, Mairipotaba, Morrinhos, Pontalina, Vicentinópolis, 
+
+
+Cidades cobertas pelo mamógrafo 90 => Campo Alegre de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 91 => Caiapônia, Palestina de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 92 => Campos Belos, Monte Alegre de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 93 => Formosa, 
+
+
+Cidades cobertas pelo mamógrafo 94 => Crixás, Uirapuru, 
+
+
+Cidades cobertas pelo mamógrafo 95 => Itumbiara, 
+
+
+Cidades cobertas pelo mamógrafo 96 => Aporé, Itajá, Itarumã, Lagoa Santa, 
+
+
+Cidades cobertas pelo mamógrafo 97 => Alto Horizonte, Amaralina, Campinorte, Campos Verdes, Mara Rosa, Nova Iguaçu de Goiás, Santa Terezinha de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 98 => Alto Paraíso de Goiás, 
+
+
+Cidades cobertas pelo mamógrafo 99 => Arenópolis, Piranhas, 
+
+
+
+Lista de mamógrafos na cidade Abadia de Goiás: 
+
+
+Lista de mamógrafos na cidade Abadiânia: 
+
+
+Lista de mamógrafos na cidade Acreúna: 
+
+
+Lista de mamógrafos na cidade Água Fria de Goiás: 38, 
+
+
+Lista de mamógrafos na cidade Águas Lindas de Goiás: 42, 
+
+
+Lista de mamógrafos na cidade Alexânia: 53, 
+
+
+Lista de mamógrafos na cidade Alto Horizonte: 97, 
+
+
+Lista de mamógrafos na cidade Alto Paraíso de Goiás: 98, 
+
+
+Lista de mamógrafos na cidade Alvorada do Norte: 
+
+
+Lista de mamógrafos na cidade Amaralina: 
+
+
+Lista de mamógrafos na cidade Americano do Brasil: 9, 
+
+
+Lista de mamógrafos na cidade Amorinópolis: 29, 
+
+
+Lista de mamógrafos na cidade Anápolis: 0, 
+
+
+Lista de mamógrafos na cidade Anicuns: 
+
+
+Lista de mamógrafos na cidade Aparecida de Goiânia: 7, 14, 36, 
+
+
+Lista de mamógrafos na cidade Aporé: 
+
+
+Lista de mamógrafos na cidade Araçu: 15, 
+
+
+Lista de mamógrafos na cidade Aragarças: 
+
+
+Lista de mamógrafos na cidade Aragoiânia: 
+
+
+Lista de mamógrafos na cidade Araguapaz: 56, 
+
+
+Lista de mamógrafos na cidade Arenópolis: 
+
+
+Lista de mamógrafos na cidade Aruanã: 
+
+
+Lista de mamógrafos na cidade Aurilândia: 
+
+
+Lista de mamógrafos na cidade Baliza: 
+
+
+Lista de mamógrafos na cidade Barro Alto: 
+
+
+Lista de mamógrafos na cidade Bela Vista de Goiás: 60, 70, 87, 
+
+
+Lista de mamógrafos na cidade Bom Jardim de Goiás: 1, 
+
+
+Lista de mamógrafos na cidade Bom Jesus de Goiás: 
+
+
+Lista de mamógrafos na cidade Bonfinópolis: 46, 
+
+
+Lista de mamógrafos na cidade Brazabrantes: 58, 
+
+
+Lista de mamógrafos na cidade Britânia: 
+
+
+Lista de mamógrafos na cidade Buriti Alegre: 
+
+
+Lista de mamógrafos na cidade Cabeceiras: 21, 
+
+
+Lista de mamógrafos na cidade Cachoeira Alta: 24, 
+
+
+Lista de mamógrafos na cidade Cachoeira Dourada: 
+
+
+Lista de mamógrafos na cidade Caçu: 
+
+
+Lista de mamógrafos na cidade Caiapônia: 91, 
+
+
+Lista de mamógrafos na cidade Caldas Novas: 35, 
+
+
+Lista de mamógrafos na cidade Caldazinha: 
+
+
+Lista de mamógrafos na cidade Campinaçu: 
+
+
+Lista de mamógrafos na cidade Campinorte: 
+
+
+Lista de mamógrafos na cidade Campo Alegre de Goiás: 90, 
+
+
+Lista de mamógrafos na cidade Campo Limpo de Goiás: 
+
+
+Lista de mamógrafos na cidade Campos Belos: 92, 
+
+
+Lista de mamógrafos na cidade Campos Verdes: 
+
+
+Lista de mamógrafos na cidade Carmo do Rio Verde: 
+
+
+Lista de mamógrafos na cidade Castelândia: 
+
+
+Lista de mamógrafos na cidade Catalão: 23, 76, 
+
+
+Lista de mamógrafos na cidade Caturaí: 55, 
+
+
+Lista de mamógrafos na cidade Cavalcante: 20, 
+
+
+Lista de mamógrafos na cidade Ceres: 
+
+
+Lista de mamógrafos na cidade Cezarina: 
+
+
+Lista de mamógrafos na cidade Chapadão do Céu: 
+
+
+Lista de mamógrafos na cidade Cidade Ocidental: 
+
+
+Lista de mamógrafos na cidade Cocalzinho de Goiás: 
+
+
+Lista de mamógrafos na cidade Corumbá de Goiás: 
+
+
+Lista de mamógrafos na cidade Corumbaíba: 
+
+
+Lista de mamógrafos na cidade Cristalina: 57, 
+
+
+Lista de mamógrafos na cidade Crixás: 94, 
+
+
+Lista de mamógrafos na cidade Cromínia: 
+
+
+Lista de mamógrafos na cidade Doverlândia: 12, 
+
+
+Lista de mamógrafos na cidade Edealina: 
+
+
+Lista de mamógrafos na cidade Edéia: 
+
+
+Lista de mamógrafos na cidade Estrela do Norte: 
+
+
+Lista de mamógrafos na cidade Faina: 
+
+
+Lista de mamógrafos na cidade Fazenda Nova: 
+
+
+Lista de mamógrafos na cidade Firminópolis: 
+
+
+Lista de mamógrafos na cidade Flores de Goiás: 31, 
+
+
+Lista de mamógrafos na cidade Formosa: 93, 
+
+
+Lista de mamógrafos na cidade Formoso: 81, 
+
+
+Lista de mamógrafos na cidade Divinópolis de Goiás: 
+
+
+Lista de mamógrafos na cidade Goianápolis: 
+
+
+Lista de mamógrafos na cidade Goiandira: 
+
+
+Lista de mamógrafos na cidade Goianésia: 47, 
+
+
+Lista de mamógrafos na cidade Goiânia: 28, 32, 33, 45, 
+
+
+Lista de mamógrafos na cidade Goianira: 61, 85, 
+
+
+Lista de mamógrafos na cidade Goiás: 
+
+
+Lista de mamógrafos na cidade Goiatuba: 62, 
+
+
+Lista de mamógrafos na cidade Gouvelândia: 
+
+
+Lista de mamógrafos na cidade Guapó: 
+
+
+Lista de mamógrafos na cidade Guarani de Goiás: 
+
+
+Lista de mamógrafos na cidade Heitoraí: 
+
+
+Lista de mamógrafos na cidade Hidrolândia: 83, 
+
+
+Lista de mamógrafos na cidade Hidrolina: 
+
+
+Lista de mamógrafos na cidade Iaciara: 
+
+
+Lista de mamógrafos na cidade Inaciolândia: 34, 
+
+
+Lista de mamógrafos na cidade Indiara: 40, 
+
+
+Lista de mamógrafos na cidade Inhumas: 
+
+
+Lista de mamógrafos na cidade Ipameri: 
+
+
+Lista de mamógrafos na cidade Iporá: 
+
+
+Lista de mamógrafos na cidade Itaberaí: 
+
+
+Lista de mamógrafos na cidade Itaguari: 
+
+
+Lista de mamógrafos na cidade Itaguaru: 
+
+
+Lista de mamógrafos na cidade Itajá: 96, 
+
+
+Lista de mamógrafos na cidade Itapaci: 
+
+
+Lista de mamógrafos na cidade Itapirapuã: 2, 
+
+
+Lista de mamógrafos na cidade Itapuranga: 66, 
+
+
+Lista de mamógrafos na cidade Itarumã: 
+
+
+Lista de mamógrafos na cidade Itauçu: 
+
+
+Lista de mamógrafos na cidade Itumbiara: 95, 
+
+
+Lista de mamógrafos na cidade Jandaia: 
+
+
+Lista de mamógrafos na cidade Jaraguá: 
+
+
+Lista de mamógrafos na cidade Jataí: 26, 
+
+
+Lista de mamógrafos na cidade Joviânia: 
+
+
+Lista de mamógrafos na cidade Jussara: 80, 
+
+
+Lista de mamógrafos na cidade Leopoldo de Bulhões: 68, 
+
+
+Lista de mamógrafos na cidade Luziânia: 8, 11, 48, 
+
+
+Lista de mamógrafos na cidade Mambaí: 39, 
+
+
+Lista de mamógrafos na cidade Mara Rosa: 
+
+
+Lista de mamógrafos na cidade Matrinchã: 
+
+
+Lista de mamógrafos na cidade Maurilândia: 
+
+
+Lista de mamógrafos na cidade Minaçu: 63, 
+
+
+Lista de mamógrafos na cidade Mineiros: 41, 
+
+
+Lista de mamógrafos na cidade Monte Alegre de Goiás: 
+
+
+Lista de mamógrafos na cidade Montes Claros de Goiás: 4, 
+
+
+Lista de mamógrafos na cidade Montividiu: 
+
+
+Lista de mamógrafos na cidade Montividiu do Norte: 
+
+
+Lista de mamógrafos na cidade Morrinhos: 
+
+
+Lista de mamógrafos na cidade Mossâmedes: 
+
+
+Lista de mamógrafos na cidade Mozarlândia: 
+
+
+Lista de mamógrafos na cidade Mundo Novo: 18, 
+
+
+Lista de mamógrafos na cidade Mutunópolis: 
+
+
+Lista de mamógrafos na cidade Nazário: 
+
+
+Lista de mamógrafos na cidade Nerópolis: 19, 71, 86, 
+
+
+Lista de mamógrafos na cidade Niquelândia: 52, 
+
+
+Lista de mamógrafos na cidade Nova Crixás: 
+
+
+Lista de mamógrafos na cidade Nova Glória: 
+
+
+Lista de mamógrafos na cidade Nova Veneza: 50, 
+
+
+Lista de mamógrafos na cidade Novo Brasil: 
+
+
+Lista de mamógrafos na cidade Novo Gama: 25, 
+
+
+Lista de mamógrafos na cidade Novo Planalto: 
+
+
+Lista de mamógrafos na cidade Orizona: 
+
+
+Lista de mamógrafos na cidade Ouro Verde de Goiás: 74, 
+
+
+Lista de mamógrafos na cidade Ouvidor: 
+
+
+Lista de mamógrafos na cidade Padre Bernardo: 75, 
+
+
+Lista de mamógrafos na cidade Palestina de Goiás: 
+
+
+Lista de mamógrafos na cidade Palmeiras de Goiás: 
+
+
+Lista de mamógrafos na cidade Palminópolis: 
+
+
+Lista de mamógrafos na cidade Paranaiguara: 
+
+
+Lista de mamógrafos na cidade Paraúna: 
+
+
+Lista de mamógrafos na cidade Petrolina de Goiás: 51, 
+
+
+Lista de mamógrafos na cidade Piracanjuba: 
+
+
+Lista de mamógrafos na cidade Piranhas: 99, 
+
+
+Lista de mamógrafos na cidade Pirenópolis: 77, 
+
+
+Lista de mamógrafos na cidade Pires do Rio: 65, 
+
+
+Lista de mamógrafos na cidade Planaltina: 22, 
+
+
+Lista de mamógrafos na cidade Pontalina: 89, 
+
+
+Lista de mamógrafos na cidade Porangatu: 49, 
+
+
+Lista de mamógrafos na cidade Portelândia: 
+
+
+Lista de mamógrafos na cidade Posse: 5, 
+
+
+Lista de mamógrafos na cidade Professor Jamil: 
+
+
+Lista de mamógrafos na cidade Quirinópolis: 44, 
+
+
+Lista de mamógrafos na cidade Rialma: 
+
+
+Lista de mamógrafos na cidade Rianápolis: 
+
+
+Lista de mamógrafos na cidade Rio Verde: 3, 10, 30, 
+
+
+Lista de mamógrafos na cidade Rubiataba: 82, 
+
+
+Lista de mamógrafos na cidade Sanclerlândia: 
+
+
+Lista de mamógrafos na cidade Santa Bárbara de Goiás: 
+
+
+Lista de mamógrafos na cidade Santa Cruz de Goiás: 
+
+
+Lista de mamógrafos na cidade Santa Fé de Goiás: 
+
+
+Lista de mamógrafos na cidade Santa Helena de Goiás: 54, 
+
+
+Lista de mamógrafos na cidade Santa Isabel: 
+
+
+Lista de mamógrafos na cidade Santa Rita do Araguaia: 
+
+
+Lista de mamógrafos na cidade Santa Rosa de Goiás: 
+
+
+Lista de mamógrafos na cidade Santa Tereza de Goiás: 
+
+
+Lista de mamógrafos na cidade Santa Terezinha de Goiás: 
+
+
+Lista de mamógrafos na cidade Santo Antônio da Barra: 
+
+
+Lista de mamógrafos na cidade Santo Antônio de Goiás: 16, 73, 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Descoberto: 37, 
+
+
+Lista de mamógrafos na cidade São Domingos: 17, 
+
+
+Lista de mamógrafos na cidade São Francisco de Goiás: 
+
+
+Lista de mamógrafos na cidade São João d'Aliança: 43, 
+
+
+Lista de mamógrafos na cidade São Luís de Montes Belos: 64, 
+
+
+Lista de mamógrafos na cidade São Luiz do Norte: 72, 
+
+
+Lista de mamógrafos na cidade São Miguel do Araguaia: 78, 
+
+
+Lista de mamógrafos na cidade São Miguel do Passa Quatro: 
+
+
+Lista de mamógrafos na cidade São Simão: 
+
+
+Lista de mamógrafos na cidade Senador Canedo: 27, 
+
+
+Lista de mamógrafos na cidade Serranópolis: 84, 
+
+
+Lista de mamógrafos na cidade Silvânia: 
+
+
+Lista de mamógrafos na cidade Simolândia: 6, 
+
+
+Lista de mamógrafos na cidade Taquaral de Goiás: 
+
+
+Lista de mamógrafos na cidade Terezópolis de Goiás: 69, 88, 
+
+
+Lista de mamógrafos na cidade Trindade: 67, 79, 
+
+
+Lista de mamógrafos na cidade Trombas: 
+
+
+Lista de mamógrafos na cidade Turvânia: 
+
+
+Lista de mamógrafos na cidade Turvelândia: 
+
+
+Lista de mamógrafos na cidade Uruaçu: 
+
+
+Lista de mamógrafos na cidade Uruana: 
+
+
+Lista de mamógrafos na cidade Urutaí: 
+
+
+Lista de mamógrafos na cidade Valparaíso de Goiás: 59, 
+
+
+Lista de mamógrafos na cidade Varjão: 
+
+
+Lista de mamógrafos na cidade Vianópolis: 
+
+
+Lista de mamógrafos na cidade Vicentinópolis: 
+
+
+Lista de mamógrafos na cidade Vila Boa: 13, 
+
+
+Lista de mamógrafos na cidade Vila Propício: 
+
+
+
+Cobertura da demanda
+Cidade Abadia de Goiás:  586/586 => 100.0%
+Mamógrafo 55 instalado em Caturaí => 586/586
+Cidade Abadiânia:  1252/1252 => 100.0%
+Mamógrafo 53 instalado em Alexânia => 1252/1252
+Cidade Acreúna:  1679/1679 => 100.0%
+Mamógrafo 40 instalado em Indiara => 1679/1679
+Cidade Adelândia:  218/218 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 218/218
+Cidade Água Fria de Goiás:  386/386 => 100.0%
+Mamógrafo 38 instalado em Água Fria de Goiás => 386/386
+Cidade Água Limpa:  176/176 => 100.0%
+Mamógrafo 35 instalado em Caldas Novas => 176/176
+Cidade Águas Lindas de Goiás:  9079/10776 => 84.25204157386786%
+Mamógrafo 37 instalado em Santo Antônio do Descoberto => 2321/10776
+Mamógrafo 42 instalado em Águas Lindas de Goiás => 6758/10776
+Cidade Alexânia:  1880/1880 => 100.0%
+Mamógrafo 53 instalado em Alexânia => 1880/1880
+Cidade Aloândia:  191/191 => 100.0%
+Mamógrafo 62 instalado em Goiatuba => 191/191
+Cidade Alto Horizonte:  320/320 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 320/320
+Cidade Alto Paraíso de Goiás:  507/507 => 100.0%
+Mamógrafo 98 instalado em Alto Paraíso de Goiás => 507/507
+Cidade Alvorada do Norte:  605/605 => 100.0%
+Mamógrafo 5 instalado em Posse => 605/605
+Cidade Amaralina:  307/307 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 307/307
+Cidade Americano do Brasil:  479/479 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 479/479
+Cidade Amorinópolis:  346/346 => 100.0%
+Mamógrafo 29 instalado em Amorinópolis => 346/346
+Cidade Anápolis:  30197/30197 => 100.0%
+Mamógrafo 0 instalado em Anápolis => 6758/30197
+Mamógrafo 16 instalado em Santo Antônio de Goiás => 4393/30197
+Mamógrafo 19 instalado em Nerópolis => 4427/30197
+Mamógrafo 50 instalado em Nova Veneza => 6065/30197
+Mamógrafo 51 instalado em Petrolina de Goiás => 1648/30197
+Mamógrafo 68 instalado em Leopoldo de Bulhões => 6110/30197
+Mamógrafo 69 instalado em Terezópolis de Goiás => 796/30197
+Cidade Anhanguera:  96/96 => 100.0%
+Mamógrafo 76 instalado em Catalão => 96/96
+Cidade Anicuns:  1766/1766 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 1766/1766
+Cidade Aparecida de Goiânia:  37056/37056 => 100.0%
+Mamógrafo 7 instalado em Aparecida de Goiânia => 6758/37056
+Mamógrafo 14 instalado em Aparecida de Goiânia => 6758/37056
+Mamógrafo 36 instalado em Aparecida de Goiânia => 6758/37056
+Mamógrafo 46 instalado em Bonfinópolis => 3475/37056
+Mamógrafo 58 instalado em Brazabrantes => 6462/37056
+Mamógrafo 60 instalado em Bela Vista de Goiás => 1832/37056
+Mamógrafo 61 instalado em Goianira => 3811/37056
+Mamógrafo 70 instalado em Bela Vista de Goiás => 1202/37056
+Cidade Aparecida do Rio Doce:  204/204 => 100.0%
+Mamógrafo 24 instalado em Cachoeira Alta => 204/204
+Cidade Aporé:  310/310 => 100.0%
+Mamógrafo 96 instalado em Itajá => 310/310
+Cidade Araçu:  360/360 => 100.0%
+Mamógrafo 15 instalado em Araçu => 360/360
+Cidade Aragarças:  1560/1560 => 100.0%
+Mamógrafo 1 instalado em Bom Jardim de Goiás => 1560/1560
+Cidade Aragoiânia:  724/724 => 100.0%
+Mamógrafo 27 instalado em Senador Canedo => 318/724
+Mamógrafo 79 instalado em Trindade => 406/724
+Cidade Araguapaz:  659/659 => 100.0%
+Mamógrafo 56 instalado em Araguapaz => 659/659
+Cidade Arenópolis:  320/320 => 100.0%
+Mamógrafo 99 instalado em Piranhas => 320/320
+Cidade Aruanã:  571/571 => 100.0%
+Mamógrafo 56 instalado em Araguapaz => 571/571
+Cidade Aurilândia:  364/364 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 364/364
+Cidade Avelinópolis:  223/223 => 100.0%
+Mamógrafo 15 instalado em Araçu => 223/223
+Cidade Baliza:  317/317 => 100.0%
+Mamógrafo 1 instalado em Bom Jardim de Goiás => 317/317
+Cidade Barro Alto:  673/673 => 100.0%
+Mamógrafo 47 instalado em Goianésia => 673/673
+Cidade Bela Vista de Goiás:  2117/2117 => 100.0%
+Mamógrafo 60 instalado em Bela Vista de Goiás => 2117/2117
+Cidade Bom Jardim de Goiás:  770/770 => 100.0%
+Mamógrafo 1 instalado em Bom Jardim de Goiás => 770/770
+Cidade Bom Jesus de Goiás:  1658/1658 => 100.0%
+Mamógrafo 34 instalado em Inaciolândia => 1658/1658
+Cidade Bonfinópolis:  633/633 => 100.0%
+Mamógrafo 46 instalado em Bonfinópolis => 633/633
+Cidade Bonópolis:  0/280 => 0.0%
+Cidade Brazabrantes:  296/296 => 100.0%
+Mamógrafo 58 instalado em Brazabrantes => 296/296
+Cidade Britânia:  0/495 => 0.0%
+Cidade Buriti Alegre:  811/811 => 100.0%
+Mamógrafo 62 instalado em Goiatuba => 811/811
+Cidade Buriti de Goiás:  247/247 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 247/247
+Cidade Buritinópolis:  241/241 => 100.0%
+Mamógrafo 6 instalado em Simolândia => 241/241
+Cidade Cabeceiras:  543/543 => 100.0%
+Mamógrafo 21 instalado em Cabeceiras => 543/543
+Cidade Cachoeira Alta:  820/820 => 100.0%
+Mamógrafo 24 instalado em Cachoeira Alta => 820/820
+Cidade Cachoeira de Goiás:  119/119 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 119/119
+Cidade Cachoeira Dourada:  741/741 => 100.0%
+Mamógrafo 34 instalado em Inaciolândia => 741/741
+Cidade Caçu:  1116/1116 => 100.0%
+Mamógrafo 24 instalado em Cachoeira Alta => 1116/1116
+Cidade Caiapônia:  1516/1516 => 100.0%
+Mamógrafo 91 instalado em Caiapônia => 1516/1516
+Cidade Caldas Novas:  5981/5981 => 100.0%
+Mamógrafo 35 instalado em Caldas Novas => 5981/5981
+Cidade Caldazinha:  291/291 => 100.0%
+Mamógrafo 16 instalado em Santo Antônio de Goiás => 291/291
+Cidade Campestre de Goiás:  282/282 => 100.0%
+Mamógrafo 61 instalado em Goianira => 282/282
+Cidade Campinaçu:  309/309 => 100.0%
+Mamógrafo 81 instalado em Formoso => 309/309
+Cidade Campinorte:  903/903 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 903/903
+Cidade Campo Alegre de Goiás:  485/485 => 100.0%
+Mamógrafo 90 instalado em Campo Alegre de Goiás => 485/485
+Cidade Campo Limpo de Goiás:  475/475 => 100.0%
+Mamógrafo 16 instalado em Santo Antônio de Goiás => 475/475
+Cidade Campos Belos:  1350/1350 => 100.0%
+Mamógrafo 92 instalado em Campos Belos => 1350/1350
+Cidade Campos Verdes:  447/447 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 447/447
+Cidade Carmo do Rio Verde:  798/798 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 798/798
+Cidade Castelândia:  319/319 => 100.0%
+Mamógrafo 44 instalado em Quirinópolis => 319/319
+Cidade Catalão:  7651/7651 => 100.0%
+Mamógrafo 23 instalado em Catalão => 6758/7651
+Mamógrafo 76 instalado em Catalão => 893/7651
+Cidade Caturaí:  420/420 => 100.0%
+Mamógrafo 55 instalado em Caturaí => 420/420
+Cidade Cavalcante:  609/609 => 100.0%
+Mamógrafo 20 instalado em Cavalcante => 609/609
+Cidade Ceres:  2044/2044 => 100.0%
+Mamógrafo 82 instalado em Rubiataba => 2044/2044
+Cidade Cezarina:  656/656 => 100.0%
+Mamógrafo 40 instalado em Indiara => 656/656
+Cidade Chapadão do Céu:  0/450 => 0.0%
+Cidade Cidade Ocidental:  3719/4318 => 86.12783696155628%
+Mamógrafo 48 instalado em Luziânia => 3719/4318
+Cidade Cocalzinho de Goiás:  1338/1338 => 100.0%
+Mamógrafo 77 instalado em Pirenópolis => 1338/1338
+Cidade Colinas do Sul:  0/271 => 0.0%
+Cidade Córrego do Ouro:  252/252 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 252/252
+Cidade Corumbá de Goiás:  814/814 => 100.0%
+Mamógrafo 53 instalado em Alexânia => 814/814
+Cidade Corumbaíba:  154/701 => 21.96861626248217%
+Mamógrafo 35 instalado em Caldas Novas => 154/701
+Cidade Cristalina:  3398/3398 => 100.0%
+Mamógrafo 57 instalado em Cristalina => 3398/3398
+Cidade Cristianópolis:  257/257 => 100.0%
+Mamógrafo 60 instalado em Bela Vista de Goiás => 257/257
+Cidade Crixás:  1287/1287 => 100.0%
+Mamógrafo 94 instalado em Crixás => 1287/1287
+Cidade Cromínia:  327/327 => 100.0%
+Mamógrafo 83 instalado em Hidrolândia => 327/327
+Cidade Cumari:  250/250 => 100.0%
+Mamógrafo 76 instalado em Catalão => 250/250
+Cidade Damianópolis:  266/266 => 100.0%
+Mamógrafo 39 instalado em Mambaí => 266/266
+Cidade Damolândia:  286/286 => 100.0%
+Mamógrafo 15 instalado em Araçu => 286/286
+Cidade Davinópolis:  192/192 => 100.0%
+Mamógrafo 76 instalado em Catalão => 192/192
+Cidade Diorama:  228/228 => 100.0%
+Mamógrafo 4 instalado em Montes Claros de Goiás => 228/228
+Cidade Doverlândia:  656/656 => 100.0%
+Mamógrafo 12 instalado em Doverlândia => 656/656
+Cidade Edealina:  327/327 => 100.0%
+Mamógrafo 40 instalado em Indiara => 130/327
+Mamógrafo 89 instalado em Pontalina => 197/327
+Cidade Edéia:  975/975 => 100.0%
+Mamógrafo 40 instalado em Indiara => 975/975
+Cidade Estrela do Norte:  295/295 => 100.0%
+Mamógrafo 49 instalado em Porangatu => 295/295
+Cidade Faina:  625/625 => 100.0%
+Mamógrafo 56 instalado em Araguapaz => 625/625
+Cidade Fazenda Nova:  600/600 => 100.0%
+Mamógrafo 80 instalado em Jussara => 600/600
+Cidade Firminópolis:  1126/1126 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 1126/1126
+Cidade Flores de Goiás:  854/854 => 100.0%
+Mamógrafo 31 instalado em Flores de Goiás => 854/854
+Cidade Formosa:  7662/7662 => 100.0%
+Mamógrafo 22 instalado em Planaltina => 904/7662
+Mamógrafo 93 instalado em Formosa => 6758/7662
+Cidade Formoso:  457/457 => 100.0%
+Mamógrafo 81 instalado em Formoso => 457/457
+Cidade Gameleira de Goiás:  270/270 => 100.0%
+Mamógrafo 69 instalado em Terezópolis de Goiás => 270/270
+Cidade Divinópolis de Goiás:  367/367 => 100.0%
+Mamógrafo 17 instalado em São Domingos => 367/367
+Cidade Goianápolis:  853/853 => 100.0%
+Mamógrafo 69 instalado em Terezópolis de Goiás => 853/853
+Cidade Goiandira:  471/471 => 100.0%
+Mamógrafo 76 instalado em Catalão => 471/471
+Cidade Goianésia:  5030/5030 => 100.0%
+Mamógrafo 47 instalado em Goianésia => 5030/5030
+Cidade Goiânia:  95129/121318 => 78.41293130450552%
+Mamógrafo 28 instalado em Goiânia => 6758/121318
+Mamógrafo 32 instalado em Goiânia => 6758/121318
+Mamógrafo 33 instalado em Goiânia => 6758/121318
+Mamógrafo 45 instalado em Goiânia => 6758/121318
+Mamógrafo 55 instalado em Caturaí => 4518/121318
+Mamógrafo 69 instalado em Terezópolis de Goiás => 4330/121318
+Mamógrafo 70 instalado em Bela Vista de Goiás => 5556/121318
+Mamógrafo 71 instalado em Nerópolis => 6758/121318
+Mamógrafo 73 instalado em Santo Antônio de Goiás => 6758/121318
+Mamógrafo 74 instalado em Ouro Verde de Goiás => 6384/121318
+Mamógrafo 79 instalado em Trindade => 2016/121318
+Mamógrafo 83 instalado em Hidrolândia => 4745/121318
+Mamógrafo 85 instalado em Goianira => 6758/121318
+Mamógrafo 86 instalado em Nerópolis => 6758/121318
+Mamógrafo 87 instalado em Bela Vista de Goiás => 6758/121318
+Mamógrafo 88 instalado em Terezópolis de Goiás => 6758/121318
+Cidade Goianira:  2665/2665 => 100.0%
+Mamógrafo 61 instalado em Goianira => 2665/2665
+Cidade Goiás:  2346/2346 => 100.0%
+Mamógrafo 2 instalado em Itapirapuã => 2346/2346
+Cidade Goiatuba:  2977/2977 => 100.0%
+Mamógrafo 62 instalado em Goiatuba => 2977/2977
+Cidade Gouvelândia:  420/420 => 100.0%
+Mamógrafo 34 instalado em Inaciolândia => 420/420
+Cidade Guapó:  1207/1207 => 100.0%
+Mamógrafo 16 instalado em Santo Antônio de Goiás => 1207/1207
+Cidade Guaraíta:  246/246 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 246/246
+Cidade Guarani de Goiás:  321/321 => 100.0%
+Mamógrafo 5 instalado em Posse => 321/321
+Cidade Guarinos:  207/207 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 207/207
+Cidade Heitoraí:  314/314 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 314/314
+Cidade Hidrolândia:  1398/1398 => 100.0%
+Mamógrafo 83 instalado em Hidrolândia => 1398/1398
+Cidade Hidrolina:  369/369 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 369/369
+Cidade Iaciara:  838/838 => 100.0%
+Mamógrafo 5 instalado em Posse => 838/838
+Cidade Inaciolândia:  486/486 => 100.0%
+Mamógrafo 34 instalado em Inaciolândia => 486/486
+Cidade Indiara:  1122/1122 => 100.0%
+Mamógrafo 40 instalado em Indiara => 1122/1122
+Cidade Inhumas:  4494/4494 => 100.0%
+Mamógrafo 15 instalado em Araçu => 3260/4494
+Mamógrafo 55 instalado em Caturaí => 1234/4494
+Cidade Ipameri:  2086/2191 => 95.2076677316294%
+Mamógrafo 65 instalado em Pires do Rio => 2086/2191
+Cidade Ipiranga de Goiás:  271/271 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 86/271
+Mamógrafo 82 instalado em Rubiataba => 185/271
+Cidade Iporá:  3084/3084 => 100.0%
+Mamógrafo 29 instalado em Amorinópolis => 3084/3084
+Cidade Israelândia:  271/271 => 100.0%
+Mamógrafo 29 instalado em Amorinópolis => 271/271
+Cidade Itaberaí:  3009/3009 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 3009/3009
+Cidade Itaguari:  406/406 => 100.0%
+Mamógrafo 15 instalado em Araçu => 406/406
+Cidade Itaguaru:  525/525 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 525/525
+Cidade Itajá:  428/428 => 100.0%
+Mamógrafo 96 instalado em Itajá => 428/428
+Cidade Itapaci:  1537/1537 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 1537/1537
+Cidade Itapirapuã:  713/713 => 100.0%
+Mamógrafo 2 instalado em Itapirapuã => 713/713
+Cidade Itapuranga:  2521/2521 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 2521/2521
+Cidade Itarumã:  504/504 => 100.0%
+Mamógrafo 96 instalado em Itajá => 504/504
+Cidade Itauçu:  824/824 => 100.0%
+Mamógrafo 15 instalado em Araçu => 824/824
+Cidade Itumbiara:  8885/8885 => 100.0%
+Mamógrafo 62 instalado em Goiatuba => 2127/8885
+Mamógrafo 95 instalado em Itumbiara => 6758/8885
+Cidade Ivolândia:  261/261 => 100.0%
+Mamógrafo 29 instalado em Amorinópolis => 261/261
+Cidade Jandaia:  584/584 => 100.0%
+Mamógrafo 40 instalado em Indiara => 584/584
+Cidade Jaraguá:  3466/3466 => 100.0%
+Mamógrafo 51 instalado em Petrolina de Goiás => 3466/3466
+Cidade Jataí:  6758/7351 => 91.93307033056726%
+Mamógrafo 26 instalado em Jataí => 6758/7351
+Cidade Jaupaci:  282/282 => 100.0%
+Mamógrafo 4 instalado em Montes Claros de Goiás => 282/282
+Cidade Jesúpolis:  196/196 => 100.0%
+Mamógrafo 51 instalado em Petrolina de Goiás => 196/196
+Cidade Joviânia:  613/613 => 100.0%
+Mamógrafo 62 instalado em Goiatuba => 417/613
+Mamógrafo 89 instalado em Pontalina => 196/613
+Cidade Jussara:  1763/1763 => 100.0%
+Mamógrafo 80 instalado em Jussara => 1763/1763
+Cidade Lagoa Santa:  112/112 => 100.0%
+Mamógrafo 96 instalado em Itajá => 112/112
+Cidade Leopoldo de Bulhões:  648/648 => 100.0%
+Mamógrafo 68 instalado em Leopoldo de Bulhões => 648/648
+Cidade Luziânia:  12916/12916 => 100.0%
+Mamógrafo 8 instalado em Luziânia => 6758/12916
+Mamógrafo 11 instalado em Luziânia => 6158/12916
+Cidade Mairipotaba:  235/235 => 100.0%
+Mamógrafo 89 instalado em Pontalina => 235/235
+Cidade Mambaí:  441/441 => 100.0%
+Mamógrafo 39 instalado em Mambaí => 441/441
+Cidade Mara Rosa:  924/924 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 924/924
+Cidade Marzagão:  168/168 => 100.0%
+Mamógrafo 35 instalado em Caldas Novas => 168/168
+Cidade Matrinchã:  391/391 => 100.0%
+Mamógrafo 2 instalado em Itapirapuã => 391/391
+Cidade Maurilândia:  807/807 => 100.0%
+Mamógrafo 54 instalado em Santa Helena de Goiás => 807/807
+Cidade Mimoso de Goiás:  208/208 => 100.0%
+Mamógrafo 38 instalado em Água Fria de Goiás => 208/208
+Cidade Minaçu:  2643/2643 => 100.0%
+Mamógrafo 63 instalado em Minaçu => 2643/2643
+Cidade Mineiros:  4127/4127 => 100.0%
+Mamógrafo 41 instalado em Mineiros => 4127/4127
+Cidade Moiporá:  174/174 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 174/174
+Cidade Monte Alegre de Goiás:  536/536 => 100.0%
+Mamógrafo 92 instalado em Campos Belos => 536/536
+Cidade Montes Claros de Goiás:  736/736 => 100.0%
+Mamógrafo 4 instalado em Montes Claros de Goiás => 736/736
+Cidade Montividiu:  826/826 => 100.0%
+Mamógrafo 30 instalado em Rio Verde => 826/826
+Cidade Montividiu do Norte:  338/338 => 100.0%
+Mamógrafo 81 instalado em Formoso => 338/338
+Cidade Morrinhos:  3747/3747 => 100.0%
+Mamógrafo 89 instalado em Pontalina => 3747/3747
+Cidade Morro Agudo de Goiás:  225/225 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 225/225
+Cidade Mossâmedes:  466/466 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 466/466
+Cidade Mozarlândia:  1050/1050 => 100.0%
+Mamógrafo 56 instalado em Araguapaz => 1050/1050
+Cidade Mundo Novo:  543/543 => 100.0%
+Mamógrafo 18 instalado em Mundo Novo => 543/543
+Cidade Mutunópolis:  326/326 => 100.0%
+Mamógrafo 49 instalado em Porangatu => 326/326
+Cidade Nazário:  695/695 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 142/695
+Mamógrafo 15 instalado em Araçu => 553/695
+Cidade Nerópolis:  2033/2033 => 100.0%
+Mamógrafo 19 instalado em Nerópolis => 2033/2033
+Cidade Niquelândia:  3390/3390 => 100.0%
+Mamógrafo 52 instalado em Niquelândia => 3390/3390
+Cidade Nova América:  200/200 => 100.0%
+Mamógrafo 82 instalado em Rubiataba => 200/200
+Cidade Nova Aurora:  184/184 => 100.0%
+Mamógrafo 76 instalado em Catalão => 184/184
+Cidade Nova Crixás:  955/955 => 100.0%
+Mamógrafo 18 instalado em Mundo Novo => 955/955
+Cidade Nova Glória:  765/765 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 765/765
+Cidade Nova Iguaçu de Goiás:  238/238 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 238/238
+Cidade Nova Roma:  0/283 => 0.0%
+Cidade Nova Veneza:  693/693 => 100.0%
+Mamógrafo 50 instalado em Nova Veneza => 693/693
+Cidade Novo Brasil:  338/338 => 100.0%
+Mamógrafo 2 instalado em Itapirapuã => 338/338
+Cidade Novo Gama:  6853/6853 => 100.0%
+Mamógrafo 25 instalado em Novo Gama => 6758/6853
+Mamógrafo 48 instalado em Luziânia => 95/6853
+Cidade Novo Planalto:  329/329 => 100.0%
+Mamógrafo 49 instalado em Porangatu => 329/329
+Cidade Orizona:  1256/1256 => 100.0%
+Mamógrafo 65 instalado em Pires do Rio => 1256/1256
+Cidade Ouro Verde de Goiás:  374/374 => 100.0%
+Mamógrafo 74 instalado em Ouro Verde de Goiás => 374/374
+Cidade Ouvidor:  470/470 => 100.0%
+Mamógrafo 76 instalado em Catalão => 470/470
+Cidade Padre Bernardo:  2024/2024 => 100.0%
+Mamógrafo 75 instalado em Padre Bernardo => 2024/2024
+Cidade Palestina de Goiás:  288/288 => 100.0%
+Mamógrafo 91 instalado em Caiapônia => 288/288
+Cidade Palmeiras de Goiás:  2042/2042 => 100.0%
+Mamógrafo 79 instalado em Trindade => 2042/2042
+Cidade Palmelo:  221/221 => 100.0%
+Mamógrafo 65 instalado em Pires do Rio => 221/221
+Cidade Palminópolis:  352/352 => 100.0%
+Mamógrafo 40 instalado em Indiara => 352/352
+Cidade Panamá:  235/235 => 100.0%
+Mamógrafo 62 instalado em Goiatuba => 235/235
+Cidade Paranaiguara:  790/790 => 100.0%
+Mamógrafo 24 instalado em Cachoeira Alta => 790/790
+Cidade Paraúna:  922/922 => 100.0%
+Mamógrafo 40 instalado em Indiara => 922/922
+Cidade Perolândia:  0/240 => 0.0%
+Cidade Petrolina de Goiás:  909/909 => 100.0%
+Mamógrafo 51 instalado em Petrolina de Goiás => 909/909
+Cidade Pilar de Goiás:  251/251 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 251/251
+Cidade Piracanjuba:  2233/2233 => 100.0%
+Mamógrafo 60 instalado em Bela Vista de Goiás => 2233/2233
+Cidade Piranhas:  1076/1076 => 100.0%
+Mamógrafo 99 instalado em Piranhas => 1076/1076
+Cidade Pirenópolis:  1936/1936 => 100.0%
+Mamógrafo 77 instalado em Pirenópolis => 1936/1936
+Cidade Pires do Rio:  2615/2615 => 100.0%
+Mamógrafo 65 instalado em Pires do Rio => 2615/2615
+Cidade Planaltina:  5837/5837 => 100.0%
+Mamógrafo 22 instalado em Planaltina => 5837/5837
+Cidade Pontalina:  1560/1560 => 100.0%
+Mamógrafo 89 instalado em Pontalina => 1560/1560
+Cidade Porangatu:  3519/3519 => 100.0%
+Mamógrafo 49 instalado em Porangatu => 3519/3519
+Cidade Porteirão:  255/255 => 100.0%
+Mamógrafo 54 instalado em Santa Helena de Goiás => 255/255
+Cidade Portelândia:  311/311 => 100.0%
+Mamógrafo 41 instalado em Mineiros => 311/311
+Cidade Posse:  2236/2236 => 100.0%
+Mamógrafo 5 instalado em Posse => 2236/2236
+Cidade Professor Jamil:  288/288 => 100.0%
+Mamógrafo 83 instalado em Hidrolândia => 288/288
+Cidade Quirinópolis:  3723/3723 => 100.0%
+Mamógrafo 44 instalado em Quirinópolis => 3723/3723
+Cidade Rialma:  987/987 => 100.0%
+Mamógrafo 82 instalado em Rubiataba => 987/987
+Cidade Rianápolis:  392/392 => 100.0%
+Mamógrafo 47 instalado em Goianésia => 392/392
+Cidade Rio Quente:  279/279 => 100.0%
+Mamógrafo 35 instalado em Caldas Novas => 279/279
+Cidade Rio Verde:  13888/13888 => 100.0%
+Mamógrafo 3 instalado em Rio Verde => 6758/13888
+Mamógrafo 10 instalado em Rio Verde => 6758/13888
+Mamógrafo 30 instalado em Rio Verde => 372/13888
+Cidade Rubiataba:  1703/1703 => 100.0%
+Mamógrafo 82 instalado em Rubiataba => 1703/1703
+Cidade Sanclerlândia:  683/683 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 683/683
+Cidade Santa Bárbara de Goiás:  494/494 => 100.0%
+Mamógrafo 15 instalado em Araçu => 494/494
+Cidade Santa Cruz de Goiás:  289/289 => 100.0%
+Mamógrafo 65 instalado em Pires do Rio => 289/289
+Cidade Santa Fé de Goiás:  384/384 => 100.0%
+Mamógrafo 4 instalado em Montes Claros de Goiás => 384/384
+Cidade Santa Helena de Goiás:  3261/3261 => 100.0%
+Mamógrafo 54 instalado em Santa Helena de Goiás => 3261/3261
+Cidade Santa Isabel:  349/349 => 100.0%
+Mamógrafo 82 instalado em Rubiataba => 349/349
+Cidade Santa Rita do Araguaia:  0/535 => 0.0%
+Cidade Santa Rita do Novo Destino:  273/273 => 100.0%
+Mamógrafo 47 instalado em Goianésia => 248/273
+Mamógrafo 72 instalado em São Luiz do Norte => 25/273
+Cidade Santa Rosa de Goiás:  298/298 => 100.0%
+Mamógrafo 19 instalado em Nerópolis => 298/298
+Cidade Santa Tereza de Goiás:  342/342 => 100.0%
+Mamógrafo 49 instalado em Porangatu => 342/342
+Cidade Santa Terezinha de Goiás:  939/939 => 100.0%
+Mamógrafo 97 instalado em Alto Horizonte => 939/939
+Cidade Santo Antônio da Barra:  346/346 => 100.0%
+Mamógrafo 30 instalado em Rio Verde => 346/346
+Cidade Santo Antônio de Goiás:  392/392 => 100.0%
+Mamógrafo 16 instalado em Santo Antônio de Goiás => 392/392
+Cidade Santo Antônio do Descoberto:  4437/4437 => 100.0%
+Mamógrafo 37 instalado em Santo Antônio do Descoberto => 4437/4437
+Cidade São Domingos:  802/802 => 100.0%
+Mamógrafo 17 instalado em São Domingos => 802/802
+Cidade São Francisco de Goiás:  539/539 => 100.0%
+Mamógrafo 51 instalado em Petrolina de Goiás => 539/539
+Cidade São João d'Aliança:  706/706 => 100.0%
+Mamógrafo 43 instalado em São João d'Aliança => 706/706
+Cidade São João da Paraúna:  167/167 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 167/167
+Cidade São Luís de Montes Belos:  2835/2835 => 100.0%
+Mamógrafo 64 instalado em São Luís de Montes Belos => 2835/2835
+Cidade São Luiz do Norte:  375/375 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 375/375
+Cidade São Miguel do Araguaia:  1905/1905 => 100.0%
+Mamógrafo 78 instalado em São Miguel do Araguaia => 1905/1905
+Cidade São Miguel do Passa Quatro:  319/319 => 100.0%
+Mamógrafo 60 instalado em Bela Vista de Goiás => 319/319
+Cidade São Patrício:  181/181 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 181/181
+Cidade São Simão:  1460/1460 => 100.0%
+Mamógrafo 24 instalado em Cachoeira Alta => 1460/1460
+Cidade Senador Canedo:  6440/6440 => 100.0%
+Mamógrafo 27 instalado em Senador Canedo => 6440/6440
+Cidade Serranópolis:  558/558 => 100.0%
+Mamógrafo 84 instalado em Serranópolis => 558/558
+Cidade Silvânia:  1610/1610 => 100.0%
+Mamógrafo 46 instalado em Bonfinópolis => 1610/1610
+Cidade Simolândia:  457/457 => 100.0%
+Mamógrafo 6 instalado em Simolândia => 457/457
+Cidade Sítio d'Abadia:  210/210 => 100.0%
+Mamógrafo 39 instalado em Mambaí => 210/210
+Cidade Taquaral de Goiás:  352/352 => 100.0%
+Mamógrafo 15 instalado em Araçu => 352/352
+Cidade Teresina de Goiás:  187/187 => 100.0%
+Mamógrafo 20 instalado em Cavalcante => 187/187
+Cidade Terezópolis de Goiás:  509/509 => 100.0%
+Mamógrafo 69 instalado em Terezópolis de Goiás => 509/509
+Cidade Três Ranchos:  259/259 => 100.0%
+Mamógrafo 76 instalado em Catalão => 259/259
+Cidade Trindade:  9052/9052 => 100.0%
+Mamógrafo 67 instalado em Trindade => 6758/9052
+Mamógrafo 79 instalado em Trindade => 2294/9052
+Cidade Trombas:  307/307 => 100.0%
+Mamógrafo 81 instalado em Formoso => 307/307
+Cidade Turvânia:  461/461 => 100.0%
+Mamógrafo 9 instalado em Americano do Brasil => 461/461
+Cidade Turvelândia:  318/318 => 100.0%
+Mamógrafo 54 instalado em Santa Helena de Goiás => 318/318
+Cidade Uirapuru:  251/251 => 100.0%
+Mamógrafo 94 instalado em Crixás => 251/251
+Cidade Uruaçu:  3143/3143 => 100.0%
+Mamógrafo 72 instalado em São Luiz do Norte => 3143/3143
+Cidade Uruana:  1272/1272 => 100.0%
+Mamógrafo 66 instalado em Itapuranga => 1272/1272
+Cidade Urutaí:  291/291 => 100.0%
+Mamógrafo 65 instalado em Pires do Rio => 291/291
+Cidade Valparaíso de Goiás:  10302/10302 => 100.0%
+Mamógrafo 11 instalado em Luziânia => 600/10302
+Mamógrafo 48 instalado em Luziânia => 2944/10302
+Mamógrafo 59 instalado em Valparaíso de Goiás => 6758/10302
+Cidade Varjão:  338/338 => 100.0%
+Mamógrafo 40 instalado em Indiara => 338/338
+Cidade Vianópolis:  1040/1040 => 100.0%
+Mamógrafo 46 instalado em Bonfinópolis => 1040/1040
+Cidade Vicentinópolis:  604/604 => 100.0%
+Mamógrafo 89 instalado em Pontalina => 604/604
+Cidade Vila Boa:  288/288 => 100.0%
+Mamógrafo 13 instalado em Vila Boa => 288/288
+Cidade Vila Propício:  415/415 => 100.0%
+Mamógrafo 47 instalado em Goianésia => 415/415
+Coberturas
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.8425204157386785
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.8612783696155628
+1.0
+0.0
+1.0
+1.0
+0.21968616262482168
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.7841293130450552
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.952076677316294
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.9193307033056727
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0

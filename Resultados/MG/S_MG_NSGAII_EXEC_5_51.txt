@@ -1,0 +1,7488 @@
+Funções objetivo
+1 -1639835.0
+2 -1.0347396374499997E7
+3 -0.36898506974572576
+
+
+Mamógrafos: 
+
+Mamógrafo 0 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 1 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 2 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 3 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 4 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 5 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 6 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 7 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 8 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 9 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 10 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 11 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 12 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 13 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 14 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 15 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 16 instalado em Betim capacidade ociosa 0
+
+Betim => 6758/32368
+
+Mamógrafo 17 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 18 instalado em Montes Claros capacidade ociosa 0
+
+Montes Claros => 6758/30534
+
+Mamógrafo 19 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 20 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 21 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 22 instalado em Uberaba capacidade ociosa 0
+
+Uberaba => 6758/28193
+
+Mamógrafo 23 instalado em Betim capacidade ociosa 0
+
+Betim => 6758/32368
+
+Mamógrafo 24 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 25 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 26 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 27 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 28 instalado em Ribeirão das Neves capacidade ociosa 0
+
+Ribeirão das Neves => 6758/24578
+
+Mamógrafo 29 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 30 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 31 instalado em Montes Claros capacidade ociosa 0
+
+Montes Claros => 6758/30534
+
+Mamógrafo 32 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 33 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 34 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 35 instalado em Governador Valadares capacidade ociosa 0
+
+Governador Valadares => 6758/24041
+
+Mamógrafo 36 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 37 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 38 instalado em Uberaba capacidade ociosa 0
+
+Uberaba => 6758/28193
+
+Mamógrafo 39 instalado em Pintópolis capacidade ociosa 6301
+
+Pintópolis => 457/457
+
+Mamógrafo 40 instalado em Divinópolis capacidade ociosa 0
+
+Divinópolis => 6758/20823
+
+Mamógrafo 41 instalado em Sete Lagoas capacidade ociosa 0
+
+Sete Lagoas => 6758/19954
+
+Mamógrafo 42 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 43 instalado em Betim capacidade ociosa 0
+
+Betim => 6758/32368
+
+Mamógrafo 44 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 45 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 46 instalado em Ribeirão das Neves capacidade ociosa 0
+
+Ribeirão das Neves => 6758/24578
+
+Mamógrafo 47 instalado em Santa Luzia capacidade ociosa 0
+
+Santa Luzia => 6758/17811
+
+Mamógrafo 48 instalado em Governador Valadares capacidade ociosa 0
+
+Governador Valadares => 6758/24041
+
+Mamógrafo 49 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 50 instalado em Montes Claros capacidade ociosa 0
+
+Montes Claros => 6758/30534
+
+Mamógrafo 51 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 52 instalado em Ipatinga capacidade ociosa 0
+
+Ipatinga => 6758/22625
+
+Mamógrafo 53 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 54 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 55 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 56 instalado em Uberaba capacidade ociosa 0
+
+Uberaba => 6758/28193
+
+Mamógrafo 57 instalado em Poços de Caldas capacidade ociosa 0
+
+Poços de Caldas => 6758/14742
+
+Mamógrafo 58 instalado em Nova Resende capacidade ociosa 0
+
+Alterosa => 1157/1157
+Bom Jesus da Penha => 349/349
+Cabo Verde => 194/1106
+Conceição da Aparecida => 834/834
+Jacuí => 643/643
+Juruaia => 748/748
+Monte Belo => 1115/1115
+Nova Resende => 1261/1261
+São Pedro da União => 457/457
+
+Mamógrafo 59 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 60 instalado em Divinópolis capacidade ociosa 0
+
+Divinópolis => 6758/20823
+
+Mamógrafo 61 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 62 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 63 instalado em Ibirité capacidade ociosa 0
+
+Ibirité => 6758/13227
+
+Mamógrafo 64 instalado em Barbacena capacidade ociosa 0
+
+Barbacena => 6758/12704
+
+Mamógrafo 65 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 66 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 67 instalado em Sete Lagoas capacidade ociosa 0
+
+Sete Lagoas => 6758/19954
+
+Mamógrafo 68 instalado em Pouso Alegre capacidade ociosa 0
+
+Pouso Alegre => 6758/12188
+
+Mamógrafo 69 instalado em Juiz de Fora capacidade ociosa 0
+
+Juiz de Fora => 6758/52323
+
+Mamógrafo 70 instalado em Betim capacidade ociosa 0
+
+Betim => 6758/32368
+
+Mamógrafo 71 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 72 instalado em Teófilo Otoni capacidade ociosa 0
+
+Teófilo Otoni => 6758/11513
+
+Mamógrafo 73 instalado em Sabará capacidade ociosa 0
+
+Sabará => 6758/11336
+
+Mamógrafo 74 instalado em Conselheiro Lafaiete capacidade ociosa 0
+
+Conselheiro Lafaiete => 6758/11264
+
+Mamógrafo 75 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 76 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 77 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 78 instalado em Ribeirão das Neves capacidade ociosa 0
+
+Ribeirão das Neves => 6758/24578
+
+Mamógrafo 79 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 80 instalado em Varginha capacidade ociosa 0
+
+Varginha => 6758/11696
+
+Mamógrafo 81 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 82 instalado em Governador Valadares capacidade ociosa 0
+
+Governador Valadares => 6758/24041
+
+Mamógrafo 83 instalado em Araguari capacidade ociosa 0
+
+Araguari => 6758/10394
+
+Mamógrafo 84 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 85 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 86 instalado em Santa Luzia capacidade ociosa 0
+
+Santa Luzia => 6758/17811
+
+Mamógrafo 87 instalado em Montes Claros capacidade ociosa 0
+
+Montes Claros => 6758/30534
+
+Mamógrafo 88 instalado em Itabira capacidade ociosa 0
+
+Itabira => 6758/10352
+
+Mamógrafo 89 instalado em Coronel Fabriciano capacidade ociosa 0
+
+Coronel Fabriciano => 6758/9668
+
+Mamógrafo 90 instalado em Passos capacidade ociosa 0
+
+Passos => 6758/9842
+
+Mamógrafo 91 instalado em Muriaé capacidade ociosa 0
+
+Muriaé => 6758/9483
+
+Mamógrafo 92 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 93 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 6758/234923
+
+Mamógrafo 94 instalado em Ipatinga capacidade ociosa 0
+
+Ipatinga => 6758/22625
+
+Mamógrafo 95 instalado em Uberlândia capacidade ociosa 0
+
+Uberlândia => 6758/56917
+
+Mamógrafo 96 instalado em Ubá capacidade ociosa 0
+
+Ubá => 6758/9114
+
+Mamógrafo 97 instalado em Ituiutaba capacidade ociosa 0
+
+Ituiutaba => 6758/9106
+
+Mamógrafo 98 instalado em Lavras capacidade ociosa 0
+
+Lavras => 6758/8818
+
+Mamógrafo 99 instalado em Ouro Verde de Minas capacidade ociosa 5912
+
+Frei Gaspar => 426/426
+Ouro Verde de Minas => 420/420
+
+Mamógrafo 100 instalado em Vespasiano capacidade ociosa 0
+
+Vespasiano => 6758/8784
+
+Mamógrafo 101 instalado em São João del Rei capacidade ociosa 0
+
+São João del Rei => 6758/8597
+
+Mamógrafo 102 instalado em Itajubá capacidade ociosa 0
+
+Itajubá => 6758/8434
+
+Mamógrafo 103 instalado em Poços de Caldas capacidade ociosa 0
+
+Poços de Caldas => 6758/14742
+
+Mamógrafo 104 instalado em Uberaba capacidade ociosa 0
+
+Uberaba => 6758/28193
+
+Mamógrafo 105 instalado em Timóteo capacidade ociosa 0
+
+Timóteo => 6758/7902
+
+Mamógrafo 106 instalado em Nova Lima capacidade ociosa 0
+
+Nova Lima => 6758/7762
+
+Mamógrafo 107 instalado em Pará de Minas capacidade ociosa 0
+
+Pará de Minas => 6758/7646
+
+Mamógrafo 108 instalado em Itaúna capacidade ociosa 0
+
+Itaúna => 6758/8111
+
+Mamógrafo 109 instalado em Caratinga capacidade ociosa 0
+
+Caratinga => 6758/7447
+
+Mamógrafo 110 instalado em Contagem capacidade ociosa 0
+
+Contagem => 6758/56324
+
+Mamógrafo 111 instalado em Divinópolis capacidade ociosa 0
+
+Divinópolis => 6758/20823
+
+Mamógrafo 112 instalado em João Monlevade capacidade ociosa 0
+
+João Monlevade => 6758/7334
+
+Mamógrafo 113 instalado em Patrocínio capacidade ociosa 0
+
+Patrocínio => 6758/7100
+
+Mamógrafo 114 instalado em Viçosa capacidade ociosa 0
+
+Teixeiras => 4/1061
+Viçosa => 6754/6754
+
+Mamógrafo 115 instalado em Patos de Minas capacidade ociosa 0
+
+Patos de Minas => 6758/13378
+
+Mamógrafo 116 instalado em Paracatu capacidade ociosa 156
+
+Paracatu => 6602/6602
+
+Mamógrafo 117 instalado em Cataguases capacidade ociosa 0
+
+Cataguases => 6690/6690
+Dona Euzébia => 68/525
+
+Mamógrafo 118 instalado em Curvelo capacidade ociosa 0
+
+Curvelo => 6541/6541
+Inimutaba => 217/572
+
+Mamógrafo 119 instalado em Unaí capacidade ociosa 0
+
+Cabeceira Grande => 246/506
+Unaí => 6512/6512
+
+Mamógrafo 120 instalado em Alfenas capacidade ociosa 0
+
+Alfenas => 6758/6883
+
+Mamógrafo 121 instalado em Sete Lagoas capacidade ociosa 0
+
+Prudente de Morais => 320/829
+Sete Lagoas => 6438/19954
+
+Mamógrafo 122 instalado em Três Corações capacidade ociosa 0
+
+Cambuquira => 346/1144
+Três Corações => 6412/6412
+
+Mamógrafo 123 instalado em Ibirité capacidade ociosa 0
+
+Ibirité => 6469/13227
+Mário Campos => 289/1097
+
+Mamógrafo 124 instalado em Ouro Preto capacidade ociosa 0
+
+Diogo de Vasconcelos => 308/308
+Itaverava => 62/465
+Ouro Preto => 6388/6388
+
+Mamógrafo 125 instalado em Manhuaçu capacidade ociosa 0
+
+Manhuaçu => 6588/6588
+Reduto => 170/505
+
+Mamógrafo 126 instalado em São Sebastião do Paraíso capacidade ociosa 0
+
+Itamogi => 350/928
+São Sebastião do Paraíso => 5851/5851
+São Tomás de Aquino => 557/557
+
+Mamógrafo 127 instalado em Barbacena capacidade ociosa 0
+
+Alfredo Vasconcelos => 536/536
+Antônio Carlos => 276/1011
+Barbacena => 5946/12704
+
+Mamógrafo 128 instalado em Ponte Nova capacidade ociosa 0
+
+Amparo do Serra => 434/434
+Barra Longa => 172/574
+Oratórios => 384/384
+Ponte Nova => 5539/5539
+Rio Doce => 229/229
+
+Mamógrafo 129 instalado em Pouso Alegre capacidade ociosa 0
+
+Congonhal => 972/972
+Espírito Santo do Dourado => 356/397
+Pouso Alegre => 5430/12188
+
+Mamógrafo 130 instalado em Betim capacidade ociosa 0
+
+Betim => 5336/32368
+Mário Campos => 808/1097
+São Joaquim de Bicas => 614/1845
+
+Mamógrafo 131 instalado em Belo Horizonte capacidade ociosa 0
+
+Belo Horizonte => 5151/234923
+Nova Lima => 1004/7762
+Rio Acima => 603/760
+
+Mamógrafo 132 instalado em Pedro Leopoldo capacidade ociosa 0
+
+Confins => 529/529
+Funilândia => 165/315
+Pedro Leopoldo => 5555/5555
+Prudente de Morais => 509/829
+
+Mamógrafo 133 instalado em Janaúba capacidade ociosa 625
+
+Janaúba => 5131/5131
+Nova Porteirinha => 526/526
+Verdelândia => 476/476
+
+Mamógrafo 134 instalado em Formiga capacidade ociosa 0
+
+Córrego Fundo => 373/498
+Formiga => 6385/6385
+
+Mamógrafo 135 instalado em Varginha capacidade ociosa 0
+
+Elói Mendes => 1820/2232
+Varginha => 4938/11696
+
+Mamógrafo 136 instalado em Esmeraldas capacidade ociosa 0
+
+Cachoeira da Prata => 355/355
+Esmeraldas => 4909/4909
+Florestal => 450/590
+Fortuna de Minas => 212/212
+Inhaúma => 494/494
+São José da Varginha => 338/338
+
+Mamógrafo 137 instalado em Campo Belo capacidade ociosa 0
+
+Campo Belo => 4886/4886
+Cana Verde => 483/483
+Candeias => 1333/1333
+Santana do Jacaré => 56/378
+
+Mamógrafo 138 instalado em Nova Serrana capacidade ociosa 0
+
+Conceição do Pará => 432/432
+Leandro Ferreira => 260/260
+Nova Serrana => 5015/5015
+Perdigão => 676/676
+São Gonçalo do Pará => 375/904
+
+Mamógrafo 139 instalado em Lagoa Santa capacidade ociosa 1597
+
+Lagoa Santa => 4866/4866
+Taquaraçu de Minas => 295/295
+
+Mamógrafo 140 instalado em Juiz de Fora capacidade ociosa 0
+
+Chácara => 266/266
+Coronel Pacheco => 198/280
+Juiz de Fora => 5017/52323
+Matias Barbosa => 1277/1277
+
+Mamógrafo 141 instalado em Frutal capacidade ociosa 0
+
+Fronteira => 794/1127
+Frutal => 4801/4801
+Pirajuba => 314/314
+Planura => 849/849
+
+Mamógrafo 142 instalado em Teófilo Otoni capacidade ociosa 577
+
+Campanário => 274/274
+Poté => 1152/1152
+Teófilo Otoni => 4755/11513
+
+Mamógrafo 143 instalado em Januária capacidade ociosa 0
+
+Bonito de Minas => 580/580
+Cônego Marinho => 471/471
+Ibiracatu => 249/416
+Januária => 4733/4733
+Pedras de Maria da Cruz => 725/725
+
+Mamógrafo 144 instalado em Guaxupé capacidade ociosa 0
+
+Arceburgo => 780/780
+Cabo Verde => 912/1106
+Guaxupé => 4611/4611
+Itamogi => 455/928
+
+Mamógrafo 145 instalado em Sabará capacidade ociosa 2023
+
+Rio Acima => 157/760
+Sabará => 4578/11336
+
+Mamógrafo 146 instalado em Leopoldina capacidade ociosa 0
+
+Argirita => 255/255
+Dona Euzébia => 399/525
+Itamarati de Minas => 382/382
+Leopoldina => 4760/4760
+Recreio => 962/962
+
+Mamógrafo 147 instalado em Conselheiro Lafaiete capacidade ociosa 0
+
+Caranaíba => 291/291
+Casa Grande => 191/191
+Catas Altas da Noruega => 106/254
+Conselheiro Lafaiete => 4506/11264
+Cristiano Otoni => 425/425
+Itaverava => 403/465
+Queluzito => 181/181
+Santana dos Montes => 318/318
+São Brás do Suaçuí => 337/337
+
+Mamógrafo 148 instalado em Três Pontas capacidade ociosa 0
+
+Carmo da Cachoeira => 303/977
+Coqueiral => 806/806
+Fama => 227/227
+Santana da Vargem => 624/624
+Três Pontas => 4798/4798
+
+Mamógrafo 149 instalado em Pirapora capacidade ociosa 2285
+
+Pirapora => 4473/4473
+
+Mamógrafo 150 instalado em Mariana capacidade ociosa 1127
+
+Acaiaca => 337/337
+Barra Longa => 402/574
+Catas Altas => 417/417
+Mariana => 4475/4475
+
+Mamógrafo 151 instalado em Santos Dumont capacidade ociosa 0
+
+Antônio Carlos => 735/1011
+Aracitaba => 212/212
+Coronel Pacheco => 26/280
+Ewbank da Câmara => 324/324
+Oliveira Fortes => 195/195
+Paiva => 141/141
+Piau => 252/252
+Santa Bárbara do Tugúrio => 399/399
+Santos Dumont => 4474/4474
+
+Mamógrafo 152 instalado em Ribeirão das Neves capacidade ociosa 2454
+
+Ribeirão das Neves => 4304/24578
+
+Mamógrafo 153 instalado em Congonhas capacidade ociosa 0
+
+Belo Vale => 692/692
+Congonhas => 4426/4426
+Entre Rios de Minas => 1148/1269
+Jeceaba => 492/492
+
+Mamógrafo 154 instalado em Bom Despacho capacidade ociosa 0
+
+Araújos => 644/644
+Bom Despacho => 4191/4191
+Moema => 602/602
+Santo Antônio do Monte => 1321/2225
+
+Mamógrafo 155 instalado em Santa Luzia capacidade ociosa 1510
+
+Bom Jesus do Amparo => 465/465
+Nova União => 488/488
+Santa Luzia => 4295/17811
+
+Mamógrafo 156 instalado em Lagoa da Prata capacidade ociosa 0
+
+Iguatama => 259/791
+Japaraíba => 333/333
+Lagoa da Prata => 4166/4166
+Pains => 741/741
+Pedra do Indaiá => 355/355
+Santo Antônio do Monte => 904/2225
+
+Mamógrafo 157 instalado em São Lourenço capacidade ociosa 0
+
+Carmo de Minas => 1125/1125
+Dom Viçoso => 240/269
+Pouso Alto => 590/590
+São Lourenço => 4096/4096
+São Sebastião do Rio Verde => 209/209
+Soledade de Minas => 498/498
+
+Mamógrafo 158 instalado em Caeté capacidade ociosa 2218
+
+Caeté => 3776/3776
+São Gonçalo do Rio Abaixo => 764/764
+
+Mamógrafo 159 instalado em Itabirito capacidade ociosa 2241
+
+Itabirito => 4105/4105
+Moeda => 412/412
+
+Mamógrafo 160 instalado em Monte Carmelo capacidade ociosa 0
+
+Abadia dos Dourados => 629/629
+Coromandel => 227/2536
+Douradoquara => 172/172
+Estrela do Sul => 620/620
+Grupiara => 121/121
+Iraí de Minas => 529/529
+Monte Carmelo => 4140/4140
+Romaria => 320/320
+
+Mamógrafo 161 instalado em Oliveira capacidade ociosa 0
+
+Camacho => 269/269
+Carmo da Mata => 988/988
+Oliveira => 3707/3707
+Santana do Jacaré => 322/378
+São Francisco de Paula => 559/559
+São Tiago => 913/917
+
+Mamógrafo 162 instalado em Bocaiúva capacidade ociosa 1807
+
+Bocaiúva => 3644/3644
+Engenheiro Navarro => 565/565
+Guaraciama => 382/382
+Olhos-d'Água => 360/360
+
+Mamógrafo 163 instalado em Araguari capacidade ociosa 2404
+
+Araguari => 3636/10394
+Cascalho Rico => 244/244
+Indianópolis => 474/474
+
+Mamógrafo 164 instalado em Itabira capacidade ociosa 566
+
+Bela Vista de Minas => 875/875
+Itabira => 3594/10352
+Itambé do Mato Dentro => 207/207
+João Monlevade => 576/7334
+Passabém => 148/148
+Santa Maria de Itabira => 792/792
+
+Mamógrafo 165 instalado em Capim Branco capacidade ociosa 4532
+
+Araçaí => 208/208
+Baldim => 684/684
+Capim Branco => 779/779
+Funilândia => 150/315
+Jequitibá => 405/405
+
+Mamógrafo 166 instalado em Cristina capacidade ociosa 0
+
+Conceição das Pedras => 232/232
+Cristina => 870/870
+Delfim Moreira => 710/710
+Dom Viçoso => 29/269
+Jesuânia => 435/435
+Maria da Fé => 1218/1218
+Marmelópolis => 272/272
+Olímpio Noronha => 218/218
+Pedralva => 994/994
+Piranguçu => 454/454
+Piranguinho => 183/675
+São José do Alegre => 353/353
+Virgínia => 790/790
+
+Mamógrafo 167 instalado em Araguari capacidade ociosa 6758
+
+
+Mamógrafo 168 instalado em Arcos capacidade ociosa 2435
+
+Arcos => 3538/3538
+Córrego Fundo => 125/498
+Doresópolis => 128/128
+Iguatama => 532/791
+
+Mamógrafo 169 instalado em Andradas capacidade ociosa 0
+
+Albertina => 240/240
+Andradas => 3471/3471
+Caldas => 1274/1274
+Ibitiúra de Minas => 299/299
+Ipuiúna => 620/861
+Santa Rita de Caldas => 854/854
+
+Mamógrafo 170 instalado em São Francisco capacidade ociosa 2113
+
+Luislândia => 416/416
+São Francisco => 3547/3547
+São Romão => 682/682
+
+Mamógrafo 171 instalado em Montes Claros capacidade ociosa 2709
+
+Glaucilândia => 232/232
+Juramento => 315/315
+Montes Claros => 3502/30534
+
+Mamógrafo 172 instalado em Boa Esperança capacidade ociosa 1999
+
+Aguanil => 365/365
+Boa Esperança => 3373/3373
+Campo do Meio => 1021/1021
+
+Mamógrafo 173 instalado em Nanuque capacidade ociosa 2725
+
+Nanuque => 3385/3385
+Serra dos Aimorés => 648/648
+
+Mamógrafo 174 instalado em Visconde do Rio Branco capacidade ociosa 0
+
+Coimbra => 201/614
+Guiricema => 782/782
+Ubá => 2356/9114
+Visconde do Rio Branco => 3419/3419
+
+Mamógrafo 175 instalado em Santa Rita do Sapucaí capacidade ociosa 0
+
+Brazópolis => 708/1251
+Cachoeira de Minas => 966/966
+Conceição dos Ouros => 870/870
+Piranguinho => 492/675
+Santa Rita do Sapucaí => 3318/3318
+São Sebastião da Bela Vista => 404/404
+
+Mamógrafo 176 instalado em Machado capacidade ociosa 0
+
+Alfenas => 125/6883
+Carvalhópolis => 303/303
+Cordislândia => 278/278
+Elói Mendes => 412/2232
+Espírito Santo do Dourado => 41/397
+Machado => 3367/3367
+São Gonçalo do Sapucaí => 465/2061
+São João da Mata => 252/252
+Serrania => 625/625
+Silvianópolis => 515/515
+Turvolândia => 375/375
+
+Mamógrafo 177 instalado em Além Paraíba capacidade ociosa 40
+
+Além Paraíba => 3305/3305
+Chiador => 247/247
+Estrela Dalva => 218/218
+Mar de Espanha => 1093/1093
+Pirapetinga => 934/934
+Santo Antônio do Aventureiro => 321/321
+Senador Cortes => 168/168
+Volta Grande => 432/432
+
+Mamógrafo 178 instalado em Salinas capacidade ociosa 2289
+
+Fruta de Leite => 401/401
+Novorizonte => 350/350
+Rubelita => 584/584
+Salinas => 3134/3134
+
+Mamógrafo 179 instalado em Brumadinho capacidade ociosa 0
+
+Bonfim => 667/667
+Brumadinho => 3069/3069
+Crucilândia => 411/411
+Itatiaiuçu => 810/810
+Piedade dos Gerais => 104/423
+Rio Manso => 466/466
+São Joaquim de Bicas => 1231/1845
+
+Mamógrafo 180 instalado em Ouro Branco capacidade ociosa 2937
+
+Catas Altas da Noruega => 148/254
+Entre Rios de Minas => 121/1269
+Lamim => 279/279
+Ouro Branco => 3273/3273
+
+Mamógrafo 181 instalado em Passos capacidade ociosa 1284
+
+Fortaleza de Minas => 341/341
+Passos => 3084/9842
+Pratápolis => 839/839
+São João Batista do Glória => 610/610
+São José da Barra => 600/600
+
+Mamógrafo 182 instalado em Almenara capacidade ociosa 1579
+
+Almenara => 3052/3052
+Bandeira => 413/413
+Jacinto => 937/937
+Rubim => 777/777
+
+Mamógrafo 183 instalado em Porteirinha capacidade ociosa 842
+
+Catuti => 402/402
+Mato Verde => 1055/1055
+Pai Pedro => 434/434
+Porteirinha => 3035/3035
+Riacho dos Machados => 653/653
+Serranópolis de Minas => 337/337
+
+Mamógrafo 184 instalado em Piumhi capacidade ociosa 907
+
+Capitólio => 776/776
+Guapé => 1151/1151
+Pimenta => 747/747
+Piumhi => 2982/2982
+Vargem Bonita => 195/195
+
+Mamógrafo 185 instalado em Carangola capacidade ociosa 0
+
+Antônio Prado de Minas => 49/155
+Caiana => 404/404
+Caparaó => 385/385
+Carangola => 3054/3054
+Faria Lemos => 290/290
+Fervedouro => 773/773
+Pedra Dourada => 165/165
+São Francisco do Glória => 431/431
+Tombos => 871/871
+Vieiras => 336/336
+
+Mamógrafo 186 instalado em Coronel Fabriciano capacidade ociosa 0
+
+Antônio Dias => 769/769
+Coronel Fabriciano => 2910/9668
+Ipaba => 1264/1264
+Jaguaraçu => 273/273
+Marliéria => 334/334
+Mesquita => 64/516
+Timóteo => 1144/7902
+
+Mamógrafo 187 instalado em Ataléia capacidade ociosa 5598
+
+Ataléia => 1160/1160
+
+Mamógrafo 188 instalado em Igarapé capacidade ociosa 3754
+
+Florestal => 140/590
+Igarapé => 2864/2864
+
+Mamógrafo 189 instalado em Uberlândia capacidade ociosa 3905
+
+Uberlândia => 2853/56917
+
+Mamógrafo 190 instalado em Ouro Fino capacidade ociosa 0
+
+Bom Repouso => 910/910
+Bueno Brandão => 982/982
+Inconfidentes => 645/645
+Ipuiúna => 241/861
+Munhoz => 532/534
+Ouro Fino => 2894/2894
+Senador José Bento => 178/178
+Tocos do Moji => 376/376
+
+Mamógrafo 191 instalado em Carmo do Paranaíba capacidade ociosa 2131
+
+Arapuá => 261/261
+Carmo do Paranaíba => 2733/2733
+Rio Paranaíba => 1004/1004
+Tiros => 629/629
+
+Mamógrafo 192 instalado em Várzea da Palma capacidade ociosa 3434
+
+Lassance => 513/513
+Várzea da Palma => 2811/2811
+
+Mamógrafo 193 instalado em Muriaé capacidade ociosa 0
+
+Eugenópolis => 937/937
+Miradouro => 853/853
+Miraí => 1194/1194
+Muriaé => 2725/9483
+Patrocínio do Muriaé => 464/464
+Rosário da Limeira => 246/345
+Santana de Cataguases => 339/339
+
+Mamógrafo 194 instalado em Caputira capacidade ociosa 0
+
+Caputira => 719/719
+Matipó => 1343/1343
+Orizânia => 548/548
+Reduto => 335/505
+Santa Bárbara do Leste => 622/622
+Santa Margarida => 1133/1133
+Santa Rita de Minas => 189/529
+São João do Manhuaçu => 766/766
+São Pedro dos Ferros => 739/739
+Vermelho Novo => 364/364
+
+Mamógrafo 195 instalado em Patos de Minas capacidade ociosa 0
+
+Guimarânia => 138/611
+Patos de Minas => 6620/13378
+
+Mamógrafo 196 instalado em São Gotardo capacidade ociosa 3733
+
+Matutina => 365/365
+São Gotardo => 2583/2583
+Serra da Saudade => 77/77
+
+Mamógrafo 197 instalado em Barão de Cocais capacidade ociosa 4264
+
+Barão de Cocais => 2494/2494
+
+Mamógrafo 198 instalado em Barão de Cocais capacidade ociosa 6758
+
+
+Mamógrafo 199 instalado em Capelinha capacidade ociosa 0
+
+Água Boa => 1054/1054
+Angelândia => 510/510
+Aricanduva => 327/327
+Capelinha => 2461/2461
+Itamarandiba => 2231/2231
+Setubinha => 175/662
+
+Mamógrafo 200 instalado em Três Marias capacidade ociosa 4266
+
+Três Marias => 2492/2492
+
+Mamógrafo 201 instalado em Cambuí capacidade ociosa 362
+
+Cambuí => 2437/2437
+Consolação => 139/139
+Córrego do Bom Jesus => 342/342
+Estiva => 966/966
+Gonçalves => 377/377
+Itapeva => 735/735
+Munhoz => 2/534
+Sapucaí-Mirim => 509/509
+Senador Amaral => 414/414
+Toledo => 475/475
+
+Mamógrafo 202 instalado em Guarani capacidade ociosa 0
+
+Astolfo Dutra => 1192/1192
+Coronel Pacheco => 56/280
+Descoberto => 411/411
+Dona Euzébia => 58/525
+Goianá => 368/368
+Guarani => 770/770
+Mercês => 844/882
+Piraúba => 985/985
+Rio Novo => 775/775
+Rochedo de Minas => 183/183
+Rodeiro => 564/564
+Silveirânia => 184/184
+Tabuleiro => 368/368
+
+Mamógrafo 203 instalado em São João Nepomuceno capacidade ociosa 3411
+
+Guarará => 359/359
+Maripá de Minas => 253/253
+Pequeri => 291/291
+São João Nepomuceno => 2444/2444
+
+Mamógrafo 204 instalado em Mantena capacidade ociosa 1745
+
+Central de Minas => 620/620
+Cuparaque => 386/386
+Goiabeira => 260/260
+Itabirinha => 884/884
+Mantena => 2415/2415
+São João do Manteninha => 448/448
+
+Mamógrafo 205 instalado em Taiobeiras capacidade ociosa 3309
+
+Curral de Dentro => 476/476
+Indaiabira => 546/546
+Taiobeiras => 2427/2427
+
+Mamógrafo 206 instalado em Pompéu capacidade ociosa 2138
+
+Martinho Campos => 1107/1107
+Papagaios => 1117/1117
+Pompéu => 2396/2396
+
+Mamógrafo 207 instalado em Mateus Leme capacidade ociosa 2738
+
+Igaratinga => 751/751
+Mateus Leme => 2381/2381
+Pará de Minas => 888/7646
+
+Mamógrafo 208 instalado em Santa Bárbara capacidade ociosa 4347
+
+Santa Bárbara => 2411/2411
+
+Mamógrafo 209 instalado em Ipatinga capacidade ociosa 0
+
+Ipatinga => 6758/22625
+
+Mamógrafo 210 instalado em Extrema capacidade ociosa 4375
+
+Extrema => 2383/2383
+
+Mamógrafo 211 instalado em Ipatinga capacidade ociosa 0
+
+Belo Oriente => 1860/1860
+Bugre => 319/319
+Iapu => 875/875
+Ipatinga => 2351/22625
+Mesquita => 452/516
+Naque => 477/477
+Vargem Alegre => 424/544
+
+Mamógrafo 212 instalado em Ituiutaba capacidade ociosa 3616
+
+Cachoeira Dourada => 217/217
+Gurinhatã => 577/577
+Ituiutaba => 2348/9106
+
+Mamógrafo 213 instalado em Brasília de Minas capacidade ociosa 1803
+
+Brasília de Minas => 2312/2312
+Japonvar => 572/572
+Mirabela => 946/946
+Patis => 368/368
+Ubaí => 757/757
+
+Mamógrafo 214 instalado em Espinosa capacidade ociosa 3849
+
+Espinosa => 2351/2351
+Mamonas => 558/558
+
+Mamógrafo 215 instalado em Contagem capacidade ociosa 4498
+
+Contagem => 2260/56324
+
+Mamógrafo 216 instalado em Campos Gerais capacidade ociosa 4457
+
+Campos Gerais => 2301/2301
+
+Mamógrafo 217 instalado em Bambuí capacidade ociosa 3742
+
+Bambuí => 2264/2264
+Córrego Danta => 300/300
+Medeiros => 286/286
+Tapiraí => 166/166
+
+Mamógrafo 218 instalado em Centralina capacidade ociosa 5370
+
+Araporã => 510/510
+Centralina => 878/878
+
+Mamógrafo 219 instalado em Aimorés capacidade ociosa 3505
+
+Aimorés => 2252/2252
+Itueta => 525/525
+Santa Rita do Itueto => 476/476
+
+Mamógrafo 220 instalado em Pitangui capacidade ociosa 3403
+
+Onça de Pitangui => 240/240
+Pequi => 356/356
+Pitangui => 2230/2230
+São Gonçalo do Pará => 529/904
+
+Mamógrafo 221 instalado em Ilicínea capacidade ociosa 5802
+
+Ilicínea => 956/956
+
+Mamógrafo 222 instalado em Lagoa da Prata capacidade ociosa 6758
+
+
+Mamógrafo 223 instalado em Santana do Paraíso capacidade ociosa 3577
+
+Joanésia => 468/468
+Periquito => 521/521
+Santana do Paraíso => 2192/2192
+
+Mamógrafo 224 instalado em Nepomuceno capacidade ociosa 2815
+
+Carmo da Cachoeira => 674/977
+Ijaci => 505/505
+Itumirim => 528/528
+Nepomuceno => 2236/2236
+
+Mamógrafo 225 instalado em Mutum capacidade ociosa 3505
+
+Mutum => 2183/2183
+Pocrane => 794/794
+Taparuba => 276/276
+
+Mamógrafo 226 instalado em Sarzedo capacidade ociosa 4583
+
+Sarzedo => 2175/2175
+
+Mamógrafo 227 instalado em Carandaí capacidade ociosa 0
+
+Capela Nova => 452/452
+Carandaí => 2179/2179
+Dores de Campos => 908/908
+Lagoa Dourada => 978/978
+Prados => 755/755
+Ressaquinha => 420/420
+Rio Espera => 196/522
+Senhora dos Remédios => 870/870
+
+Mamógrafo 228 instalado em Tupaciguara capacidade ociosa 4548
+
+Tupaciguara => 2210/2210
+
+Mamógrafo 229 instalado em Prata capacidade ociosa 4588
+
+Prata => 2170/2170
+
+Mamógrafo 230 instalado em Cláudio capacidade ociosa 2230
+
+Cláudio => 2133/2133
+Divinópolis => 549/20823
+Passa Tempo => 772/772
+Piracema => 588/588
+São Sebastião do Oeste => 486/486
+
+Mamógrafo 231 instalado em Corinto capacidade ociosa 3228
+
+Augusto de Lima => 383/383
+Corinto => 2124/2124
+Inimutaba => 355/572
+Monjolos => 188/188
+Morro da Garça => 215/215
+Santo Hipólito => 265/265
+
+Mamógrafo 232 instalado em Raul Soares capacidade ociosa 2437
+
+Córrego Novo => 274/274
+Piedade de Ponte Nova => 337/337
+Raul Soares => 2104/2104
+Rio Casca => 1248/1248
+Santo Antônio do Grama => 358/358
+
+Mamógrafo 233 instalado em Inhapim capacidade ociosa 0
+
+Caratinga => 689/7447
+Dom Cavati => 465/465
+Engenheiro Caldas => 133/847
+Entre Folhas => 419/419
+Imbé de Minas => 495/495
+Inhapim => 2086/2086
+Piedade de Caratinga => 524/524
+Santa Rita de Minas => 340/529
+São Domingos das Dores => 401/401
+São João do Oriente => 678/678
+São Sebastião do Anta => 408/408
+Vargem Alegre => 120/544
+
+Mamógrafo 234 instalado em Abaeté capacidade ociosa 3504
+
+Abaeté => 2162/2162
+Biquinhas => 253/253
+Cedro do Abaeté => 101/101
+Paineiras => 453/453
+Quartel Geral => 285/285
+
+Mamógrafo 235 instalado em Novo Cruzeiro capacidade ociosa 3477
+
+Itaipé => 726/726
+Novo Cruzeiro => 2068/2068
+Setubinha => 487/662
+
+Mamógrafo 236 instalado em Caxambu capacidade ociosa 810
+
+Aiuruoca => 558/558
+Cambuquira => 798/1144
+Caxambu => 2061/2061
+Cruzília => 1286/1286
+Minduri => 356/356
+São Tomé das Letras => 557/557
+Seritinga => 168/168
+Serranos => 164/164
+
+Mamógrafo 237 instalado em Minas Novas capacidade ociosa 22
+
+Berilo => 872/872
+Chapada do Norte => 1035/1035
+Francisco Badaró => 722/722
+Leme do Prado => 343/343
+Minas Novas => 2064/2064
+Turmalina => 1294/1294
+Veredinha => 406/406
+
+Mamógrafo 238 instalado em Itacarambi capacidade ociosa 4994
+
+Itacarambi => 1185/1185
+São João das Missões => 579/579
+
+Mamógrafo 239 instalado em Poços de Caldas capacidade ociosa 5087
+
+Bandeira do Sul => 445/445
+Poços de Caldas => 1226/14742
+
+Mamógrafo 240 instalado em Jaíba capacidade ociosa 4681
+
+Jaíba => 2077/2077
+
+Mamógrafo 241 instalado em Vespasiano capacidade ociosa 4732
+
+Vespasiano => 2026/8784
+
+Mamógrafo 242 instalado em Sacramento capacidade ociosa 3649
+
+Conquista => 564/564
+Delta => 503/503
+Sacramento => 2042/2042
+
+Mamógrafo 243 instalado em Lavras capacidade ociosa 2440
+
+Ibituruna => 227/227
+Ingaí => 217/217
+Itutinga => 363/363
+Lavras => 2060/8818
+Luminárias => 452/452
+Nazareno => 668/668
+São Bento Abade => 331/331
+
+Mamógrafo 244 instalado em Araxá capacidade ociosa 0
+
+Araxá => 6758/8779
+
+Mamógrafo 245 instalado em Itapecerica capacidade ociosa 4758
+
+Itapecerica => 2000/2000
+
+Mamógrafo 246 instalado em Jacutinga capacidade ociosa 4750
+
+Jacutinga => 2008/2008
+
+Mamógrafo 247 instalado em Conselheiro Pena capacidade ociosa 3407
+
+Conselheiro Pena => 1965/1965
+Galiléia => 617/617
+São Geraldo do Baixio => 286/286
+Tumiritinga => 483/483
+
+Mamógrafo 248 instalado em Paraopeba capacidade ociosa 4029
+
+Cordisburgo => 746/746
+Paraopeba => 1983/1983
+
+Mamógrafo 249 instalado em Espera Feliz capacidade ociosa 3206
+
+Alto Caparaó => 433/433
+Espera Feliz => 1937/1937
+Luisburgo => 462/462
+Alto Jequitibá => 720/720
+
+Mamógrafo 250 instalado em Coração de Jesus capacidade ociosa 3918
+
+Coração de Jesus => 1936/1936
+Lagoa dos Patos => 272/272
+São João da Lagoa => 348/348
+São João do Pacuí => 284/284
+
+Mamógrafo 251 instalado em Rio Pardo de Minas capacidade ociosa 3787
+
+Montezuma => 508/508
+Rio Pardo de Minas => 1983/1983
+Santo Antônio do Retiro => 480/480
+
+Mamógrafo 252 instalado em Monte Azul capacidade ociosa 4422
+
+Gameleiras => 400/400
+Monte Azul => 1936/1936
+
+Mamógrafo 253 instalado em Monte Santo de Minas capacidade ociosa 4722
+
+Itamogi => 123/928
+Monte Santo de Minas => 1913/1913
+
+Mamógrafo 254 instalado em Monte Sião capacidade ociosa 4803
+
+Monte Sião => 1955/1955
+
+Mamógrafo 255 instalado em Muzambinho capacidade ociosa 3686
+
+Areado => 1196/1196
+Muzambinho => 1876/1876
+
+Mamógrafo 256 instalado em Matozinhos capacidade ociosa 3791
+
+Matozinhos => 2967/2967
+
+Mamógrafo 257 instalado em Perdões capacidade ociosa 4899
+
+Perdões => 1859/1859
+
+Mamógrafo 258 instalado em Caetanópolis capacidade ociosa 5813
+
+Caetanópolis => 945/945
+
+Mamógrafo 259 instalado em São João del Rei capacidade ociosa 468
+
+Conceição da Barra de Minas => 328/328
+Coronel Xavier Chaves => 296/296
+Madre de Deus de Minas => 447/447
+Piedade do Rio Grande => 460/460
+Resende Costa => 1022/1022
+Ritápolis => 499/499
+Santa Cruz de Minas => 717/717
+São João del Rei => 1839/8597
+São Tiago => 4/917
+Tiradentes => 678/678
+
+Mamógrafo 260 instalado em Barroso capacidade ociosa 4467
+
+Barroso => 1855/1855
+Ibertioga => 436/436
+
+Mamógrafo 261 instalado em Francisco Sá capacidade ociosa 3956
+
+Capitão Enéas => 975/975
+Francisco Sá => 1827/1827
+
+Mamógrafo 262 instalado em Juatuba capacidade ociosa 4944
+
+Juatuba => 1814/1814
+
+Mamógrafo 263 instalado em Pedra Azul capacidade ociosa 2947
+
+Águas Vermelhas => 925/925
+Cachoeira de Pajeú => 661/661
+Divisa Alegre => 411/411
+Pedra Azul => 1814/1814
+
+Mamógrafo 264 instalado em Campina Verde capacidade ociosa 3693
+
+Campina Verde => 1820/1820
+Itapagipe => 1245/1245
+
+Mamógrafo 265 instalado em Buritizeiro capacidade ociosa 4824
+
+Buritizeiro => 1934/1934
+
+Mamógrafo 266 instalado em Carmo do Rio Claro capacidade ociosa 4945
+
+Carmo do Rio Claro => 1813/1813
+
+Mamógrafo 267 instalado em Lambari capacidade ociosa 2775
+
+Careaçu => 530/530
+Heliodora => 547/547
+Lambari => 1801/1801
+Monsenhor Paulo => 686/686
+Natércia => 419/419
+
+Mamógrafo 268 instalado em Vazante capacidade ociosa 3747
+
+Guarda-Mor => 527/527
+Lagamar => 709/709
+Vazante => 1775/1775
+
+Mamógrafo 269 instalado em Campestre capacidade ociosa 4524
+
+Campestre => 1792/1792
+Divisa Nova => 442/442
+
+Mamógrafo 270 instalado em Jequitinhonha capacidade ociosa 3917
+
+Jequitinhonha => 1774/1774
+Joaíma => 1067/1067
+
+Mamógrafo 271 instalado em Paraguaçu capacidade ociosa 5000
+
+Paraguaçu => 1758/1758
+
+Mamógrafo 272 instalado em Camanducaia capacidade ociosa 4998
+
+Camanducaia => 1760/1760
+
+Mamógrafo 273 instalado em Carmo do Cajuru capacidade ociosa 5004
+
+Carmo do Cajuru => 1754/1754
+
+Mamógrafo 274 instalado em Manhumirim capacidade ociosa 1850
+
+Durandé => 555/555
+Manhumirim => 1813/1813
+Martins Soares => 542/542
+Santana do Manhuaçu => 657/657
+Simonésia => 1341/1341
+
+Mamógrafo 275 instalado em São Geraldo capacidade ociosa 1180
+
+Cajuri => 331/331
+Canaã => 394/394
+Coimbra => 413/614
+Divinésia => 296/296
+Guidoval => 645/645
+Paula Cândido => 731/731
+São Geraldo => 891/891
+São Miguel do Anta => 574/574
+São Sebastião da Vargem Alegre => 246/246
+Teixeiras => 1057/1061
+
+Mamógrafo 276 instalado em São João da Ponte capacidade ociosa 3025
+
+Ibiracatu => 167/416
+Lontra => 585/585
+São João da Ponte => 1745/1745
+Varzelândia => 1236/1236
+
+Mamógrafo 277 instalado em São José da Lapa capacidade ociosa 5050
+
+São José da Lapa => 1708/1708
+
+Mamógrafo 278 instalado em Itambacuri capacidade ociosa 4327
+
+Franciscópolis => 409/409
+Itambacuri => 1717/1717
+Pescador => 305/305
+
+Mamógrafo 279 instalado em Paraisópolis capacidade ociosa 4496
+
+Brazópolis => 543/1251
+Paraisópolis => 1719/1719
+
+Mamógrafo 280 instalado em Monte Alegre de Minas capacidade ociosa 5055
+
+Monte Alegre de Minas => 1703/1703
+
+Mamógrafo 281 instalado em Buritis capacidade ociosa 5081
+
+Buritis => 1677/1677
+
+Mamógrafo 282 instalado em Itajubá capacidade ociosa 4859
+
+Itajubá => 1676/8434
+Wenceslau Braz => 223/223
+
+Mamógrafo 283 instalado em Cristais capacidade ociosa 5828
+
+Cristais => 930/930
+
+Mamógrafo 284 instalado em Baependi capacidade ociosa 4650
+
+Baependi => 1667/1667
+Carvalhos => 441/441
+
+Mamógrafo 285 instalado em Santa Vitória capacidade ociosa 5135
+
+Santa Vitória => 1623/1623
+
+Mamógrafo 286 instalado em Ipanema capacidade ociosa 4086
+
+Chalé => 461/461
+Conceição de Ipanema => 380/380
+Ipanema => 1615/1615
+São José do Mantimento => 216/216
+
+Mamógrafo 287 instalado em Carlos Chagas capacidade ociosa 4463
+
+Carlos Chagas => 1666/1666
+Pavão => 629/629
+
+Mamógrafo 288 instalado em Luz capacidade ociosa 4807
+
+Estrela do Indaiá => 329/329
+Luz => 1622/1622
+
+Mamógrafo 289 instalado em Itaobim capacidade ociosa 3436
+
+Itaobim => 1605/1605
+Itinga => 974/974
+Ponto dos Volantes => 743/743
+
+Mamógrafo 290 instalado em Borda da Mata capacidade ociosa 5162
+
+Borda da Mata => 1596/1596
+
+Mamógrafo 291 instalado em Divino capacidade ociosa 4710
+
+Divino => 1584/1584
+Pedra Bonita => 464/464
+
+Mamógrafo 292 instalado em Lagoa Formosa capacidade ociosa 5174
+
+Lagoa Formosa => 1584/1584
+
+Mamógrafo 293 instalado em Nova Era capacidade ociosa 2852
+
+Dionísio => 768/768
+Nova Era => 1572/1572
+São Domingos do Prata => 1566/1566
+
+Mamógrafo 294 instalado em Guaranésia capacidade ociosa 5144
+
+Guaranésia => 1614/1614
+
+Mamógrafo 295 instalado em Presidente Olegário capacidade ociosa 5191
+
+Presidente Olegário => 1567/1567
+
+Mamógrafo 296 instalado em Abre Campo capacidade ociosa 4505
+
+Abre Campo => 1127/1127
+Araponga => 606/606
+Sericita => 520/520
+
+Mamógrafo 297 instalado em Alpinópolis capacidade ociosa 5158
+
+Alpinópolis => 1600/1600
+
+Mamógrafo 298 instalado em Medina capacidade ociosa 4598
+
+Comercinho => 607/607
+Medina => 1553/1553
+
+Mamógrafo 299 instalado em Lajinha capacidade ociosa 5199
+
+Lajinha => 1559/1559
+
+Mamógrafo 300 instalado em Cássia capacidade ociosa 2790
+
+Capetinga => 559/559
+Cássia => 1534/1534
+Claraval => 354/354
+Delfinópolis => 577/577
+Ibiraci => 944/944
+
+Mamógrafo 301 instalado em Rio Pomba capacidade ociosa 4542
+
+Desterro do Melo => 278/278
+Dores do Turvo => 370/370
+Mercês => 38/882
+Rio Pomba => 1530/1530
+
+Mamógrafo 302 instalado em Malacacheta capacidade ociosa 5341
+
+Malacacheta => 1417/1417
+
+Mamógrafo 303 instalado em Bom Sucesso capacidade ociosa 5187
+
+Bom Sucesso => 1571/1571
+
+Mamógrafo 304 instalado em Resplendor capacidade ociosa 5259
+
+Resplendor => 1499/1499
+
+Mamógrafo 305 instalado em Poço Fundo capacidade ociosa 5284
+
+Poço Fundo => 1474/1474
+
+Mamógrafo 306 instalado em Canápolis capacidade ociosa 5811
+
+Canápolis => 947/947
+
+Mamógrafo 307 instalado em Caraí capacidade ociosa 4789
+
+Caraí => 1516/1516
+Catuji => 453/453
+
+Mamógrafo 308 instalado em Santo Antônio do Amparo capacidade ociosa 5286
+
+Santo Antônio do Amparo => 1472/1472
+
+Mamógrafo 309 instalado em Itaú de Minas capacidade ociosa 5302
+
+Itaú de Minas => 1456/1456
+
+Mamógrafo 310 instalado em Ervália capacidade ociosa 5216
+
+Ervália => 1443/1443
+Rosário da Limeira => 99/345
+
+Mamógrafo 311 instalado em Carmópolis de Minas capacidade ociosa 4699
+
+Carmópolis de Minas => 1424/1424
+Desterro de Entre Rios => 635/635
+
+Mamógrafo 312 instalado em Passa Quatro capacidade ociosa 3777
+
+Alagoa => 256/256
+Itamonte => 1255/1255
+Passa Quatro => 1470/1470
+
+Mamógrafo 313 instalado em Jaboticatubas capacidade ociosa 5345
+
+Jaboticatubas => 1413/1413
+
+Mamógrafo 314 instalado em Tocantins capacidade ociosa 4724
+
+Senador Firmino => 630/630
+Tocantins => 1404/1404
+
+Mamógrafo 315 instalado em Conceição do Rio Verde capacidade ociosa 5717
+
+Conceição do Rio Verde => 1041/1041
+
+Mamógrafo 316 instalado em Raposos capacidade ociosa 5363
+
+Raposos => 1395/1395
+
+Mamógrafo 317 instalado em Itaúna capacidade ociosa 5405
+
+Itaúna => 1353/8111
+
+Mamógrafo 318 instalado em Manga capacidade ociosa 4459
+
+Manga => 1390/1390
+Matias Cardoso => 609/609
+Miravânia => 300/300
+
+Mamógrafo 319 instalado em Capinópolis capacidade ociosa 5048
+
+Capinópolis => 1352/1352
+Ipiaçu => 358/358
+
+Mamógrafo 320 instalado em Laranjal capacidade ociosa 5064
+
+Barão de Monte Alto => 502/502
+Laranjal => 611/611
+Palma => 581/581
+
+Mamógrafo 321 instalado em Campanha capacidade ociosa 3809
+
+Campanha => 1353/1353
+São Gonçalo do Sapucaí => 1596/2061
+
+Mamógrafo 322 instalado em Itaguara capacidade ociosa 5345
+
+Itaguara => 1094/1094
+Piedade dos Gerais => 319/423
+
+Mamógrafo 323 instalado em Itanhandu capacidade ociosa 5409
+
+Itanhandu => 1349/1349
+
+Mamógrafo 324 instalado em Ladainha capacidade ociosa 5631
+
+Ladainha => 1127/1127
+
+Mamógrafo 325 instalado em Botelhos capacidade ociosa 5425
+
+Botelhos => 1333/1333
+
+Mamógrafo 326 instalado em Padre Paraíso capacidade ociosa 5128
+
+Monte Formoso => 291/291
+Padre Paraíso => 1339/1339
+
+Mamógrafo 327 instalado em Maravilhas capacidade ociosa 6164
+
+Maravilhas => 594/594
+
+Mamógrafo 328 instalado em Rio Piracicaba capacidade ociosa 3586
+
+Alvinópolis => 1335/1335
+Dom Silvério => 518/518
+Rio Piracicaba => 1319/1319
+
+Mamógrafo 329 instalado em Dores do Indaiá capacidade ociosa 5444
+
+Dores do Indaiá => 1314/1314
+
+Mamógrafo 330 instalado em Bicas capacidade ociosa 5099
+
+Bicas => 1312/1312
+Santana do Deserto => 347/347
+
+Mamógrafo 331 instalado em Bom Jesus do Galho capacidade ociosa 5079
+
+Bom Jesus do Galho => 1304/1304
+Pingo-d'Água => 375/375
+
+Mamógrafo 332 instalado em Ribeirão Vermelho capacidade ociosa 6383
+
+Ribeirão Vermelho => 375/375
+
+Mamógrafo 333 instalado em Piranga capacidade ociosa 2092
+
+Brás Pires => 404/404
+Guaraciaba => 854/854
+Piranga => 1292/1292
+Porto Firme => 878/878
+Presidente Bernardes => 450/450
+Rio Espera => 326/522
+Senhora de Oliveira => 462/462
+
+Mamógrafo 334 instalado em Cláudio capacidade ociosa 6758
+
+
+Mamógrafo 335 instalado em Coroaci capacidade ociosa 2062
+
+Cantagalo => 305/305
+Coroaci => 752/752
+Gonzaga => 450/450
+Marilac => 323/323
+Nacip Raydan => 230/230
+Peçanha => 1244/1244
+Santa Efigênia de Minas => 344/344
+São Geraldo da Piedade => 363/363
+São José da Safira => 276/276
+Sardoá => 409/409
+
+Mamógrafo 336 instalado em Tarumirim capacidade ociosa 1680
+
+Alpercata => 586/586
+Alvarenga => 382/382
+Capitão Andrade => 411/411
+Engenheiro Caldas => 714/847
+Fernandes Tourinho => 256/256
+Itanhomi => 1019/1019
+Sobrália => 508/508
+Tarumirim => 1202/1202
+
+Mamógrafo 337 instalado em Alto Rio Doce capacidade ociosa 5209
+
+Alto Rio Doce => 1032/1032
+Cipotânea => 517/517
+
+Mamógrafo 338 instalado em Virgolândia capacidade ociosa 6306
+
+Virgolândia => 452/452
+
+Mamógrafo 339 instalado em Ubaporanga capacidade ociosa 5775
+
+Ubaporanga => 983/983
+
+Mamógrafo 340 instalado em Formoso capacidade ociosa 6209
+
+Formoso => 549/549
+
+Mamógrafo 341 instalado em São José do Jacuri capacidade ociosa 242
+
+Coluna => 640/640
+Frei Lagonegro => 232/232
+José Raydan => 315/315
+Paulistas => 373/373
+Rio Vermelho => 980/980
+Santa Maria do Suaçuí => 1072/1072
+São João Evangelista => 1230/1230
+São José do Jacuri => 493/493
+São Pedro do Suaçuí => 433/433
+São Sebastião do Maranhão => 748/748
+
+Mamógrafo 342 instalado em Varjão de Minas capacidade ociosa 5846
+
+São Gonçalo do Abaeté => 472/472
+Varjão de Minas => 440/440
+
+Mamógrafo 343 instalado em Caxambu capacidade ociosa 6758
+
+
+Mamógrafo 344 instalado em Santa Rita de Jacutinga capacidade ociosa 4300
+
+Arantina => 278/278
+Bocaina de Minas => 456/456
+Bom Jardim de Minas => 614/614
+Passa Vinte => 180/180
+Rio Preto => 492/492
+Santa Rita de Jacutinga => 438/438
+
+Mamógrafo 345 instalado em São Sebastião do Paraíso capacidade ociosa 6758
+
+
+Mamógrafo 346 instalado em Urucânia capacidade ociosa 4135
+
+Jequeri => 1076/1076
+Pedra do Anta => 290/290
+Santa Cruz do Escalvado => 416/416
+Urucânia => 841/841
+
+Cidades cobertas pelo mamógrafo 0 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 1 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 2 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 3 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 4 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 5 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 6 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 7 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 8 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 9 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 10 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 11 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 12 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 13 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 14 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 15 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 16 => Betim, 
+
+
+Cidades cobertas pelo mamógrafo 17 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 18 => Montes Claros, 
+
+
+Cidades cobertas pelo mamógrafo 19 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 20 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 21 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 22 => Uberaba, 
+
+
+Cidades cobertas pelo mamógrafo 23 => Betim, 
+
+
+Cidades cobertas pelo mamógrafo 24 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 25 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 26 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 27 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 28 => Ribeirão das Neves, 
+
+
+Cidades cobertas pelo mamógrafo 29 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 30 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 31 => Montes Claros, 
+
+
+Cidades cobertas pelo mamógrafo 32 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 33 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 34 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 35 => Governador Valadares, 
+
+
+Cidades cobertas pelo mamógrafo 36 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 37 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 38 => Uberaba, 
+
+
+Cidades cobertas pelo mamógrafo 39 => Pintópolis, 
+
+
+Cidades cobertas pelo mamógrafo 40 => Divinópolis, 
+
+
+Cidades cobertas pelo mamógrafo 41 => Sete Lagoas, 
+
+
+Cidades cobertas pelo mamógrafo 42 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 43 => Betim, 
+
+
+Cidades cobertas pelo mamógrafo 44 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 45 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 46 => Ribeirão das Neves, 
+
+
+Cidades cobertas pelo mamógrafo 47 => Santa Luzia, 
+
+
+Cidades cobertas pelo mamógrafo 48 => Governador Valadares, 
+
+
+Cidades cobertas pelo mamógrafo 49 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 50 => Montes Claros, 
+
+
+Cidades cobertas pelo mamógrafo 51 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 52 => Ipatinga, 
+
+
+Cidades cobertas pelo mamógrafo 53 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 54 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 55 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 56 => Uberaba, 
+
+
+Cidades cobertas pelo mamógrafo 57 => Poços de Caldas, 
+
+
+Cidades cobertas pelo mamógrafo 58 => Alterosa, Bom Jesus da Penha, Cabo Verde, Conceição da Aparecida, Jacuí, Juruaia, Monte Belo, Nova Resende, São Pedro da União, 
+
+
+Cidades cobertas pelo mamógrafo 59 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 60 => Divinópolis, 
+
+
+Cidades cobertas pelo mamógrafo 61 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 62 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 63 => Ibirité, 
+
+
+Cidades cobertas pelo mamógrafo 64 => Barbacena, 
+
+
+Cidades cobertas pelo mamógrafo 65 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 66 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 67 => Sete Lagoas, 
+
+
+Cidades cobertas pelo mamógrafo 68 => Pouso Alegre, 
+
+
+Cidades cobertas pelo mamógrafo 69 => Juiz de Fora, 
+
+
+Cidades cobertas pelo mamógrafo 70 => Betim, 
+
+
+Cidades cobertas pelo mamógrafo 71 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 72 => Teófilo Otoni, 
+
+
+Cidades cobertas pelo mamógrafo 73 => Sabará, 
+
+
+Cidades cobertas pelo mamógrafo 74 => Conselheiro Lafaiete, 
+
+
+Cidades cobertas pelo mamógrafo 75 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 76 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 77 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 78 => Ribeirão das Neves, 
+
+
+Cidades cobertas pelo mamógrafo 79 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 80 => Varginha, 
+
+
+Cidades cobertas pelo mamógrafo 81 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 82 => Governador Valadares, 
+
+
+Cidades cobertas pelo mamógrafo 83 => Araguari, 
+
+
+Cidades cobertas pelo mamógrafo 84 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 85 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 86 => Santa Luzia, 
+
+
+Cidades cobertas pelo mamógrafo 87 => Montes Claros, 
+
+
+Cidades cobertas pelo mamógrafo 88 => Itabira, 
+
+
+Cidades cobertas pelo mamógrafo 89 => Coronel Fabriciano, 
+
+
+Cidades cobertas pelo mamógrafo 90 => Passos, 
+
+
+Cidades cobertas pelo mamógrafo 91 => Muriaé, 
+
+
+Cidades cobertas pelo mamógrafo 92 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 93 => Belo Horizonte, 
+
+
+Cidades cobertas pelo mamógrafo 94 => Ipatinga, 
+
+
+Cidades cobertas pelo mamógrafo 95 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 96 => Ubá, 
+
+
+Cidades cobertas pelo mamógrafo 97 => Ituiutaba, 
+
+
+Cidades cobertas pelo mamógrafo 98 => Lavras, 
+
+
+Cidades cobertas pelo mamógrafo 99 => Frei Gaspar, Ouro Verde de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 100 => Vespasiano, 
+
+
+Cidades cobertas pelo mamógrafo 101 => São João del Rei, 
+
+
+Cidades cobertas pelo mamógrafo 102 => Itajubá, 
+
+
+Cidades cobertas pelo mamógrafo 103 => Poços de Caldas, 
+
+
+Cidades cobertas pelo mamógrafo 104 => Uberaba, 
+
+
+Cidades cobertas pelo mamógrafo 105 => Timóteo, 
+
+
+Cidades cobertas pelo mamógrafo 106 => Nova Lima, 
+
+
+Cidades cobertas pelo mamógrafo 107 => Pará de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 108 => Itaúna, 
+
+
+Cidades cobertas pelo mamógrafo 109 => Caratinga, 
+
+
+Cidades cobertas pelo mamógrafo 110 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 111 => Divinópolis, 
+
+
+Cidades cobertas pelo mamógrafo 112 => João Monlevade, 
+
+
+Cidades cobertas pelo mamógrafo 113 => Patrocínio, 
+
+
+Cidades cobertas pelo mamógrafo 114 => Teixeiras, Viçosa, 
+
+
+Cidades cobertas pelo mamógrafo 115 => Patos de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 116 => Paracatu, 
+
+
+Cidades cobertas pelo mamógrafo 117 => Cataguases, Dona Euzébia, 
+
+
+Cidades cobertas pelo mamógrafo 118 => Curvelo, Inimutaba, 
+
+
+Cidades cobertas pelo mamógrafo 119 => Cabeceira Grande, Unaí, 
+
+
+Cidades cobertas pelo mamógrafo 120 => Alfenas, 
+
+
+Cidades cobertas pelo mamógrafo 121 => Prudente de Morais, Sete Lagoas, 
+
+
+Cidades cobertas pelo mamógrafo 122 => Cambuquira, Três Corações, 
+
+
+Cidades cobertas pelo mamógrafo 123 => Ibirité, Mário Campos, 
+
+
+Cidades cobertas pelo mamógrafo 124 => Diogo de Vasconcelos, Itaverava, Ouro Preto, 
+
+
+Cidades cobertas pelo mamógrafo 125 => Manhuaçu, Reduto, 
+
+
+Cidades cobertas pelo mamógrafo 126 => Itamogi, São Sebastião do Paraíso, São Tomás de Aquino, 
+
+
+Cidades cobertas pelo mamógrafo 127 => Alfredo Vasconcelos, Antônio Carlos, Barbacena, 
+
+
+Cidades cobertas pelo mamógrafo 128 => Amparo do Serra, Barra Longa, Oratórios, Ponte Nova, Rio Doce, 
+
+
+Cidades cobertas pelo mamógrafo 129 => Congonhal, Espírito Santo do Dourado, Pouso Alegre, 
+
+
+Cidades cobertas pelo mamógrafo 130 => Betim, Mário Campos, São Joaquim de Bicas, 
+
+
+Cidades cobertas pelo mamógrafo 131 => Belo Horizonte, Nova Lima, Rio Acima, 
+
+
+Cidades cobertas pelo mamógrafo 132 => Confins, Funilândia, Pedro Leopoldo, Prudente de Morais, 
+
+
+Cidades cobertas pelo mamógrafo 133 => Janaúba, Nova Porteirinha, Verdelândia, 
+
+
+Cidades cobertas pelo mamógrafo 134 => Córrego Fundo, Formiga, 
+
+
+Cidades cobertas pelo mamógrafo 135 => Elói Mendes, Varginha, 
+
+
+Cidades cobertas pelo mamógrafo 136 => Cachoeira da Prata, Esmeraldas, Florestal, Fortuna de Minas, Inhaúma, São José da Varginha, 
+
+
+Cidades cobertas pelo mamógrafo 137 => Campo Belo, Cana Verde, Candeias, Santana do Jacaré, 
+
+
+Cidades cobertas pelo mamógrafo 138 => Conceição do Pará, Leandro Ferreira, Nova Serrana, Perdigão, São Gonçalo do Pará, 
+
+
+Cidades cobertas pelo mamógrafo 139 => Lagoa Santa, Taquaraçu de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 140 => Chácara, Coronel Pacheco, Juiz de Fora, Matias Barbosa, 
+
+
+Cidades cobertas pelo mamógrafo 141 => Fronteira, Frutal, Pirajuba, Planura, 
+
+
+Cidades cobertas pelo mamógrafo 142 => Campanário, Poté, Teófilo Otoni, 
+
+
+Cidades cobertas pelo mamógrafo 143 => Bonito de Minas, Cônego Marinho, Ibiracatu, Januária, Pedras de Maria da Cruz, 
+
+
+Cidades cobertas pelo mamógrafo 144 => Arceburgo, Cabo Verde, Guaxupé, Itamogi, 
+
+
+Cidades cobertas pelo mamógrafo 145 => Rio Acima, Sabará, 
+
+
+Cidades cobertas pelo mamógrafo 146 => Argirita, Dona Euzébia, Itamarati de Minas, Leopoldina, Recreio, 
+
+
+Cidades cobertas pelo mamógrafo 147 => Caranaíba, Casa Grande, Catas Altas da Noruega, Conselheiro Lafaiete, Cristiano Otoni, Itaverava, Queluzito, Santana dos Montes, São Brás do Suaçuí, 
+
+
+Cidades cobertas pelo mamógrafo 148 => Carmo da Cachoeira, Coqueiral, Fama, Santana da Vargem, Três Pontas, 
+
+
+Cidades cobertas pelo mamógrafo 149 => Pirapora, 
+
+
+Cidades cobertas pelo mamógrafo 150 => Acaiaca, Barra Longa, Catas Altas, Mariana, 
+
+
+Cidades cobertas pelo mamógrafo 151 => Antônio Carlos, Aracitaba, Coronel Pacheco, Ewbank da Câmara, Oliveira Fortes, Paiva, Piau, Santa Bárbara do Tugúrio, Santos Dumont, 
+
+
+Cidades cobertas pelo mamógrafo 152 => Ribeirão das Neves, 
+
+
+Cidades cobertas pelo mamógrafo 153 => Belo Vale, Congonhas, Entre Rios de Minas, Jeceaba, 
+
+
+Cidades cobertas pelo mamógrafo 154 => Araújos, Bom Despacho, Moema, Santo Antônio do Monte, 
+
+
+Cidades cobertas pelo mamógrafo 155 => Bom Jesus do Amparo, Nova União, Santa Luzia, 
+
+
+Cidades cobertas pelo mamógrafo 156 => Iguatama, Japaraíba, Lagoa da Prata, Pains, Pedra do Indaiá, Santo Antônio do Monte, 
+
+
+Cidades cobertas pelo mamógrafo 157 => Carmo de Minas, Dom Viçoso, Pouso Alto, São Lourenço, São Sebastião do Rio Verde, Soledade de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 158 => Caeté, São Gonçalo do Rio Abaixo, 
+
+
+Cidades cobertas pelo mamógrafo 159 => Itabirito, Moeda, 
+
+
+Cidades cobertas pelo mamógrafo 160 => Abadia dos Dourados, Coromandel, Douradoquara, Estrela do Sul, Grupiara, Iraí de Minas, Monte Carmelo, Romaria, 
+
+
+Cidades cobertas pelo mamógrafo 161 => Camacho, Carmo da Mata, Oliveira, Santana do Jacaré, São Francisco de Paula, São Tiago, 
+
+
+Cidades cobertas pelo mamógrafo 162 => Bocaiúva, Engenheiro Navarro, Guaraciama, Olhos-d'Água, 
+
+
+Cidades cobertas pelo mamógrafo 163 => Araguari, Cascalho Rico, Indianópolis, 
+
+
+Cidades cobertas pelo mamógrafo 164 => Bela Vista de Minas, Itabira, Itambé do Mato Dentro, João Monlevade, Passabém, Santa Maria de Itabira, 
+
+
+Cidades cobertas pelo mamógrafo 165 => Araçaí, Baldim, Capim Branco, Funilândia, Jequitibá, 
+
+
+Cidades cobertas pelo mamógrafo 166 => Conceição das Pedras, Cristina, Delfim Moreira, Dom Viçoso, Jesuânia, Maria da Fé, Marmelópolis, Olímpio Noronha, Pedralva, Piranguçu, Piranguinho, São José do Alegre, Virgínia, 
+
+
+Cidades cobertas pelo mamógrafo 167 => 
+
+
+Cidades cobertas pelo mamógrafo 168 => Arcos, Córrego Fundo, Doresópolis, Iguatama, 
+
+
+Cidades cobertas pelo mamógrafo 169 => Albertina, Andradas, Caldas, Ibitiúra de Minas, Ipuiúna, Santa Rita de Caldas, 
+
+
+Cidades cobertas pelo mamógrafo 170 => Luislândia, São Francisco, São Romão, 
+
+
+Cidades cobertas pelo mamógrafo 171 => Glaucilândia, Juramento, Montes Claros, 
+
+
+Cidades cobertas pelo mamógrafo 172 => Aguanil, Boa Esperança, Campo do Meio, 
+
+
+Cidades cobertas pelo mamógrafo 173 => Nanuque, Serra dos Aimorés, 
+
+
+Cidades cobertas pelo mamógrafo 174 => Coimbra, Guiricema, Ubá, Visconde do Rio Branco, 
+
+
+Cidades cobertas pelo mamógrafo 175 => Brazópolis, Cachoeira de Minas, Conceição dos Ouros, Piranguinho, Santa Rita do Sapucaí, São Sebastião da Bela Vista, 
+
+
+Cidades cobertas pelo mamógrafo 176 => Alfenas, Carvalhópolis, Cordislândia, Elói Mendes, Espírito Santo do Dourado, Machado, São Gonçalo do Sapucaí, São João da Mata, Serrania, Silvianópolis, Turvolândia, 
+
+
+Cidades cobertas pelo mamógrafo 177 => Além Paraíba, Chiador, Estrela Dalva, Mar de Espanha, Pirapetinga, Santo Antônio do Aventureiro, Senador Cortes, Volta Grande, 
+
+
+Cidades cobertas pelo mamógrafo 178 => Fruta de Leite, Novorizonte, Rubelita, Salinas, 
+
+
+Cidades cobertas pelo mamógrafo 179 => Bonfim, Brumadinho, Crucilândia, Itatiaiuçu, Piedade dos Gerais, Rio Manso, São Joaquim de Bicas, 
+
+
+Cidades cobertas pelo mamógrafo 180 => Catas Altas da Noruega, Entre Rios de Minas, Lamim, Ouro Branco, 
+
+
+Cidades cobertas pelo mamógrafo 181 => Fortaleza de Minas, Passos, Pratápolis, São João Batista do Glória, São José da Barra, 
+
+
+Cidades cobertas pelo mamógrafo 182 => Almenara, Bandeira, Jacinto, Rubim, 
+
+
+Cidades cobertas pelo mamógrafo 183 => Catuti, Mato Verde, Pai Pedro, Porteirinha, Riacho dos Machados, Serranópolis de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 184 => Capitólio, Guapé, Pimenta, Piumhi, Vargem Bonita, 
+
+
+Cidades cobertas pelo mamógrafo 185 => Antônio Prado de Minas, Caiana, Caparaó, Carangola, Faria Lemos, Fervedouro, Pedra Dourada, São Francisco do Glória, Tombos, Vieiras, 
+
+
+Cidades cobertas pelo mamógrafo 186 => Antônio Dias, Coronel Fabriciano, Ipaba, Jaguaraçu, Marliéria, Mesquita, Timóteo, 
+
+
+Cidades cobertas pelo mamógrafo 187 => Ataléia, 
+
+
+Cidades cobertas pelo mamógrafo 188 => Florestal, Igarapé, 
+
+
+Cidades cobertas pelo mamógrafo 189 => Uberlândia, 
+
+
+Cidades cobertas pelo mamógrafo 190 => Bom Repouso, Bueno Brandão, Inconfidentes, Ipuiúna, Munhoz, Ouro Fino, Senador José Bento, Tocos do Moji, 
+
+
+Cidades cobertas pelo mamógrafo 191 => Arapuá, Carmo do Paranaíba, Rio Paranaíba, Tiros, 
+
+
+Cidades cobertas pelo mamógrafo 192 => Lassance, Várzea da Palma, 
+
+
+Cidades cobertas pelo mamógrafo 193 => Eugenópolis, Miradouro, Miraí, Muriaé, Patrocínio do Muriaé, Rosário da Limeira, Santana de Cataguases, 
+
+
+Cidades cobertas pelo mamógrafo 194 => Caputira, Matipó, Orizânia, Reduto, Santa Bárbara do Leste, Santa Margarida, Santa Rita de Minas, São João do Manhuaçu, São Pedro dos Ferros, Vermelho Novo, 
+
+
+Cidades cobertas pelo mamógrafo 195 => Guimarânia, Patos de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 196 => Matutina, São Gotardo, Serra da Saudade, 
+
+
+Cidades cobertas pelo mamógrafo 197 => Barão de Cocais, 
+
+
+Cidades cobertas pelo mamógrafo 198 => 
+
+
+Cidades cobertas pelo mamógrafo 199 => Água Boa, Angelândia, Aricanduva, Capelinha, Itamarandiba, Setubinha, 
+
+
+Cidades cobertas pelo mamógrafo 200 => Três Marias, 
+
+
+Cidades cobertas pelo mamógrafo 201 => Cambuí, Consolação, Córrego do Bom Jesus, Estiva, Gonçalves, Itapeva, Munhoz, Sapucaí-Mirim, Senador Amaral, Toledo, 
+
+
+Cidades cobertas pelo mamógrafo 202 => Astolfo Dutra, Coronel Pacheco, Descoberto, Dona Euzébia, Goianá, Guarani, Mercês, Piraúba, Rio Novo, Rochedo de Minas, Rodeiro, Silveirânia, Tabuleiro, 
+
+
+Cidades cobertas pelo mamógrafo 203 => Guarará, Maripá de Minas, Pequeri, São João Nepomuceno, 
+
+
+Cidades cobertas pelo mamógrafo 204 => Central de Minas, Cuparaque, Goiabeira, Itabirinha, Mantena, São João do Manteninha, 
+
+
+Cidades cobertas pelo mamógrafo 205 => Curral de Dentro, Indaiabira, Taiobeiras, 
+
+
+Cidades cobertas pelo mamógrafo 206 => Martinho Campos, Papagaios, Pompéu, 
+
+
+Cidades cobertas pelo mamógrafo 207 => Igaratinga, Mateus Leme, Pará de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 208 => Santa Bárbara, 
+
+
+Cidades cobertas pelo mamógrafo 209 => Ipatinga, 
+
+
+Cidades cobertas pelo mamógrafo 210 => Extrema, 
+
+
+Cidades cobertas pelo mamógrafo 211 => Belo Oriente, Bugre, Iapu, Ipatinga, Mesquita, Naque, Vargem Alegre, 
+
+
+Cidades cobertas pelo mamógrafo 212 => Cachoeira Dourada, Gurinhatã, Ituiutaba, 
+
+
+Cidades cobertas pelo mamógrafo 213 => Brasília de Minas, Japonvar, Mirabela, Patis, Ubaí, 
+
+
+Cidades cobertas pelo mamógrafo 214 => Espinosa, Mamonas, 
+
+
+Cidades cobertas pelo mamógrafo 215 => Contagem, 
+
+
+Cidades cobertas pelo mamógrafo 216 => Campos Gerais, 
+
+
+Cidades cobertas pelo mamógrafo 217 => Bambuí, Córrego Danta, Medeiros, Tapiraí, 
+
+
+Cidades cobertas pelo mamógrafo 218 => Araporã, Centralina, 
+
+
+Cidades cobertas pelo mamógrafo 219 => Aimorés, Itueta, Santa Rita do Itueto, 
+
+
+Cidades cobertas pelo mamógrafo 220 => Onça de Pitangui, Pequi, Pitangui, São Gonçalo do Pará, 
+
+
+Cidades cobertas pelo mamógrafo 221 => Ilicínea, 
+
+
+Cidades cobertas pelo mamógrafo 222 => 
+
+
+Cidades cobertas pelo mamógrafo 223 => Joanésia, Periquito, Santana do Paraíso, 
+
+
+Cidades cobertas pelo mamógrafo 224 => Carmo da Cachoeira, Ijaci, Itumirim, Nepomuceno, 
+
+
+Cidades cobertas pelo mamógrafo 225 => Mutum, Pocrane, Taparuba, 
+
+
+Cidades cobertas pelo mamógrafo 226 => Sarzedo, 
+
+
+Cidades cobertas pelo mamógrafo 227 => Capela Nova, Carandaí, Dores de Campos, Lagoa Dourada, Prados, Ressaquinha, Rio Espera, Senhora dos Remédios, 
+
+
+Cidades cobertas pelo mamógrafo 228 => Tupaciguara, 
+
+
+Cidades cobertas pelo mamógrafo 229 => Prata, 
+
+
+Cidades cobertas pelo mamógrafo 230 => Cláudio, Divinópolis, Passa Tempo, Piracema, São Sebastião do Oeste, 
+
+
+Cidades cobertas pelo mamógrafo 231 => Augusto de Lima, Corinto, Inimutaba, Monjolos, Morro da Garça, Santo Hipólito, 
+
+
+Cidades cobertas pelo mamógrafo 232 => Córrego Novo, Piedade de Ponte Nova, Raul Soares, Rio Casca, Santo Antônio do Grama, 
+
+
+Cidades cobertas pelo mamógrafo 233 => Caratinga, Dom Cavati, Engenheiro Caldas, Entre Folhas, Imbé de Minas, Inhapim, Piedade de Caratinga, Santa Rita de Minas, São Domingos das Dores, São João do Oriente, São Sebastião do Anta, Vargem Alegre, 
+
+
+Cidades cobertas pelo mamógrafo 234 => Abaeté, Biquinhas, Cedro do Abaeté, Paineiras, Quartel Geral, 
+
+
+Cidades cobertas pelo mamógrafo 235 => Itaipé, Novo Cruzeiro, Setubinha, 
+
+
+Cidades cobertas pelo mamógrafo 236 => Aiuruoca, Cambuquira, Caxambu, Cruzília, Minduri, São Tomé das Letras, Seritinga, Serranos, 
+
+
+Cidades cobertas pelo mamógrafo 237 => Berilo, Chapada do Norte, Francisco Badaró, Leme do Prado, Minas Novas, Turmalina, Veredinha, 
+
+
+Cidades cobertas pelo mamógrafo 238 => Itacarambi, São João das Missões, 
+
+
+Cidades cobertas pelo mamógrafo 239 => Bandeira do Sul, Poços de Caldas, 
+
+
+Cidades cobertas pelo mamógrafo 240 => Jaíba, 
+
+
+Cidades cobertas pelo mamógrafo 241 => Vespasiano, 
+
+
+Cidades cobertas pelo mamógrafo 242 => Conquista, Delta, Sacramento, 
+
+
+Cidades cobertas pelo mamógrafo 243 => Ibituruna, Ingaí, Itutinga, Lavras, Luminárias, Nazareno, São Bento Abade, 
+
+
+Cidades cobertas pelo mamógrafo 244 => Araxá, 
+
+
+Cidades cobertas pelo mamógrafo 245 => Itapecerica, 
+
+
+Cidades cobertas pelo mamógrafo 246 => Jacutinga, 
+
+
+Cidades cobertas pelo mamógrafo 247 => Conselheiro Pena, Galiléia, São Geraldo do Baixio, Tumiritinga, 
+
+
+Cidades cobertas pelo mamógrafo 248 => Cordisburgo, Paraopeba, 
+
+
+Cidades cobertas pelo mamógrafo 249 => Alto Caparaó, Espera Feliz, Luisburgo, Alto Jequitibá, 
+
+
+Cidades cobertas pelo mamógrafo 250 => Coração de Jesus, Lagoa dos Patos, São João da Lagoa, São João do Pacuí, 
+
+
+Cidades cobertas pelo mamógrafo 251 => Montezuma, Rio Pardo de Minas, Santo Antônio do Retiro, 
+
+
+Cidades cobertas pelo mamógrafo 252 => Gameleiras, Monte Azul, 
+
+
+Cidades cobertas pelo mamógrafo 253 => Itamogi, Monte Santo de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 254 => Monte Sião, 
+
+
+Cidades cobertas pelo mamógrafo 255 => Areado, Muzambinho, 
+
+
+Cidades cobertas pelo mamógrafo 256 => Matozinhos, 
+
+
+Cidades cobertas pelo mamógrafo 257 => Perdões, 
+
+
+Cidades cobertas pelo mamógrafo 258 => Caetanópolis, 
+
+
+Cidades cobertas pelo mamógrafo 259 => Conceição da Barra de Minas, Coronel Xavier Chaves, Madre de Deus de Minas, Piedade do Rio Grande, Resende Costa, Ritápolis, Santa Cruz de Minas, São João del Rei, São Tiago, Tiradentes, 
+
+
+Cidades cobertas pelo mamógrafo 260 => Barroso, Ibertioga, 
+
+
+Cidades cobertas pelo mamógrafo 261 => Capitão Enéas, Francisco Sá, 
+
+
+Cidades cobertas pelo mamógrafo 262 => Juatuba, 
+
+
+Cidades cobertas pelo mamógrafo 263 => Águas Vermelhas, Cachoeira de Pajeú, Divisa Alegre, Pedra Azul, 
+
+
+Cidades cobertas pelo mamógrafo 264 => Campina Verde, Itapagipe, 
+
+
+Cidades cobertas pelo mamógrafo 265 => Buritizeiro, 
+
+
+Cidades cobertas pelo mamógrafo 266 => Carmo do Rio Claro, 
+
+
+Cidades cobertas pelo mamógrafo 267 => Careaçu, Heliodora, Lambari, Monsenhor Paulo, Natércia, 
+
+
+Cidades cobertas pelo mamógrafo 268 => Guarda-Mor, Lagamar, Vazante, 
+
+
+Cidades cobertas pelo mamógrafo 269 => Campestre, Divisa Nova, 
+
+
+Cidades cobertas pelo mamógrafo 270 => Jequitinhonha, Joaíma, 
+
+
+Cidades cobertas pelo mamógrafo 271 => Paraguaçu, 
+
+
+Cidades cobertas pelo mamógrafo 272 => Camanducaia, 
+
+
+Cidades cobertas pelo mamógrafo 273 => Carmo do Cajuru, 
+
+
+Cidades cobertas pelo mamógrafo 274 => Durandé, Manhumirim, Martins Soares, Santana do Manhuaçu, Simonésia, 
+
+
+Cidades cobertas pelo mamógrafo 275 => Cajuri, Canaã, Coimbra, Divinésia, Guidoval, Paula Cândido, São Geraldo, São Miguel do Anta, São Sebastião da Vargem Alegre, Teixeiras, 
+
+
+Cidades cobertas pelo mamógrafo 276 => Ibiracatu, Lontra, São João da Ponte, Varzelândia, 
+
+
+Cidades cobertas pelo mamógrafo 277 => São José da Lapa, 
+
+
+Cidades cobertas pelo mamógrafo 278 => Franciscópolis, Itambacuri, Pescador, 
+
+
+Cidades cobertas pelo mamógrafo 279 => Brazópolis, Paraisópolis, 
+
+
+Cidades cobertas pelo mamógrafo 280 => Monte Alegre de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 281 => Buritis, 
+
+
+Cidades cobertas pelo mamógrafo 282 => Itajubá, Wenceslau Braz, 
+
+
+Cidades cobertas pelo mamógrafo 283 => Cristais, 
+
+
+Cidades cobertas pelo mamógrafo 284 => Baependi, Carvalhos, 
+
+
+Cidades cobertas pelo mamógrafo 285 => Santa Vitória, 
+
+
+Cidades cobertas pelo mamógrafo 286 => Chalé, Conceição de Ipanema, Ipanema, São José do Mantimento, 
+
+
+Cidades cobertas pelo mamógrafo 287 => Carlos Chagas, Pavão, 
+
+
+Cidades cobertas pelo mamógrafo 288 => Estrela do Indaiá, Luz, 
+
+
+Cidades cobertas pelo mamógrafo 289 => Itaobim, Itinga, Ponto dos Volantes, 
+
+
+Cidades cobertas pelo mamógrafo 290 => Borda da Mata, 
+
+
+Cidades cobertas pelo mamógrafo 291 => Divino, Pedra Bonita, 
+
+
+Cidades cobertas pelo mamógrafo 292 => Lagoa Formosa, 
+
+
+Cidades cobertas pelo mamógrafo 293 => Dionísio, Nova Era, São Domingos do Prata, 
+
+
+Cidades cobertas pelo mamógrafo 294 => Guaranésia, 
+
+
+Cidades cobertas pelo mamógrafo 295 => Presidente Olegário, 
+
+
+Cidades cobertas pelo mamógrafo 296 => Abre Campo, Araponga, Sericita, 
+
+
+Cidades cobertas pelo mamógrafo 297 => Alpinópolis, 
+
+
+Cidades cobertas pelo mamógrafo 298 => Comercinho, Medina, 
+
+
+Cidades cobertas pelo mamógrafo 299 => Lajinha, 
+
+
+Cidades cobertas pelo mamógrafo 300 => Capetinga, Cássia, Claraval, Delfinópolis, Ibiraci, 
+
+
+Cidades cobertas pelo mamógrafo 301 => Desterro do Melo, Dores do Turvo, Mercês, Rio Pomba, 
+
+
+Cidades cobertas pelo mamógrafo 302 => Malacacheta, 
+
+
+Cidades cobertas pelo mamógrafo 303 => Bom Sucesso, 
+
+
+Cidades cobertas pelo mamógrafo 304 => Resplendor, 
+
+
+Cidades cobertas pelo mamógrafo 305 => Poço Fundo, 
+
+
+Cidades cobertas pelo mamógrafo 306 => Canápolis, 
+
+
+Cidades cobertas pelo mamógrafo 307 => Caraí, Catuji, 
+
+
+Cidades cobertas pelo mamógrafo 308 => Santo Antônio do Amparo, 
+
+
+Cidades cobertas pelo mamógrafo 309 => Itaú de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 310 => Ervália, Rosário da Limeira, 
+
+
+Cidades cobertas pelo mamógrafo 311 => Carmópolis de Minas, Desterro de Entre Rios, 
+
+
+Cidades cobertas pelo mamógrafo 312 => Alagoa, Itamonte, Passa Quatro, 
+
+
+Cidades cobertas pelo mamógrafo 313 => Jaboticatubas, 
+
+
+Cidades cobertas pelo mamógrafo 314 => Senador Firmino, Tocantins, 
+
+
+Cidades cobertas pelo mamógrafo 315 => Conceição do Rio Verde, 
+
+
+Cidades cobertas pelo mamógrafo 316 => Raposos, 
+
+
+Cidades cobertas pelo mamógrafo 317 => Itaúna, 
+
+
+Cidades cobertas pelo mamógrafo 318 => Manga, Matias Cardoso, Miravânia, 
+
+
+Cidades cobertas pelo mamógrafo 319 => Capinópolis, Ipiaçu, 
+
+
+Cidades cobertas pelo mamógrafo 320 => Barão de Monte Alto, Laranjal, Palma, 
+
+
+Cidades cobertas pelo mamógrafo 321 => Campanha, São Gonçalo do Sapucaí, 
+
+
+Cidades cobertas pelo mamógrafo 322 => Itaguara, Piedade dos Gerais, 
+
+
+Cidades cobertas pelo mamógrafo 323 => Itanhandu, 
+
+
+Cidades cobertas pelo mamógrafo 324 => Ladainha, 
+
+
+Cidades cobertas pelo mamógrafo 325 => Botelhos, 
+
+
+Cidades cobertas pelo mamógrafo 326 => Monte Formoso, Padre Paraíso, 
+
+
+Cidades cobertas pelo mamógrafo 327 => Maravilhas, 
+
+
+Cidades cobertas pelo mamógrafo 328 => Alvinópolis, Dom Silvério, Rio Piracicaba, 
+
+
+Cidades cobertas pelo mamógrafo 329 => Dores do Indaiá, 
+
+
+Cidades cobertas pelo mamógrafo 330 => Bicas, Santana do Deserto, 
+
+
+Cidades cobertas pelo mamógrafo 331 => Bom Jesus do Galho, Pingo-d'Água, 
+
+
+Cidades cobertas pelo mamógrafo 332 => Ribeirão Vermelho, 
+
+
+Cidades cobertas pelo mamógrafo 333 => Brás Pires, Guaraciaba, Piranga, Porto Firme, Presidente Bernardes, Rio Espera, Senhora de Oliveira, 
+
+
+Cidades cobertas pelo mamógrafo 334 => 
+
+
+Cidades cobertas pelo mamógrafo 335 => Cantagalo, Coroaci, Gonzaga, Marilac, Nacip Raydan, Peçanha, Santa Efigênia de Minas, São Geraldo da Piedade, São José da Safira, Sardoá, 
+
+
+Cidades cobertas pelo mamógrafo 336 => Alpercata, Alvarenga, Capitão Andrade, Engenheiro Caldas, Fernandes Tourinho, Itanhomi, Sobrália, Tarumirim, 
+
+
+Cidades cobertas pelo mamógrafo 337 => Alto Rio Doce, Cipotânea, 
+
+
+Cidades cobertas pelo mamógrafo 338 => Virgolândia, 
+
+
+Cidades cobertas pelo mamógrafo 339 => Ubaporanga, 
+
+
+Cidades cobertas pelo mamógrafo 340 => Formoso, 
+
+
+Cidades cobertas pelo mamógrafo 341 => Coluna, Frei Lagonegro, José Raydan, Paulistas, Rio Vermelho, Santa Maria do Suaçuí, São João Evangelista, São José do Jacuri, São Pedro do Suaçuí, São Sebastião do Maranhão, 
+
+
+Cidades cobertas pelo mamógrafo 342 => São Gonçalo do Abaeté, Varjão de Minas, 
+
+
+Cidades cobertas pelo mamógrafo 343 => 
+
+
+Cidades cobertas pelo mamógrafo 344 => Arantina, Bocaina de Minas, Bom Jardim de Minas, Passa Vinte, Rio Preto, Santa Rita de Jacutinga, 
+
+
+Cidades cobertas pelo mamógrafo 345 => 
+
+
+Cidades cobertas pelo mamógrafo 346 => Jequeri, Pedra do Anta, Santa Cruz do Escalvado, Urucânia, 
+
+
+
+Lista de mamógrafos na cidade Abadia dos Dourados: 
+
+
+Lista de mamógrafos na cidade Abaeté: 234, 
+
+
+Lista de mamógrafos na cidade Abre Campo: 296, 
+
+
+Lista de mamógrafos na cidade Açucena: 
+
+
+Lista de mamógrafos na cidade Água Boa: 
+
+
+Lista de mamógrafos na cidade Águas Formosas: 
+
+
+Lista de mamógrafos na cidade Águas Vermelhas: 
+
+
+Lista de mamógrafos na cidade Aimorés: 219, 
+
+
+Lista de mamógrafos na cidade Aiuruoca: 
+
+
+Lista de mamógrafos na cidade Além Paraíba: 177, 
+
+
+Lista de mamógrafos na cidade Alfenas: 120, 
+
+
+Lista de mamógrafos na cidade Alfredo Vasconcelos: 
+
+
+Lista de mamógrafos na cidade Almenara: 182, 
+
+
+Lista de mamógrafos na cidade Alpercata: 
+
+
+Lista de mamógrafos na cidade Alpinópolis: 297, 
+
+
+Lista de mamógrafos na cidade Alterosa: 
+
+
+Lista de mamógrafos na cidade Alto Caparaó: 
+
+
+Lista de mamógrafos na cidade Alto Rio Doce: 337, 
+
+
+Lista de mamógrafos na cidade Alvarenga: 
+
+
+Lista de mamógrafos na cidade Alvinópolis: 
+
+
+Lista de mamógrafos na cidade Amparo do Serra: 
+
+
+Lista de mamógrafos na cidade Andradas: 169, 
+
+
+Lista de mamógrafos na cidade Cachoeira de Pajeú: 
+
+
+Lista de mamógrafos na cidade Andrelândia: 
+
+
+Lista de mamógrafos na cidade Angelândia: 
+
+
+Lista de mamógrafos na cidade Antônio Carlos: 
+
+
+Lista de mamógrafos na cidade Antônio Dias: 
+
+
+Lista de mamógrafos na cidade Araçuaí: 
+
+
+Lista de mamógrafos na cidade Araguari: 83, 163, 167, 
+
+
+Lista de mamógrafos na cidade Araponga: 
+
+
+Lista de mamógrafos na cidade Araporã: 
+
+
+Lista de mamógrafos na cidade Araújos: 
+
+
+Lista de mamógrafos na cidade Araxá: 244, 
+
+
+Lista de mamógrafos na cidade Arceburgo: 
+
+
+Lista de mamógrafos na cidade Arcos: 168, 
+
+
+Lista de mamógrafos na cidade Areado: 
+
+
+Lista de mamógrafos na cidade Arinos: 
+
+
+Lista de mamógrafos na cidade Astolfo Dutra: 
+
+
+Lista de mamógrafos na cidade Ataléia: 187, 
+
+
+Lista de mamógrafos na cidade Augusto de Lima: 
+
+
+Lista de mamógrafos na cidade Baependi: 284, 
+
+
+Lista de mamógrafos na cidade Baldim: 
+
+
+Lista de mamógrafos na cidade Bambuí: 217, 
+
+
+Lista de mamógrafos na cidade Bandeira: 
+
+
+Lista de mamógrafos na cidade Bandeira do Sul: 
+
+
+Lista de mamógrafos na cidade Barão de Cocais: 197, 198, 
+
+
+Lista de mamógrafos na cidade Barão de Monte Alto: 
+
+
+Lista de mamógrafos na cidade Barbacena: 64, 127, 
+
+
+Lista de mamógrafos na cidade Barra Longa: 
+
+
+Lista de mamógrafos na cidade Barroso: 260, 
+
+
+Lista de mamógrafos na cidade Bela Vista de Minas: 
+
+
+Lista de mamógrafos na cidade Belo Horizonte: 1, 4, 6, 9, 10, 15, 20, 25, 26, 27, 29, 32, 33, 37, 42, 44, 45, 49, 55, 59, 61, 62, 65, 66, 71, 75, 76, 77, 79, 81, 84, 85, 92, 93, 131, 
+
+
+Lista de mamógrafos na cidade Belo Oriente: 
+
+
+Lista de mamógrafos na cidade Belo Vale: 
+
+
+Lista de mamógrafos na cidade Berilo: 
+
+
+Lista de mamógrafos na cidade Betim: 16, 23, 43, 70, 130, 
+
+
+Lista de mamógrafos na cidade Bicas: 330, 
+
+
+Lista de mamógrafos na cidade Boa Esperança: 172, 
+
+
+Lista de mamógrafos na cidade Bocaina de Minas: 
+
+
+Lista de mamógrafos na cidade Bocaiúva: 162, 
+
+
+Lista de mamógrafos na cidade Bom Despacho: 154, 
+
+
+Lista de mamógrafos na cidade Bom Jardim de Minas: 
+
+
+Lista de mamógrafos na cidade Bom Jesus do Amparo: 
+
+
+Lista de mamógrafos na cidade Bom Jesus do Galho: 331, 
+
+
+Lista de mamógrafos na cidade Bom Repouso: 
+
+
+Lista de mamógrafos na cidade Bom Sucesso: 303, 
+
+
+Lista de mamógrafos na cidade Bonfim: 
+
+
+Lista de mamógrafos na cidade Bonfinópolis de Minas: 
+
+
+Lista de mamógrafos na cidade Bonito de Minas: 
+
+
+Lista de mamógrafos na cidade Borda da Mata: 290, 
+
+
+Lista de mamógrafos na cidade Botelhos: 325, 
+
+
+Lista de mamógrafos na cidade Botumirim: 
+
+
+Lista de mamógrafos na cidade Brasilândia de Minas: 
+
+
+Lista de mamógrafos na cidade Brasília de Minas: 213, 
+
+
+Lista de mamógrafos na cidade Brás Pires: 
+
+
+Lista de mamógrafos na cidade Braúnas: 
+
+
+Lista de mamógrafos na cidade Brazópolis: 
+
+
+Lista de mamógrafos na cidade Brumadinho: 179, 
+
+
+Lista de mamógrafos na cidade Bueno Brandão: 
+
+
+Lista de mamógrafos na cidade Buenópolis: 
+
+
+Lista de mamógrafos na cidade Buritis: 281, 
+
+
+Lista de mamógrafos na cidade Buritizeiro: 265, 
+
+
+Lista de mamógrafos na cidade Cabeceira Grande: 
+
+
+Lista de mamógrafos na cidade Cabo Verde: 
+
+
+Lista de mamógrafos na cidade Cachoeira de Minas: 
+
+
+Lista de mamógrafos na cidade Caetanópolis: 258, 
+
+
+Lista de mamógrafos na cidade Caeté: 158, 
+
+
+Lista de mamógrafos na cidade Caiana: 
+
+
+Lista de mamógrafos na cidade Caldas: 
+
+
+Lista de mamógrafos na cidade Camanducaia: 272, 
+
+
+Lista de mamógrafos na cidade Cambuí: 201, 
+
+
+Lista de mamógrafos na cidade Cambuquira: 
+
+
+Lista de mamógrafos na cidade Campanha: 321, 
+
+
+Lista de mamógrafos na cidade Campestre: 269, 
+
+
+Lista de mamógrafos na cidade Campina Verde: 264, 
+
+
+Lista de mamógrafos na cidade Campo Belo: 137, 
+
+
+Lista de mamógrafos na cidade Campo do Meio: 
+
+
+Lista de mamógrafos na cidade Campo Florido: 
+
+
+Lista de mamógrafos na cidade Campos Altos: 
+
+
+Lista de mamógrafos na cidade Campos Gerais: 216, 
+
+
+Lista de mamógrafos na cidade Canaã: 
+
+
+Lista de mamógrafos na cidade Canápolis: 306, 
+
+
+Lista de mamógrafos na cidade Cana Verde: 
+
+
+Lista de mamógrafos na cidade Candeias: 
+
+
+Lista de mamógrafos na cidade Caparaó: 
+
+
+Lista de mamógrafos na cidade Capela Nova: 
+
+
+Lista de mamógrafos na cidade Capelinha: 199, 
+
+
+Lista de mamógrafos na cidade Capetinga: 
+
+
+Lista de mamógrafos na cidade Capim Branco: 165, 
+
+
+Lista de mamógrafos na cidade Capinópolis: 319, 
+
+
+Lista de mamógrafos na cidade Capitão Andrade: 
+
+
+Lista de mamógrafos na cidade Capitão Enéas: 
+
+
+Lista de mamógrafos na cidade Capitólio: 
+
+
+Lista de mamógrafos na cidade Caputira: 194, 
+
+
+Lista de mamógrafos na cidade Caraí: 307, 
+
+
+Lista de mamógrafos na cidade Carandaí: 227, 
+
+
+Lista de mamógrafos na cidade Carangola: 185, 
+
+
+Lista de mamógrafos na cidade Caratinga: 109, 
+
+
+Lista de mamógrafos na cidade Carbonita: 
+
+
+Lista de mamógrafos na cidade Careaçu: 
+
+
+Lista de mamógrafos na cidade Carlos Chagas: 287, 
+
+
+Lista de mamógrafos na cidade Carmo da Cachoeira: 
+
+
+Lista de mamógrafos na cidade Carmo da Mata: 
+
+
+Lista de mamógrafos na cidade Carmo de Minas: 
+
+
+Lista de mamógrafos na cidade Carmo do Cajuru: 273, 
+
+
+Lista de mamógrafos na cidade Carmo do Paranaíba: 191, 
+
+
+Lista de mamógrafos na cidade Carmo do Rio Claro: 266, 
+
+
+Lista de mamógrafos na cidade Carmópolis de Minas: 311, 
+
+
+Lista de mamógrafos na cidade Carneirinho: 
+
+
+Lista de mamógrafos na cidade Carvalhos: 
+
+
+Lista de mamógrafos na cidade Cássia: 300, 
+
+
+Lista de mamógrafos na cidade Cataguases: 117, 
+
+
+Lista de mamógrafos na cidade Catas Altas: 
+
+
+Lista de mamógrafos na cidade Catuji: 
+
+
+Lista de mamógrafos na cidade Catuti: 
+
+
+Lista de mamógrafos na cidade Caxambu: 236, 343, 
+
+
+Lista de mamógrafos na cidade Central de Minas: 
+
+
+Lista de mamógrafos na cidade Centralina: 218, 
+
+
+Lista de mamógrafos na cidade Chalé: 
+
+
+Lista de mamógrafos na cidade Chapada do Norte: 
+
+
+Lista de mamógrafos na cidade Chapada Gaúcha: 
+
+
+Lista de mamógrafos na cidade Cipotânea: 
+
+
+Lista de mamógrafos na cidade Claro dos Poções: 
+
+
+Lista de mamógrafos na cidade Cláudio: 230, 334, 
+
+
+Lista de mamógrafos na cidade Coimbra: 
+
+
+Lista de mamógrafos na cidade Coluna: 
+
+
+Lista de mamógrafos na cidade Comercinho: 
+
+
+Lista de mamógrafos na cidade Conceição da Aparecida: 
+
+
+Lista de mamógrafos na cidade Conceição das Alagoas: 
+
+
+Lista de mamógrafos na cidade Conceição de Ipanema: 
+
+
+Lista de mamógrafos na cidade Conceição do Mato Dentro: 
+
+
+Lista de mamógrafos na cidade Conceição do Pará: 
+
+
+Lista de mamógrafos na cidade Conceição do Rio Verde: 315, 
+
+
+Lista de mamógrafos na cidade Conceição dos Ouros: 
+
+
+Lista de mamógrafos na cidade Cônego Marinho: 
+
+
+Lista de mamógrafos na cidade Confins: 
+
+
+Lista de mamógrafos na cidade Congonhal: 
+
+
+Lista de mamógrafos na cidade Congonhas: 153, 
+
+
+Lista de mamógrafos na cidade Conquista: 
+
+
+Lista de mamógrafos na cidade Conselheiro Lafaiete: 74, 147, 
+
+
+Lista de mamógrafos na cidade Conselheiro Pena: 247, 
+
+
+Lista de mamógrafos na cidade Contagem: 2, 12, 13, 14, 24, 36, 53, 110, 215, 
+
+
+Lista de mamógrafos na cidade Coqueiral: 
+
+
+Lista de mamógrafos na cidade Coração de Jesus: 250, 
+
+
+Lista de mamógrafos na cidade Cordisburgo: 
+
+
+Lista de mamógrafos na cidade Corinto: 231, 
+
+
+Lista de mamógrafos na cidade Coroaci: 335, 
+
+
+Lista de mamógrafos na cidade Coromandel: 
+
+
+Lista de mamógrafos na cidade Coronel Fabriciano: 89, 186, 
+
+
+Lista de mamógrafos na cidade Coronel Murta: 
+
+
+Lista de mamógrafos na cidade Córrego Fundo: 
+
+
+Lista de mamógrafos na cidade Crisólita: 
+
+
+Lista de mamógrafos na cidade Cristais: 283, 
+
+
+Lista de mamógrafos na cidade Cristiano Otoni: 
+
+
+Lista de mamógrafos na cidade Cristina: 166, 
+
+
+Lista de mamógrafos na cidade Crucilândia: 
+
+
+Lista de mamógrafos na cidade Cruzília: 
+
+
+Lista de mamógrafos na cidade Cuparaque: 
+
+
+Lista de mamógrafos na cidade Curral de Dentro: 
+
+
+Lista de mamógrafos na cidade Curvelo: 118, 
+
+
+Lista de mamógrafos na cidade Datas: 
+
+
+Lista de mamógrafos na cidade Delfim Moreira: 
+
+
+Lista de mamógrafos na cidade Delfinópolis: 
+
+
+Lista de mamógrafos na cidade Delta: 
+
+
+Lista de mamógrafos na cidade Descoberto: 
+
+
+Lista de mamógrafos na cidade Desterro de Entre Rios: 
+
+
+Lista de mamógrafos na cidade Diamantina: 
+
+
+Lista de mamógrafos na cidade Dionísio: 
+
+
+Lista de mamógrafos na cidade Divino: 291, 
+
+
+Lista de mamógrafos na cidade Divino das Laranjeiras: 
+
+
+Lista de mamógrafos na cidade Divinolândia de Minas: 
+
+
+Lista de mamógrafos na cidade Divinópolis: 40, 60, 111, 
+
+
+Lista de mamógrafos na cidade Divisa Alegre: 
+
+
+Lista de mamógrafos na cidade Divisa Nova: 
+
+
+Lista de mamógrafos na cidade Divisópolis: 
+
+
+Lista de mamógrafos na cidade Dom Cavati: 
+
+
+Lista de mamógrafos na cidade Dom Silvério: 
+
+
+Lista de mamógrafos na cidade Dona Euzébia: 
+
+
+Lista de mamógrafos na cidade Dores de Campos: 
+
+
+Lista de mamógrafos na cidade Dores de Guanhães: 
+
+
+Lista de mamógrafos na cidade Dores do Indaiá: 329, 
+
+
+Lista de mamógrafos na cidade Durandé: 
+
+
+Lista de mamógrafos na cidade Elói Mendes: 
+
+
+Lista de mamógrafos na cidade Engenheiro Caldas: 
+
+
+Lista de mamógrafos na cidade Engenheiro Navarro: 
+
+
+Lista de mamógrafos na cidade Entre Folhas: 
+
+
+Lista de mamógrafos na cidade Entre Rios de Minas: 
+
+
+Lista de mamógrafos na cidade Ervália: 310, 
+
+
+Lista de mamógrafos na cidade Esmeraldas: 136, 
+
+
+Lista de mamógrafos na cidade Espera Feliz: 249, 
+
+
+Lista de mamógrafos na cidade Espinosa: 214, 
+
+
+Lista de mamógrafos na cidade Espírito Santo do Dourado: 
+
+
+Lista de mamógrafos na cidade Estiva: 
+
+
+Lista de mamógrafos na cidade Estrela do Sul: 
+
+
+Lista de mamógrafos na cidade Eugenópolis: 
+
+
+Lista de mamógrafos na cidade Extrema: 210, 
+
+
+Lista de mamógrafos na cidade Felício dos Santos: 
+
+
+Lista de mamógrafos na cidade Felisburgo: 
+
+
+Lista de mamógrafos na cidade Felixlândia: 
+
+
+Lista de mamógrafos na cidade Ferros: 
+
+
+Lista de mamógrafos na cidade Fervedouro: 
+
+
+Lista de mamógrafos na cidade Florestal: 
+
+
+Lista de mamógrafos na cidade Formiga: 134, 
+
+
+Lista de mamógrafos na cidade Formoso: 340, 
+
+
+Lista de mamógrafos na cidade Francisco Badaró: 
+
+
+Lista de mamógrafos na cidade Francisco Sá: 261, 
+
+
+Lista de mamógrafos na cidade Franciscópolis: 
+
+
+Lista de mamógrafos na cidade Frei Gaspar: 
+
+
+Lista de mamógrafos na cidade Frei Inocêncio: 
+
+
+Lista de mamógrafos na cidade Fronteira: 
+
+
+Lista de mamógrafos na cidade Fruta de Leite: 
+
+
+Lista de mamógrafos na cidade Frutal: 141, 
+
+
+Lista de mamógrafos na cidade Galiléia: 
+
+
+Lista de mamógrafos na cidade Gameleiras: 
+
+
+Lista de mamógrafos na cidade Gonçalves: 
+
+
+Lista de mamógrafos na cidade Gonzaga: 
+
+
+Lista de mamógrafos na cidade Gouveia: 
+
+
+Lista de mamógrafos na cidade Governador Valadares: 35, 48, 82, 
+
+
+Lista de mamógrafos na cidade Grão Mogol: 
+
+
+Lista de mamógrafos na cidade Guanhães: 
+
+
+Lista de mamógrafos na cidade Guapé: 
+
+
+Lista de mamógrafos na cidade Guaraciaba: 
+
+
+Lista de mamógrafos na cidade Guaraciama: 
+
+
+Lista de mamógrafos na cidade Guaranésia: 294, 
+
+
+Lista de mamógrafos na cidade Guarani: 202, 
+
+
+Lista de mamógrafos na cidade Guarda-Mor: 
+
+
+Lista de mamógrafos na cidade Guaxupé: 144, 
+
+
+Lista de mamógrafos na cidade Guidoval: 
+
+
+Lista de mamógrafos na cidade Guimarânia: 
+
+
+Lista de mamógrafos na cidade Guiricema: 
+
+
+Lista de mamógrafos na cidade Gurinhatã: 
+
+
+Lista de mamógrafos na cidade Heliodora: 
+
+
+Lista de mamógrafos na cidade Iapu: 
+
+
+Lista de mamógrafos na cidade Ibertioga: 
+
+
+Lista de mamógrafos na cidade Ibiá: 
+
+
+Lista de mamógrafos na cidade Ibiaí: 
+
+
+Lista de mamógrafos na cidade Ibiracatu: 
+
+
+Lista de mamógrafos na cidade Ibiraci: 
+
+
+Lista de mamógrafos na cidade Ibirité: 63, 123, 
+
+
+Lista de mamógrafos na cidade Icaraí de Minas: 
+
+
+Lista de mamógrafos na cidade Igarapé: 188, 
+
+
+Lista de mamógrafos na cidade Igaratinga: 
+
+
+Lista de mamógrafos na cidade Iguatama: 
+
+
+Lista de mamógrafos na cidade Ijaci: 
+
+
+Lista de mamógrafos na cidade Ilicínea: 221, 
+
+
+Lista de mamógrafos na cidade Imbé de Minas: 
+
+
+Lista de mamógrafos na cidade Inconfidentes: 
+
+
+Lista de mamógrafos na cidade Indaiabira: 
+
+
+Lista de mamógrafos na cidade Indianópolis: 
+
+
+Lista de mamógrafos na cidade Inhapim: 233, 
+
+
+Lista de mamógrafos na cidade Inhaúma: 
+
+
+Lista de mamógrafos na cidade Inimutaba: 
+
+
+Lista de mamógrafos na cidade Ipaba: 
+
+
+Lista de mamógrafos na cidade Ipanema: 286, 
+
+
+Lista de mamógrafos na cidade Ipatinga: 52, 94, 209, 211, 
+
+
+Lista de mamógrafos na cidade Ipuiúna: 
+
+
+Lista de mamógrafos na cidade Iraí de Minas: 
+
+
+Lista de mamógrafos na cidade Itabira: 88, 164, 
+
+
+Lista de mamógrafos na cidade Itabirinha: 
+
+
+Lista de mamógrafos na cidade Itabirito: 159, 
+
+
+Lista de mamógrafos na cidade Itacarambi: 238, 
+
+
+Lista de mamógrafos na cidade Itaguara: 322, 
+
+
+Lista de mamógrafos na cidade Itaipé: 
+
+
+Lista de mamógrafos na cidade Itajubá: 102, 282, 
+
+
+Lista de mamógrafos na cidade Itamarandiba: 
+
+
+Lista de mamógrafos na cidade Itamarati de Minas: 
+
+
+Lista de mamógrafos na cidade Itambacuri: 278, 
+
+
+Lista de mamógrafos na cidade Itamogi: 
+
+
+Lista de mamógrafos na cidade Itamonte: 
+
+
+Lista de mamógrafos na cidade Itanhandu: 323, 
+
+
+Lista de mamógrafos na cidade Itanhomi: 
+
+
+Lista de mamógrafos na cidade Itaobim: 289, 
+
+
+Lista de mamógrafos na cidade Itapagipe: 
+
+
+Lista de mamógrafos na cidade Itapecerica: 245, 
+
+
+Lista de mamógrafos na cidade Itapeva: 
+
+
+Lista de mamógrafos na cidade Itatiaiuçu: 
+
+
+Lista de mamógrafos na cidade Itaú de Minas: 309, 
+
+
+Lista de mamógrafos na cidade Itaúna: 108, 317, 
+
+
+Lista de mamógrafos na cidade Itaverava: 
+
+
+Lista de mamógrafos na cidade Itinga: 
+
+
+Lista de mamógrafos na cidade Itueta: 
+
+
+Lista de mamógrafos na cidade Ituiutaba: 97, 212, 
+
+
+Lista de mamógrafos na cidade Itumirim: 
+
+
+Lista de mamógrafos na cidade Iturama: 
+
+
+Lista de mamógrafos na cidade Jaboticatubas: 313, 
+
+
+Lista de mamógrafos na cidade Jacinto: 
+
+
+Lista de mamógrafos na cidade Jacuí: 
+
+
+Lista de mamógrafos na cidade Jacutinga: 246, 
+
+
+Lista de mamógrafos na cidade Jaíba: 240, 
+
+
+Lista de mamógrafos na cidade Janaúba: 133, 
+
+
+Lista de mamógrafos na cidade Januária: 143, 
+
+
+Lista de mamógrafos na cidade Japonvar: 
+
+
+Lista de mamógrafos na cidade Jeceaba: 
+
+
+Lista de mamógrafos na cidade Jenipapo de Minas: 
+
+
+Lista de mamógrafos na cidade Jequeri: 
+
+
+Lista de mamógrafos na cidade Jequitaí: 
+
+
+Lista de mamógrafos na cidade Jequitibá: 
+
+
+Lista de mamógrafos na cidade Jequitinhonha: 270, 
+
+
+Lista de mamógrafos na cidade Jesuânia: 
+
+
+Lista de mamógrafos na cidade Joaíma: 
+
+
+Lista de mamógrafos na cidade Joanésia: 
+
+
+Lista de mamógrafos na cidade João Monlevade: 112, 
+
+
+Lista de mamógrafos na cidade João Pinheiro: 
+
+
+Lista de mamógrafos na cidade Jordânia: 
+
+
+Lista de mamógrafos na cidade Nova União: 
+
+
+Lista de mamógrafos na cidade Juatuba: 262, 
+
+
+Lista de mamógrafos na cidade Juiz de Fora: 5, 7, 11, 19, 30, 51, 69, 140, 
+
+
+Lista de mamógrafos na cidade Juruaia: 
+
+
+Lista de mamógrafos na cidade Juvenília: 
+
+
+Lista de mamógrafos na cidade Ladainha: 324, 
+
+
+Lista de mamógrafos na cidade Lagamar: 
+
+
+Lista de mamógrafos na cidade Lagoa da Prata: 156, 222, 
+
+
+Lista de mamógrafos na cidade Lagoa Dourada: 
+
+
+Lista de mamógrafos na cidade Lagoa Formosa: 292, 
+
+
+Lista de mamógrafos na cidade Lagoa Grande: 
+
+
+Lista de mamógrafos na cidade Lagoa Santa: 139, 
+
+
+Lista de mamógrafos na cidade Lajinha: 299, 
+
+
+Lista de mamógrafos na cidade Lambari: 267, 
+
+
+Lista de mamógrafos na cidade Laranjal: 320, 
+
+
+Lista de mamógrafos na cidade Lassance: 
+
+
+Lista de mamógrafos na cidade Lavras: 98, 243, 
+
+
+Lista de mamógrafos na cidade Leopoldina: 146, 
+
+
+Lista de mamógrafos na cidade Liberdade: 
+
+
+Lista de mamógrafos na cidade Lima Duarte: 
+
+
+Lista de mamógrafos na cidade Limeira do Oeste: 
+
+
+Lista de mamógrafos na cidade Lontra: 
+
+
+Lista de mamógrafos na cidade Luisburgo: 
+
+
+Lista de mamógrafos na cidade Luislândia: 
+
+
+Lista de mamógrafos na cidade Luminárias: 
+
+
+Lista de mamógrafos na cidade Luz: 288, 
+
+
+Lista de mamógrafos na cidade Machacalis: 
+
+
+Lista de mamógrafos na cidade Machado: 176, 
+
+
+Lista de mamógrafos na cidade Madre de Deus de Minas: 
+
+
+Lista de mamógrafos na cidade Malacacheta: 302, 
+
+
+Lista de mamógrafos na cidade Mamonas: 
+
+
+Lista de mamógrafos na cidade Manga: 318, 
+
+
+Lista de mamógrafos na cidade Manhuaçu: 125, 
+
+
+Lista de mamógrafos na cidade Manhumirim: 274, 
+
+
+Lista de mamógrafos na cidade Mantena: 204, 
+
+
+Lista de mamógrafos na cidade Maravilhas: 327, 
+
+
+Lista de mamógrafos na cidade Mar de Espanha: 
+
+
+Lista de mamógrafos na cidade Maria da Fé: 
+
+
+Lista de mamógrafos na cidade Mariana: 150, 
+
+
+Lista de mamógrafos na cidade Mário Campos: 
+
+
+Lista de mamógrafos na cidade Martinho Campos: 
+
+
+Lista de mamógrafos na cidade Martins Soares: 
+
+
+Lista de mamógrafos na cidade Mata Verde: 
+
+
+Lista de mamógrafos na cidade Mateus Leme: 207, 
+
+
+Lista de mamógrafos na cidade Matias Barbosa: 
+
+
+Lista de mamógrafos na cidade Matias Cardoso: 
+
+
+Lista de mamógrafos na cidade Matipó: 
+
+
+Lista de mamógrafos na cidade Mato Verde: 
+
+
+Lista de mamógrafos na cidade Matozinhos: 256, 
+
+
+Lista de mamógrafos na cidade Medina: 298, 
+
+
+Lista de mamógrafos na cidade Mendes Pimentel: 
+
+
+Lista de mamógrafos na cidade Mercês: 
+
+
+Lista de mamógrafos na cidade Mesquita: 
+
+
+Lista de mamógrafos na cidade Minas Novas: 237, 
+
+
+Lista de mamógrafos na cidade Mirabela: 
+
+
+Lista de mamógrafos na cidade Miradouro: 
+
+
+Lista de mamógrafos na cidade Miraí: 
+
+
+Lista de mamógrafos na cidade Moeda: 
+
+
+Lista de mamógrafos na cidade Moema: 
+
+
+Lista de mamógrafos na cidade Monsenhor Paulo: 
+
+
+Lista de mamógrafos na cidade Montalvânia: 
+
+
+Lista de mamógrafos na cidade Monte Alegre de Minas: 280, 
+
+
+Lista de mamógrafos na cidade Monte Azul: 252, 
+
+
+Lista de mamógrafos na cidade Monte Belo: 
+
+
+Lista de mamógrafos na cidade Monte Carmelo: 160, 
+
+
+Lista de mamógrafos na cidade Monte Santo de Minas: 253, 
+
+
+Lista de mamógrafos na cidade Montes Claros: 18, 31, 50, 87, 171, 
+
+
+Lista de mamógrafos na cidade Monte Sião: 254, 
+
+
+Lista de mamógrafos na cidade Montezuma: 
+
+
+Lista de mamógrafos na cidade Morada Nova de Minas: 
+
+
+Lista de mamógrafos na cidade Munhoz: 
+
+
+Lista de mamógrafos na cidade Muriaé: 91, 193, 
+
+
+Lista de mamógrafos na cidade Mutum: 225, 
+
+
+Lista de mamógrafos na cidade Muzambinho: 255, 
+
+
+Lista de mamógrafos na cidade Nanuque: 173, 
+
+
+Lista de mamógrafos na cidade Naque: 
+
+
+Lista de mamógrafos na cidade Natércia: 
+
+
+Lista de mamógrafos na cidade Nazareno: 
+
+
+Lista de mamógrafos na cidade Nepomuceno: 224, 
+
+
+Lista de mamógrafos na cidade Ninheira: 
+
+
+Lista de mamógrafos na cidade Nova Era: 293, 
+
+
+Lista de mamógrafos na cidade Nova Lima: 106, 
+
+
+Lista de mamógrafos na cidade Nova Ponte: 
+
+
+Lista de mamógrafos na cidade Nova Porteirinha: 
+
+
+Lista de mamógrafos na cidade Nova Resende: 58, 
+
+
+Lista de mamógrafos na cidade Nova Serrana: 138, 
+
+
+Lista de mamógrafos na cidade Novo Cruzeiro: 235, 
+
+
+Lista de mamógrafos na cidade Novo Oriente de Minas: 
+
+
+Lista de mamógrafos na cidade Oliveira: 161, 
+
+
+Lista de mamógrafos na cidade Oratórios: 
+
+
+Lista de mamógrafos na cidade Orizânia: 
+
+
+Lista de mamógrafos na cidade Ouro Branco: 180, 
+
+
+Lista de mamógrafos na cidade Ouro Fino: 190, 
+
+
+Lista de mamógrafos na cidade Ouro Preto: 124, 
+
+
+Lista de mamógrafos na cidade Ouro Verde de Minas: 99, 
+
+
+Lista de mamógrafos na cidade Padre Paraíso: 326, 
+
+
+Lista de mamógrafos na cidade Paineiras: 
+
+
+Lista de mamógrafos na cidade Pains: 
+
+
+Lista de mamógrafos na cidade Pai Pedro: 
+
+
+Lista de mamógrafos na cidade Palma: 
+
+
+Lista de mamógrafos na cidade Palmópolis: 
+
+
+Lista de mamógrafos na cidade Papagaios: 
+
+
+Lista de mamógrafos na cidade Paracatu: 116, 
+
+
+Lista de mamógrafos na cidade Pará de Minas: 107, 
+
+
+Lista de mamógrafos na cidade Paraguaçu: 271, 
+
+
+Lista de mamógrafos na cidade Paraisópolis: 279, 
+
+
+Lista de mamógrafos na cidade Paraopeba: 248, 
+
+
+Lista de mamógrafos na cidade Passa Quatro: 312, 
+
+
+Lista de mamógrafos na cidade Passa Tempo: 
+
+
+Lista de mamógrafos na cidade Passos: 90, 181, 
+
+
+Lista de mamógrafos na cidade Patos de Minas: 115, 195, 
+
+
+Lista de mamógrafos na cidade Patrocínio: 113, 
+
+
+Lista de mamógrafos na cidade Patrocínio do Muriaé: 
+
+
+Lista de mamógrafos na cidade Paula Cândido: 
+
+
+Lista de mamógrafos na cidade Pavão: 
+
+
+Lista de mamógrafos na cidade Peçanha: 
+
+
+Lista de mamógrafos na cidade Pedra Azul: 263, 
+
+
+Lista de mamógrafos na cidade Pedra Bonita: 
+
+
+Lista de mamógrafos na cidade Pedralva: 
+
+
+Lista de mamógrafos na cidade Pedras de Maria da Cruz: 
+
+
+Lista de mamógrafos na cidade Pedro Leopoldo: 132, 
+
+
+Lista de mamógrafos na cidade Perdigão: 
+
+
+Lista de mamógrafos na cidade Perdizes: 
+
+
+Lista de mamógrafos na cidade Perdões: 257, 
+
+
+Lista de mamógrafos na cidade Periquito: 
+
+
+Lista de mamógrafos na cidade Piedade de Caratinga: 
+
+
+Lista de mamógrafos na cidade Piedade do Rio Grande: 
+
+
+Lista de mamógrafos na cidade Piedade dos Gerais: 
+
+
+Lista de mamógrafos na cidade Pimenta: 
+
+
+Lista de mamógrafos na cidade Pingo-d'Água: 
+
+
+Lista de mamógrafos na cidade Pintópolis: 39, 
+
+
+Lista de mamógrafos na cidade Piracema: 
+
+
+Lista de mamógrafos na cidade Piranga: 333, 
+
+
+Lista de mamógrafos na cidade Piranguçu: 
+
+
+Lista de mamógrafos na cidade Piranguinho: 
+
+
+Lista de mamógrafos na cidade Pirapetinga: 
+
+
+Lista de mamógrafos na cidade Pirapora: 149, 
+
+
+Lista de mamógrafos na cidade Piraúba: 
+
+
+Lista de mamógrafos na cidade Pitangui: 220, 
+
+
+Lista de mamógrafos na cidade Piumhi: 184, 
+
+
+Lista de mamógrafos na cidade Planura: 
+
+
+Lista de mamógrafos na cidade Poço Fundo: 305, 
+
+
+Lista de mamógrafos na cidade Poços de Caldas: 57, 103, 239, 
+
+
+Lista de mamógrafos na cidade Pocrane: 
+
+
+Lista de mamógrafos na cidade Pompéu: 206, 
+
+
+Lista de mamógrafos na cidade Ponte Nova: 128, 
+
+
+Lista de mamógrafos na cidade Ponto dos Volantes: 
+
+
+Lista de mamógrafos na cidade Porteirinha: 183, 
+
+
+Lista de mamógrafos na cidade Porto Firme: 
+
+
+Lista de mamógrafos na cidade Poté: 
+
+
+Lista de mamógrafos na cidade Pouso Alegre: 68, 129, 
+
+
+Lista de mamógrafos na cidade Pouso Alto: 
+
+
+Lista de mamógrafos na cidade Prados: 
+
+
+Lista de mamógrafos na cidade Prata: 229, 
+
+
+Lista de mamógrafos na cidade Pratápolis: 
+
+
+Lista de mamógrafos na cidade Presidente Bernardes: 
+
+
+Lista de mamógrafos na cidade Presidente Olegário: 295, 
+
+
+Lista de mamógrafos na cidade Alto Jequitibá: 
+
+
+Lista de mamógrafos na cidade Prudente de Morais: 
+
+
+Lista de mamógrafos na cidade Raposos: 316, 
+
+
+Lista de mamógrafos na cidade Raul Soares: 232, 
+
+
+Lista de mamógrafos na cidade Recreio: 
+
+
+Lista de mamógrafos na cidade Reduto: 
+
+
+Lista de mamógrafos na cidade Resende Costa: 
+
+
+Lista de mamógrafos na cidade Resplendor: 304, 
+
+
+Lista de mamógrafos na cidade Ressaquinha: 
+
+
+Lista de mamógrafos na cidade Riachinho: 
+
+
+Lista de mamógrafos na cidade Riacho dos Machados: 
+
+
+Lista de mamógrafos na cidade Ribeirão das Neves: 28, 46, 78, 152, 
+
+
+Lista de mamógrafos na cidade Ribeirão Vermelho: 332, 
+
+
+Lista de mamógrafos na cidade Rio Acima: 
+
+
+Lista de mamógrafos na cidade Rio Casca: 
+
+
+Lista de mamógrafos na cidade Rio do Prado: 
+
+
+Lista de mamógrafos na cidade Rio Espera: 
+
+
+Lista de mamógrafos na cidade Rio Manso: 
+
+
+Lista de mamógrafos na cidade Rio Novo: 
+
+
+Lista de mamógrafos na cidade Rio Paranaíba: 
+
+
+Lista de mamógrafos na cidade Rio Pardo de Minas: 251, 
+
+
+Lista de mamógrafos na cidade Rio Piracicaba: 328, 
+
+
+Lista de mamógrafos na cidade Rio Pomba: 301, 
+
+
+Lista de mamógrafos na cidade Rio Preto: 
+
+
+Lista de mamógrafos na cidade Rio Vermelho: 
+
+
+Lista de mamógrafos na cidade Ritápolis: 
+
+
+Lista de mamógrafos na cidade Rodeiro: 
+
+
+Lista de mamógrafos na cidade Rubelita: 
+
+
+Lista de mamógrafos na cidade Rubim: 
+
+
+Lista de mamógrafos na cidade Sabará: 73, 145, 
+
+
+Lista de mamógrafos na cidade Sabinópolis: 
+
+
+Lista de mamógrafos na cidade Sacramento: 242, 
+
+
+Lista de mamógrafos na cidade Salinas: 178, 
+
+
+Lista de mamógrafos na cidade Salto da Divisa: 
+
+
+Lista de mamógrafos na cidade Santa Bárbara: 208, 
+
+
+Lista de mamógrafos na cidade Santa Bárbara do Leste: 
+
+
+Lista de mamógrafos na cidade Santa Bárbara do Tugúrio: 
+
+
+Lista de mamógrafos na cidade Santa Cruz de Minas: 
+
+
+Lista de mamógrafos na cidade Santa Cruz do Escalvado: 
+
+
+Lista de mamógrafos na cidade Santa Helena de Minas: 
+
+
+Lista de mamógrafos na cidade Santa Juliana: 
+
+
+Lista de mamógrafos na cidade Santa Luzia: 47, 86, 155, 
+
+
+Lista de mamógrafos na cidade Santa Margarida: 
+
+
+Lista de mamógrafos na cidade Santa Maria de Itabira: 
+
+
+Lista de mamógrafos na cidade Santa Maria do Salto: 
+
+
+Lista de mamógrafos na cidade Santa Maria do Suaçuí: 
+
+
+Lista de mamógrafos na cidade Santana da Vargem: 
+
+
+Lista de mamógrafos na cidade Santana de Pirapama: 
+
+
+Lista de mamógrafos na cidade Santana do Jacaré: 
+
+
+Lista de mamógrafos na cidade Santana do Manhuaçu: 
+
+
+Lista de mamógrafos na cidade Santana do Paraíso: 223, 
+
+
+Lista de mamógrafos na cidade Santa Rita de Caldas: 
+
+
+Lista de mamógrafos na cidade Santa Rita de Jacutinga: 344, 
+
+
+Lista de mamógrafos na cidade Santa Rita de Minas: 
+
+
+Lista de mamógrafos na cidade Santa Rita do Itueto: 
+
+
+Lista de mamógrafos na cidade Santa Rita do Sapucaí: 175, 
+
+
+Lista de mamógrafos na cidade Santa Vitória: 285, 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Amparo: 308, 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Jacinto: 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Monte: 
+
+
+Lista de mamógrafos na cidade Santo Antônio do Retiro: 
+
+
+Lista de mamógrafos na cidade Santos Dumont: 151, 
+
+
+Lista de mamógrafos na cidade São Domingos das Dores: 
+
+
+Lista de mamógrafos na cidade São Domingos do Prata: 
+
+
+Lista de mamógrafos na cidade São Francisco: 170, 
+
+
+Lista de mamógrafos na cidade São Francisco de Paula: 
+
+
+Lista de mamógrafos na cidade São Francisco de Sales: 
+
+
+Lista de mamógrafos na cidade São Francisco do Glória: 
+
+
+Lista de mamógrafos na cidade São Geraldo: 275, 
+
+
+Lista de mamógrafos na cidade São Gonçalo do Abaeté: 
+
+
+Lista de mamógrafos na cidade São Gonçalo do Pará: 
+
+
+Lista de mamógrafos na cidade São Gonçalo do Rio Abaixo: 
+
+
+Lista de mamógrafos na cidade São Gonçalo do Sapucaí: 
+
+
+Lista de mamógrafos na cidade São Gotardo: 196, 
+
+
+Lista de mamógrafos na cidade São João Batista do Glória: 
+
+
+Lista de mamógrafos na cidade São João da Ponte: 276, 
+
+
+Lista de mamógrafos na cidade São João das Missões: 
+
+
+Lista de mamógrafos na cidade São João del Rei: 101, 259, 
+
+
+Lista de mamógrafos na cidade São João do Manhuaçu: 
+
+
+Lista de mamógrafos na cidade São João do Manteninha: 
+
+
+Lista de mamógrafos na cidade São João do Oriente: 
+
+
+Lista de mamógrafos na cidade São João do Paraíso: 
+
+
+Lista de mamógrafos na cidade São João Evangelista: 
+
+
+Lista de mamógrafos na cidade São João Nepomuceno: 203, 
+
+
+Lista de mamógrafos na cidade São Joaquim de Bicas: 
+
+
+Lista de mamógrafos na cidade São José da Barra: 
+
+
+Lista de mamógrafos na cidade São José da Lapa: 277, 
+
+
+Lista de mamógrafos na cidade São José do Goiabal: 
+
+
+Lista de mamógrafos na cidade São José do Jacuri: 341, 
+
+
+Lista de mamógrafos na cidade São Lourenço: 157, 
+
+
+Lista de mamógrafos na cidade São Miguel do Anta: 
+
+
+Lista de mamógrafos na cidade São Pedro da União: 
+
+
+Lista de mamógrafos na cidade São Pedro dos Ferros: 
+
+
+Lista de mamógrafos na cidade São Pedro do Suaçuí: 
+
+
+Lista de mamógrafos na cidade São Romão: 
+
+
+Lista de mamógrafos na cidade São Roque de Minas: 
+
+
+Lista de mamógrafos na cidade São Sebastião da Bela Vista: 
+
+
+Lista de mamógrafos na cidade São Sebastião do Anta: 
+
+
+Lista de mamógrafos na cidade São Sebastião do Maranhão: 
+
+
+Lista de mamógrafos na cidade São Sebastião do Oeste: 
+
+
+Lista de mamógrafos na cidade São Sebastião do Paraíso: 126, 345, 
+
+
+Lista de mamógrafos na cidade São Tiago: 
+
+
+Lista de mamógrafos na cidade São Tomás de Aquino: 
+
+
+Lista de mamógrafos na cidade São Tomé das Letras: 
+
+
+Lista de mamógrafos na cidade São Vicente de Minas: 
+
+
+Lista de mamógrafos na cidade Sapucaí-Mirim: 
+
+
+Lista de mamógrafos na cidade Sardoá: 
+
+
+Lista de mamógrafos na cidade Sarzedo: 226, 
+
+
+Lista de mamógrafos na cidade Setubinha: 
+
+
+Lista de mamógrafos na cidade Senador Amaral: 
+
+
+Lista de mamógrafos na cidade Senador Firmino: 
+
+
+Lista de mamógrafos na cidade Senhora de Oliveira: 
+
+
+Lista de mamógrafos na cidade Senhora dos Remédios: 
+
+
+Lista de mamógrafos na cidade Sericita: 
+
+
+Lista de mamógrafos na cidade Serra dos Aimorés: 
+
+
+Lista de mamógrafos na cidade Serra do Salitre: 
+
+
+Lista de mamógrafos na cidade Serrania: 
+
+
+Lista de mamógrafos na cidade Serro: 
+
+
+Lista de mamógrafos na cidade Sete Lagoas: 41, 67, 121, 
+
+
+Lista de mamógrafos na cidade Silvianópolis: 
+
+
+Lista de mamógrafos na cidade Simonésia: 
+
+
+Lista de mamógrafos na cidade Sobrália: 
+
+
+Lista de mamógrafos na cidade Soledade de Minas: 
+
+
+Lista de mamógrafos na cidade Taiobeiras: 205, 
+
+
+Lista de mamógrafos na cidade Tarumirim: 336, 
+
+
+Lista de mamógrafos na cidade Teixeiras: 
+
+
+Lista de mamógrafos na cidade Teófilo Otoni: 72, 142, 
+
+
+Lista de mamógrafos na cidade Timóteo: 105, 
+
+
+Lista de mamógrafos na cidade Tiradentes: 
+
+
+Lista de mamógrafos na cidade Tiros: 
+
+
+Lista de mamógrafos na cidade Tocantins: 314, 
+
+
+Lista de mamógrafos na cidade Tocos do Moji: 
+
+
+Lista de mamógrafos na cidade Toledo: 
+
+
+Lista de mamógrafos na cidade Tombos: 
+
+
+Lista de mamógrafos na cidade Três Corações: 122, 
+
+
+Lista de mamógrafos na cidade Três Marias: 200, 
+
+
+Lista de mamógrafos na cidade Três Pontas: 148, 
+
+
+Lista de mamógrafos na cidade Tumiritinga: 
+
+
+Lista de mamógrafos na cidade Tupaciguara: 228, 
+
+
+Lista de mamógrafos na cidade Turmalina: 
+
+
+Lista de mamógrafos na cidade Turvolândia: 
+
+
+Lista de mamógrafos na cidade Ubá: 96, 
+
+
+Lista de mamógrafos na cidade Ubaí: 
+
+
+Lista de mamógrafos na cidade Ubaporanga: 339, 
+
+
+Lista de mamógrafos na cidade Uberaba: 22, 38, 56, 104, 
+
+
+Lista de mamógrafos na cidade Uberlândia: 0, 3, 8, 17, 21, 34, 54, 95, 189, 
+
+
+Lista de mamógrafos na cidade Unaí: 119, 
+
+
+Lista de mamógrafos na cidade Urucânia: 346, 
+
+
+Lista de mamógrafos na cidade Urucuia: 
+
+
+Lista de mamógrafos na cidade Vargem Alegre: 
+
+
+Lista de mamógrafos na cidade Varginha: 80, 135, 
+
+
+Lista de mamógrafos na cidade Varjão de Minas: 342, 
+
+
+Lista de mamógrafos na cidade Várzea da Palma: 192, 
+
+
+Lista de mamógrafos na cidade Varzelândia: 
+
+
+Lista de mamógrafos na cidade Vazante: 268, 
+
+
+Lista de mamógrafos na cidade Verdelândia: 
+
+
+Lista de mamógrafos na cidade Veredinha: 
+
+
+Lista de mamógrafos na cidade Vespasiano: 100, 241, 
+
+
+Lista de mamógrafos na cidade Viçosa: 114, 
+
+
+Lista de mamógrafos na cidade Virgem da Lapa: 
+
+
+Lista de mamógrafos na cidade Virgínia: 
+
+
+Lista de mamógrafos na cidade Virginópolis: 
+
+
+Lista de mamógrafos na cidade Virgolândia: 338, 
+
+
+Lista de mamógrafos na cidade Visconde do Rio Branco: 174, 
+
+
+Lista de mamógrafos na cidade Volta Grande: 
+
+
+
+Cobertura da demanda
+Cidade Abadia dos Dourados:  629/629 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 629/629
+Cidade Abaeté:  2162/2162 => 100.0%
+Mamógrafo 234 instalado em Abaeté => 2162/2162
+Cidade Abre Campo:  1127/1127 => 100.0%
+Mamógrafo 296 instalado em Abre Campo => 1127/1127
+Cidade Acaiaca:  337/337 => 100.0%
+Mamógrafo 150 instalado em Mariana => 337/337
+Cidade Açucena:  0/780 => 0.0%
+Cidade Água Boa:  1054/1054 => 100.0%
+Mamógrafo 199 instalado em Capelinha => 1054/1054
+Cidade Água Comprida:  0/172 => 0.0%
+Cidade Aguanil:  365/365 => 100.0%
+Mamógrafo 172 instalado em Boa Esperança => 365/365
+Cidade Águas Formosas:  0/1330 => 0.0%
+Cidade Águas Vermelhas:  925/925 => 100.0%
+Mamógrafo 263 instalado em Pedra Azul => 925/925
+Cidade Aimorés:  2252/2252 => 100.0%
+Mamógrafo 219 instalado em Aimorés => 2252/2252
+Cidade Aiuruoca:  558/558 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 558/558
+Cidade Alagoa:  256/256 => 100.0%
+Mamógrafo 312 instalado em Passa Quatro => 256/256
+Cidade Albertina:  240/240 => 100.0%
+Mamógrafo 169 instalado em Andradas => 240/240
+Cidade Além Paraíba:  3305/3305 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 3305/3305
+Cidade Alfenas:  6883/6883 => 100.0%
+Mamógrafo 120 instalado em Alfenas => 6758/6883
+Mamógrafo 176 instalado em Machado => 125/6883
+Cidade Alfredo Vasconcelos:  536/536 => 100.0%
+Mamógrafo 127 instalado em Barbacena => 536/536
+Cidade Almenara:  3052/3052 => 100.0%
+Mamógrafo 182 instalado em Almenara => 3052/3052
+Cidade Alpercata:  586/586 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 586/586
+Cidade Alpinópolis:  1600/1600 => 100.0%
+Mamógrafo 297 instalado em Alpinópolis => 1600/1600
+Cidade Alterosa:  1157/1157 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 1157/1157
+Cidade Alto Caparaó:  433/433 => 100.0%
+Mamógrafo 249 instalado em Espera Feliz => 433/433
+Cidade Alto Rio Doce:  1032/1032 => 100.0%
+Mamógrafo 337 instalado em Alto Rio Doce => 1032/1032
+Cidade Alvarenga:  382/382 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 382/382
+Cidade Alvinópolis:  1335/1335 => 100.0%
+Mamógrafo 328 instalado em Rio Piracicaba => 1335/1335
+Cidade Alvorada de Minas:  0/243 => 0.0%
+Cidade Amparo do Serra:  434/434 => 100.0%
+Mamógrafo 128 instalado em Ponte Nova => 434/434
+Cidade Andradas:  3471/3471 => 100.0%
+Mamógrafo 169 instalado em Andradas => 3471/3471
+Cidade Cachoeira de Pajeú:  661/661 => 100.0%
+Mamógrafo 263 instalado em Pedra Azul => 661/661
+Cidade Andrelândia:  0/1137 => 0.0%
+Cidade Angelândia:  510/510 => 100.0%
+Mamógrafo 199 instalado em Capelinha => 510/510
+Cidade Antônio Carlos:  1011/1011 => 100.0%
+Mamógrafo 127 instalado em Barbacena => 276/1011
+Mamógrafo 151 instalado em Santos Dumont => 735/1011
+Cidade Antônio Dias:  769/769 => 100.0%
+Mamógrafo 186 instalado em Coronel Fabriciano => 769/769
+Cidade Antônio Prado de Minas:  49/155 => 31.61290322580645%
+Mamógrafo 185 instalado em Carangola => 49/155
+Cidade Araçaí:  208/208 => 100.0%
+Mamógrafo 165 instalado em Capim Branco => 208/208
+Cidade Aracitaba:  212/212 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 212/212
+Cidade Araçuaí:  0/2671 => 0.0%
+Cidade Araguari:  10394/10394 => 100.0%
+Mamógrafo 83 instalado em Araguari => 6758/10394
+Mamógrafo 163 instalado em Araguari => 3636/10394
+Cidade Arantina:  278/278 => 100.0%
+Mamógrafo 344 instalado em Santa Rita de Jacutinga => 278/278
+Cidade Araponga:  606/606 => 100.0%
+Mamógrafo 296 instalado em Abre Campo => 606/606
+Cidade Araporã:  510/510 => 100.0%
+Mamógrafo 218 instalado em Centralina => 510/510
+Cidade Arapuá:  261/261 => 100.0%
+Mamógrafo 191 instalado em Carmo do Paranaíba => 261/261
+Cidade Araújos:  644/644 => 100.0%
+Mamógrafo 154 instalado em Bom Despacho => 644/644
+Cidade Araxá:  6758/8779 => 76.97915480123021%
+Mamógrafo 244 instalado em Araxá => 6758/8779
+Cidade Arceburgo:  780/780 => 100.0%
+Mamógrafo 144 instalado em Guaxupé => 780/780
+Cidade Arcos:  3538/3538 => 100.0%
+Mamógrafo 168 instalado em Arcos => 3538/3538
+Cidade Areado:  1196/1196 => 100.0%
+Mamógrafo 255 instalado em Muzambinho => 1196/1196
+Cidade Argirita:  255/255 => 100.0%
+Mamógrafo 146 instalado em Leopoldina => 255/255
+Cidade Aricanduva:  327/327 => 100.0%
+Mamógrafo 199 instalado em Capelinha => 327/327
+Cidade Arinos:  0/1289 => 0.0%
+Cidade Astolfo Dutra:  1192/1192 => 100.0%
+Mamógrafo 202 instalado em Guarani => 1192/1192
+Cidade Ataléia:  1160/1160 => 100.0%
+Mamógrafo 187 instalado em Ataléia => 1160/1160
+Cidade Augusto de Lima:  383/383 => 100.0%
+Mamógrafo 231 instalado em Corinto => 383/383
+Cidade Baependi:  1667/1667 => 100.0%
+Mamógrafo 284 instalado em Baependi => 1667/1667
+Cidade Baldim:  684/684 => 100.0%
+Mamógrafo 165 instalado em Capim Branco => 684/684
+Cidade Bambuí:  2264/2264 => 100.0%
+Mamógrafo 217 instalado em Bambuí => 2264/2264
+Cidade Bandeira:  413/413 => 100.0%
+Mamógrafo 182 instalado em Almenara => 413/413
+Cidade Bandeira do Sul:  445/445 => 100.0%
+Mamógrafo 239 instalado em Poços de Caldas => 445/445
+Cidade Barão de Cocais:  2494/2494 => 100.0%
+Mamógrafo 197 instalado em Barão de Cocais => 2494/2494
+Cidade Barão de Monte Alto:  502/502 => 100.0%
+Mamógrafo 320 instalado em Laranjal => 502/502
+Cidade Barbacena:  12704/12704 => 100.0%
+Mamógrafo 64 instalado em Barbacena => 6758/12704
+Mamógrafo 127 instalado em Barbacena => 5946/12704
+Cidade Barra Longa:  574/574 => 100.0%
+Mamógrafo 128 instalado em Ponte Nova => 172/574
+Mamógrafo 150 instalado em Mariana => 402/574
+Cidade Barroso:  1855/1855 => 100.0%
+Mamógrafo 260 instalado em Barroso => 1855/1855
+Cidade Bela Vista de Minas:  875/875 => 100.0%
+Mamógrafo 164 instalado em Itabira => 875/875
+Cidade Belmiro Braga:  0/276 => 0.0%
+Cidade Belo Horizonte:  234923/234923 => 100.0%
+Mamógrafo 1 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 4 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 6 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 9 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 10 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 15 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 20 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 25 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 26 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 27 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 29 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 32 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 33 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 37 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 42 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 44 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 45 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 49 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 55 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 59 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 61 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 62 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 65 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 66 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 71 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 75 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 76 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 77 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 79 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 81 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 84 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 85 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 92 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 93 instalado em Belo Horizonte => 6758/234923
+Mamógrafo 131 instalado em Belo Horizonte => 5151/234923
+Cidade Belo Oriente:  1860/1860 => 100.0%
+Mamógrafo 211 instalado em Ipatinga => 1860/1860
+Cidade Belo Vale:  692/692 => 100.0%
+Mamógrafo 153 instalado em Congonhas => 692/692
+Cidade Berilo:  872/872 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 872/872
+Cidade Bertópolis:  0/307 => 0.0%
+Cidade Berizal:  0/320 => 0.0%
+Cidade Betim:  32368/32368 => 100.0%
+Mamógrafo 16 instalado em Betim => 6758/32368
+Mamógrafo 23 instalado em Betim => 6758/32368
+Mamógrafo 43 instalado em Betim => 6758/32368
+Mamógrafo 70 instalado em Betim => 6758/32368
+Mamógrafo 130 instalado em Betim => 5336/32368
+Cidade Bias Fortes:  0/331 => 0.0%
+Cidade Bicas:  1312/1312 => 100.0%
+Mamógrafo 330 instalado em Bicas => 1312/1312
+Cidade Biquinhas:  253/253 => 100.0%
+Mamógrafo 234 instalado em Abaeté => 253/253
+Cidade Boa Esperança:  3373/3373 => 100.0%
+Mamógrafo 172 instalado em Boa Esperança => 3373/3373
+Cidade Bocaina de Minas:  456/456 => 100.0%
+Mamógrafo 344 instalado em Santa Rita de Jacutinga => 456/456
+Cidade Bocaiúva:  3644/3644 => 100.0%
+Mamógrafo 162 instalado em Bocaiúva => 3644/3644
+Cidade Bom Despacho:  4191/4191 => 100.0%
+Mamógrafo 154 instalado em Bom Despacho => 4191/4191
+Cidade Bom Jardim de Minas:  614/614 => 100.0%
+Mamógrafo 344 instalado em Santa Rita de Jacutinga => 614/614
+Cidade Bom Jesus da Penha:  349/349 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 349/349
+Cidade Bom Jesus do Amparo:  465/465 => 100.0%
+Mamógrafo 155 instalado em Santa Luzia => 465/465
+Cidade Bom Jesus do Galho:  1304/1304 => 100.0%
+Mamógrafo 331 instalado em Bom Jesus do Galho => 1304/1304
+Cidade Bom Repouso:  910/910 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 910/910
+Cidade Bom Sucesso:  1571/1571 => 100.0%
+Mamógrafo 303 instalado em Bom Sucesso => 1571/1571
+Cidade Bonfim:  667/667 => 100.0%
+Mamógrafo 179 instalado em Brumadinho => 667/667
+Cidade Bonfinópolis de Minas:  0/484 => 0.0%
+Cidade Bonito de Minas:  580/580 => 100.0%
+Mamógrafo 143 instalado em Januária => 580/580
+Cidade Borda da Mata:  1596/1596 => 100.0%
+Mamógrafo 290 instalado em Borda da Mata => 1596/1596
+Cidade Botelhos:  1333/1333 => 100.0%
+Mamógrafo 325 instalado em Botelhos => 1333/1333
+Cidade Botumirim:  0/439 => 0.0%
+Cidade Brasilândia de Minas:  0/982 => 0.0%
+Cidade Brasília de Minas:  2312/2312 => 100.0%
+Mamógrafo 213 instalado em Brasília de Minas => 2312/2312
+Cidade Brás Pires:  404/404 => 100.0%
+Mamógrafo 333 instalado em Piranga => 404/404
+Cidade Braúnas:  0/414 => 0.0%
+Cidade Brazópolis:  1251/1251 => 100.0%
+Mamógrafo 175 instalado em Santa Rita do Sapucaí => 708/1251
+Mamógrafo 279 instalado em Paraisópolis => 543/1251
+Cidade Brumadinho:  3069/3069 => 100.0%
+Mamógrafo 179 instalado em Brumadinho => 3069/3069
+Cidade Bueno Brandão:  982/982 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 982/982
+Cidade Buenópolis:  0/807 => 0.0%
+Cidade Bugre:  319/319 => 100.0%
+Mamógrafo 211 instalado em Ipatinga => 319/319
+Cidade Buritis:  1677/1677 => 100.0%
+Mamógrafo 281 instalado em Buritis => 1677/1677
+Cidade Buritizeiro:  1934/1934 => 100.0%
+Mamógrafo 265 instalado em Buritizeiro => 1934/1934
+Cidade Cabeceira Grande:  246/506 => 48.616600790513836%
+Mamógrafo 119 instalado em Unaí => 246/506
+Cidade Cabo Verde:  1106/1106 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 194/1106
+Mamógrafo 144 instalado em Guaxupé => 912/1106
+Cidade Cachoeira da Prata:  355/355 => 100.0%
+Mamógrafo 136 instalado em Esmeraldas => 355/355
+Cidade Cachoeira de Minas:  966/966 => 100.0%
+Mamógrafo 175 instalado em Santa Rita do Sapucaí => 966/966
+Cidade Cachoeira Dourada:  217/217 => 100.0%
+Mamógrafo 212 instalado em Ituiutaba => 217/217
+Cidade Caetanópolis:  945/945 => 100.0%
+Mamógrafo 258 instalado em Caetanópolis => 945/945
+Cidade Caeté:  3776/3776 => 100.0%
+Mamógrafo 158 instalado em Caeté => 3776/3776
+Cidade Caiana:  404/404 => 100.0%
+Mamógrafo 185 instalado em Carangola => 404/404
+Cidade Cajuri:  331/331 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 331/331
+Cidade Caldas:  1274/1274 => 100.0%
+Mamógrafo 169 instalado em Andradas => 1274/1274
+Cidade Camacho:  269/269 => 100.0%
+Mamógrafo 161 instalado em Oliveira => 269/269
+Cidade Camanducaia:  1760/1760 => 100.0%
+Mamógrafo 272 instalado em Camanducaia => 1760/1760
+Cidade Cambuí:  2437/2437 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 2437/2437
+Cidade Cambuquira:  1144/1144 => 100.0%
+Mamógrafo 122 instalado em Três Corações => 346/1144
+Mamógrafo 236 instalado em Caxambu => 798/1144
+Cidade Campanário:  274/274 => 100.0%
+Mamógrafo 142 instalado em Teófilo Otoni => 274/274
+Cidade Campanha:  1353/1353 => 100.0%
+Mamógrafo 321 instalado em Campanha => 1353/1353
+Cidade Campestre:  1792/1792 => 100.0%
+Mamógrafo 269 instalado em Campestre => 1792/1792
+Cidade Campina Verde:  1820/1820 => 100.0%
+Mamógrafo 264 instalado em Campina Verde => 1820/1820
+Cidade Campo Azul:  0/261 => 0.0%
+Cidade Campo Belo:  4886/4886 => 100.0%
+Mamógrafo 137 instalado em Campo Belo => 4886/4886
+Cidade Campo do Meio:  1021/1021 => 100.0%
+Mamógrafo 172 instalado em Boa Esperança => 1021/1021
+Cidade Campo Florido:  0/505 => 0.0%
+Cidade Campos Altos:  0/1120 => 0.0%
+Cidade Campos Gerais:  2301/2301 => 100.0%
+Mamógrafo 216 instalado em Campos Gerais => 2301/2301
+Cidade Canaã:  394/394 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 394/394
+Cidade Canápolis:  947/947 => 100.0%
+Mamógrafo 306 instalado em Canápolis => 947/947
+Cidade Cana Verde:  483/483 => 100.0%
+Mamógrafo 137 instalado em Campo Belo => 483/483
+Cidade Candeias:  1333/1333 => 100.0%
+Mamógrafo 137 instalado em Campo Belo => 1333/1333
+Cidade Cantagalo:  305/305 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 305/305
+Cidade Caparaó:  385/385 => 100.0%
+Mamógrafo 185 instalado em Carangola => 385/385
+Cidade Capela Nova:  452/452 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 452/452
+Cidade Capelinha:  2461/2461 => 100.0%
+Mamógrafo 199 instalado em Capelinha => 2461/2461
+Cidade Capetinga:  559/559 => 100.0%
+Mamógrafo 300 instalado em Cássia => 559/559
+Cidade Capim Branco:  779/779 => 100.0%
+Mamógrafo 165 instalado em Capim Branco => 779/779
+Cidade Capinópolis:  1352/1352 => 100.0%
+Mamógrafo 319 instalado em Capinópolis => 1352/1352
+Cidade Capitão Andrade:  411/411 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 411/411
+Cidade Capitão Enéas:  975/975 => 100.0%
+Mamógrafo 261 instalado em Francisco Sá => 975/975
+Cidade Capitólio:  776/776 => 100.0%
+Mamógrafo 184 instalado em Piumhi => 776/776
+Cidade Caputira:  719/719 => 100.0%
+Mamógrafo 194 instalado em Caputira => 719/719
+Cidade Caraí:  1516/1516 => 100.0%
+Mamógrafo 307 instalado em Caraí => 1516/1516
+Cidade Caranaíba:  291/291 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 291/291
+Cidade Carandaí:  2179/2179 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 2179/2179
+Cidade Carangola:  3054/3054 => 100.0%
+Mamógrafo 185 instalado em Carangola => 3054/3054
+Cidade Caratinga:  7447/7447 => 100.0%
+Mamógrafo 109 instalado em Caratinga => 6758/7447
+Mamógrafo 233 instalado em Inhapim => 689/7447
+Cidade Carbonita:  0/684 => 0.0%
+Cidade Careaçu:  530/530 => 100.0%
+Mamógrafo 267 instalado em Lambari => 530/530
+Cidade Carlos Chagas:  1666/1666 => 100.0%
+Mamógrafo 287 instalado em Carlos Chagas => 1666/1666
+Cidade Carmésia:  0/192 => 0.0%
+Cidade Carmo da Cachoeira:  977/977 => 100.0%
+Mamógrafo 148 instalado em Três Pontas => 303/977
+Mamógrafo 224 instalado em Nepomuceno => 674/977
+Cidade Carmo da Mata:  988/988 => 100.0%
+Mamógrafo 161 instalado em Oliveira => 988/988
+Cidade Carmo de Minas:  1125/1125 => 100.0%
+Mamógrafo 157 instalado em São Lourenço => 1125/1125
+Cidade Carmo do Cajuru:  1754/1754 => 100.0%
+Mamógrafo 273 instalado em Carmo do Cajuru => 1754/1754
+Cidade Carmo do Paranaíba:  2733/2733 => 100.0%
+Mamógrafo 191 instalado em Carmo do Paranaíba => 2733/2733
+Cidade Carmo do Rio Claro:  1813/1813 => 100.0%
+Mamógrafo 266 instalado em Carmo do Rio Claro => 1813/1813
+Cidade Carmópolis de Minas:  1424/1424 => 100.0%
+Mamógrafo 311 instalado em Carmópolis de Minas => 1424/1424
+Cidade Carneirinho:  0/825 => 0.0%
+Cidade Carrancas:  0/356 => 0.0%
+Cidade Carvalhópolis:  303/303 => 100.0%
+Mamógrafo 176 instalado em Machado => 303/303
+Cidade Carvalhos:  441/441 => 100.0%
+Mamógrafo 284 instalado em Baependi => 441/441
+Cidade Casa Grande:  191/191 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 191/191
+Cidade Cascalho Rico:  244/244 => 100.0%
+Mamógrafo 163 instalado em Araguari => 244/244
+Cidade Cássia:  1534/1534 => 100.0%
+Mamógrafo 300 instalado em Cássia => 1534/1534
+Cidade Conceição da Barra de Minas:  328/328 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 328/328
+Cidade Cataguases:  6690/6690 => 100.0%
+Mamógrafo 117 instalado em Cataguases => 6690/6690
+Cidade Catas Altas:  417/417 => 100.0%
+Mamógrafo 150 instalado em Mariana => 417/417
+Cidade Catas Altas da Noruega:  254/254 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 106/254
+Mamógrafo 180 instalado em Ouro Branco => 148/254
+Cidade Catuji:  453/453 => 100.0%
+Mamógrafo 307 instalado em Caraí => 453/453
+Cidade Catuti:  402/402 => 100.0%
+Mamógrafo 183 instalado em Porteirinha => 402/402
+Cidade Caxambu:  2061/2061 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 2061/2061
+Cidade Cedro do Abaeté:  101/101 => 100.0%
+Mamógrafo 234 instalado em Abaeté => 101/101
+Cidade Central de Minas:  620/620 => 100.0%
+Mamógrafo 204 instalado em Mantena => 620/620
+Cidade Centralina:  878/878 => 100.0%
+Mamógrafo 218 instalado em Centralina => 878/878
+Cidade Chácara:  266/266 => 100.0%
+Mamógrafo 140 instalado em Juiz de Fora => 266/266
+Cidade Chalé:  461/461 => 100.0%
+Mamógrafo 286 instalado em Ipanema => 461/461
+Cidade Chapada do Norte:  1035/1035 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 1035/1035
+Cidade Chapada Gaúcha:  0/608 => 0.0%
+Cidade Chiador:  247/247 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 247/247
+Cidade Cipotânea:  517/517 => 100.0%
+Mamógrafo 337 instalado em Alto Rio Doce => 517/517
+Cidade Claraval:  354/354 => 100.0%
+Mamógrafo 300 instalado em Cássia => 354/354
+Cidade Claro dos Poções:  0/607 => 0.0%
+Cidade Cláudio:  2133/2133 => 100.0%
+Mamógrafo 230 instalado em Cláudio => 2133/2133
+Cidade Coimbra:  614/614 => 100.0%
+Mamógrafo 174 instalado em Visconde do Rio Branco => 201/614
+Mamógrafo 275 instalado em São Geraldo => 413/614
+Cidade Coluna:  640/640 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 640/640
+Cidade Comendador Gomes:  0/239 => 0.0%
+Cidade Comercinho:  607/607 => 100.0%
+Mamógrafo 298 instalado em Medina => 607/607
+Cidade Conceição da Aparecida:  834/834 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 834/834
+Cidade Conceição das Pedras:  232/232 => 100.0%
+Mamógrafo 166 instalado em Cristina => 232/232
+Cidade Conceição das Alagoas:  0/1752 => 0.0%
+Cidade Conceição de Ipanema:  380/380 => 100.0%
+Mamógrafo 286 instalado em Ipanema => 380/380
+Cidade Conceição do Mato Dentro:  0/1325 => 0.0%
+Cidade Conceição do Pará:  432/432 => 100.0%
+Mamógrafo 138 instalado em Nova Serrana => 432/432
+Cidade Conceição do Rio Verde:  1041/1041 => 100.0%
+Mamógrafo 315 instalado em Conceição do Rio Verde => 1041/1041
+Cidade Conceição dos Ouros:  870/870 => 100.0%
+Mamógrafo 175 instalado em Santa Rita do Sapucaí => 870/870
+Cidade Cônego Marinho:  471/471 => 100.0%
+Mamógrafo 143 instalado em Januária => 471/471
+Cidade Confins:  529/529 => 100.0%
+Mamógrafo 132 instalado em Pedro Leopoldo => 529/529
+Cidade Congonhal:  972/972 => 100.0%
+Mamógrafo 129 instalado em Pouso Alegre => 972/972
+Cidade Congonhas:  4426/4426 => 100.0%
+Mamógrafo 153 instalado em Congonhas => 4426/4426
+Cidade Congonhas do Norte:  0/359 => 0.0%
+Cidade Conquista:  564/564 => 100.0%
+Mamógrafo 242 instalado em Sacramento => 564/564
+Cidade Conselheiro Lafaiete:  11264/11264 => 100.0%
+Mamógrafo 74 instalado em Conselheiro Lafaiete => 6758/11264
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 4506/11264
+Cidade Conselheiro Pena:  1965/1965 => 100.0%
+Mamógrafo 247 instalado em Conselheiro Pena => 1965/1965
+Cidade Consolação:  139/139 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 139/139
+Cidade Contagem:  56324/56324 => 100.0%
+Mamógrafo 2 instalado em Contagem => 6758/56324
+Mamógrafo 12 instalado em Contagem => 6758/56324
+Mamógrafo 13 instalado em Contagem => 6758/56324
+Mamógrafo 14 instalado em Contagem => 6758/56324
+Mamógrafo 24 instalado em Contagem => 6758/56324
+Mamógrafo 36 instalado em Contagem => 6758/56324
+Mamógrafo 53 instalado em Contagem => 6758/56324
+Mamógrafo 110 instalado em Contagem => 6758/56324
+Mamógrafo 215 instalado em Contagem => 2260/56324
+Cidade Coqueiral:  806/806 => 100.0%
+Mamógrafo 148 instalado em Três Pontas => 806/806
+Cidade Coração de Jesus:  1936/1936 => 100.0%
+Mamógrafo 250 instalado em Coração de Jesus => 1936/1936
+Cidade Cordisburgo:  746/746 => 100.0%
+Mamógrafo 248 instalado em Paraopeba => 746/746
+Cidade Cordislândia:  278/278 => 100.0%
+Mamógrafo 176 instalado em Machado => 278/278
+Cidade Corinto:  2124/2124 => 100.0%
+Mamógrafo 231 instalado em Corinto => 2124/2124
+Cidade Coroaci:  752/752 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 752/752
+Cidade Coromandel:  227/2536 => 8.951104100946372%
+Mamógrafo 160 instalado em Monte Carmelo => 227/2536
+Cidade Coronel Fabriciano:  9668/9668 => 100.0%
+Mamógrafo 89 instalado em Coronel Fabriciano => 6758/9668
+Mamógrafo 186 instalado em Coronel Fabriciano => 2910/9668
+Cidade Coronel Murta:  0/651 => 0.0%
+Cidade Coronel Pacheco:  280/280 => 100.0%
+Mamógrafo 140 instalado em Juiz de Fora => 198/280
+Mamógrafo 151 instalado em Santos Dumont => 26/280
+Mamógrafo 202 instalado em Guarani => 56/280
+Cidade Coronel Xavier Chaves:  296/296 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 296/296
+Cidade Córrego Danta:  300/300 => 100.0%
+Mamógrafo 217 instalado em Bambuí => 300/300
+Cidade Córrego do Bom Jesus:  342/342 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 342/342
+Cidade Córrego Fundo:  498/498 => 100.0%
+Mamógrafo 134 instalado em Formiga => 373/498
+Mamógrafo 168 instalado em Arcos => 125/498
+Cidade Córrego Novo:  274/274 => 100.0%
+Mamógrafo 232 instalado em Raul Soares => 274/274
+Cidade Couto de Magalhães de Minas:  0/330 => 0.0%
+Cidade Crisólita:  0/399 => 0.0%
+Cidade Cristais:  930/930 => 100.0%
+Mamógrafo 283 instalado em Cristais => 930/930
+Cidade Cristália:  0/318 => 0.0%
+Cidade Cristiano Otoni:  425/425 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 425/425
+Cidade Cristina:  870/870 => 100.0%
+Mamógrafo 166 instalado em Cristina => 870/870
+Cidade Crucilândia:  411/411 => 100.0%
+Mamógrafo 179 instalado em Brumadinho => 411/411
+Cidade Cruzeiro da Fortaleza:  0/316 => 0.0%
+Cidade Cruzília:  1286/1286 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 1286/1286
+Cidade Cuparaque:  386/386 => 100.0%
+Mamógrafo 204 instalado em Mantena => 386/386
+Cidade Curral de Dentro:  476/476 => 100.0%
+Mamógrafo 205 instalado em Taiobeiras => 476/476
+Cidade Curvelo:  6541/6541 => 100.0%
+Mamógrafo 118 instalado em Curvelo => 6541/6541
+Cidade Datas:  0/421 => 0.0%
+Cidade Delfim Moreira:  710/710 => 100.0%
+Mamógrafo 166 instalado em Cristina => 710/710
+Cidade Delfinópolis:  577/577 => 100.0%
+Mamógrafo 300 instalado em Cássia => 577/577
+Cidade Delta:  503/503 => 100.0%
+Mamógrafo 242 instalado em Sacramento => 503/503
+Cidade Descoberto:  411/411 => 100.0%
+Mamógrafo 202 instalado em Guarani => 411/411
+Cidade Desterro de Entre Rios:  635/635 => 100.0%
+Mamógrafo 311 instalado em Carmópolis de Minas => 635/635
+Cidade Desterro do Melo:  278/278 => 100.0%
+Mamógrafo 301 instalado em Rio Pomba => 278/278
+Cidade Diamantina:  0/3757 => 0.0%
+Cidade Diogo de Vasconcelos:  308/308 => 100.0%
+Mamógrafo 124 instalado em Ouro Preto => 308/308
+Cidade Dionísio:  768/768 => 100.0%
+Mamógrafo 293 instalado em Nova Era => 768/768
+Cidade Divinésia:  296/296 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 296/296
+Cidade Divino:  1584/1584 => 100.0%
+Mamógrafo 291 instalado em Divino => 1584/1584
+Cidade Divino das Laranjeiras:  0/426 => 0.0%
+Cidade Divinolândia de Minas:  0/551 => 0.0%
+Cidade Divinópolis:  20823/20823 => 100.0%
+Mamógrafo 40 instalado em Divinópolis => 6758/20823
+Mamógrafo 60 instalado em Divinópolis => 6758/20823
+Mamógrafo 111 instalado em Divinópolis => 6758/20823
+Mamógrafo 230 instalado em Cláudio => 549/20823
+Cidade Divisa Alegre:  411/411 => 100.0%
+Mamógrafo 263 instalado em Pedra Azul => 411/411
+Cidade Divisa Nova:  442/442 => 100.0%
+Mamógrafo 269 instalado em Campestre => 442/442
+Cidade Divisópolis:  0/641 => 0.0%
+Cidade Dom Bosco:  0/315 => 0.0%
+Cidade Dom Cavati:  465/465 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 465/465
+Cidade Dom Joaquim:  0/365 => 0.0%
+Cidade Dom Silvério:  518/518 => 100.0%
+Mamógrafo 328 instalado em Rio Piracicaba => 518/518
+Cidade Dom Viçoso:  269/269 => 100.0%
+Mamógrafo 157 instalado em São Lourenço => 240/269
+Mamógrafo 166 instalado em Cristina => 29/269
+Cidade Dona Euzébia:  525/525 => 100.0%
+Mamógrafo 117 instalado em Cataguases => 68/525
+Mamógrafo 146 instalado em Leopoldina => 399/525
+Mamógrafo 202 instalado em Guarani => 58/525
+Cidade Dores de Campos:  908/908 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 908/908
+Cidade Dores de Guanhães:  0/411 => 0.0%
+Cidade Dores do Indaiá:  1314/1314 => 100.0%
+Mamógrafo 329 instalado em Dores do Indaiá => 1314/1314
+Cidade Dores do Turvo:  370/370 => 100.0%
+Mamógrafo 301 instalado em Rio Pomba => 370/370
+Cidade Doresópolis:  128/128 => 100.0%
+Mamógrafo 168 instalado em Arcos => 128/128
+Cidade Douradoquara:  172/172 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 172/172
+Cidade Durandé:  555/555 => 100.0%
+Mamógrafo 274 instalado em Manhumirim => 555/555
+Cidade Elói Mendes:  2232/2232 => 100.0%
+Mamógrafo 135 instalado em Varginha => 1820/2232
+Mamógrafo 176 instalado em Machado => 412/2232
+Cidade Engenheiro Caldas:  847/847 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 133/847
+Mamógrafo 336 instalado em Tarumirim => 714/847
+Cidade Engenheiro Navarro:  565/565 => 100.0%
+Mamógrafo 162 instalado em Bocaiúva => 565/565
+Cidade Entre Folhas:  419/419 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 419/419
+Cidade Entre Rios de Minas:  1269/1269 => 100.0%
+Mamógrafo 153 instalado em Congonhas => 1148/1269
+Mamógrafo 180 instalado em Ouro Branco => 121/1269
+Cidade Ervália:  1443/1443 => 100.0%
+Mamógrafo 310 instalado em Ervália => 1443/1443
+Cidade Esmeraldas:  4909/4909 => 100.0%
+Mamógrafo 136 instalado em Esmeraldas => 4909/4909
+Cidade Espera Feliz:  1937/1937 => 100.0%
+Mamógrafo 249 instalado em Espera Feliz => 1937/1937
+Cidade Espinosa:  2351/2351 => 100.0%
+Mamógrafo 214 instalado em Espinosa => 2351/2351
+Cidade Espírito Santo do Dourado:  397/397 => 100.0%
+Mamógrafo 129 instalado em Pouso Alegre => 356/397
+Mamógrafo 176 instalado em Machado => 41/397
+Cidade Estiva:  966/966 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 966/966
+Cidade Estrela Dalva:  218/218 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 218/218
+Cidade Estrela do Indaiá:  329/329 => 100.0%
+Mamógrafo 288 instalado em Luz => 329/329
+Cidade Estrela do Sul:  620/620 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 620/620
+Cidade Eugenópolis:  937/937 => 100.0%
+Mamógrafo 193 instalado em Muriaé => 937/937
+Cidade Ewbank da Câmara:  324/324 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 324/324
+Cidade Extrema:  2383/2383 => 100.0%
+Mamógrafo 210 instalado em Extrema => 2383/2383
+Cidade Fama:  227/227 => 100.0%
+Mamógrafo 148 instalado em Três Pontas => 227/227
+Cidade Faria Lemos:  290/290 => 100.0%
+Mamógrafo 185 instalado em Carangola => 290/290
+Cidade Felício dos Santos:  0/384 => 0.0%
+Cidade São Gonçalo do Rio Preto:  0/241 => 0.0%
+Cidade Felisburgo:  0/502 => 0.0%
+Cidade Felixlândia:  0/1202 => 0.0%
+Cidade Fernandes Tourinho:  256/256 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 256/256
+Cidade Ferros:  0/923 => 0.0%
+Cidade Fervedouro:  773/773 => 100.0%
+Mamógrafo 185 instalado em Carangola => 773/773
+Cidade Florestal:  590/590 => 100.0%
+Mamógrafo 136 instalado em Esmeraldas => 450/590
+Mamógrafo 188 instalado em Igarapé => 140/590
+Cidade Formiga:  6385/6385 => 100.0%
+Mamógrafo 134 instalado em Formiga => 6385/6385
+Cidade Formoso:  549/549 => 100.0%
+Mamógrafo 340 instalado em Formoso => 549/549
+Cidade Fortaleza de Minas:  341/341 => 100.0%
+Mamógrafo 181 instalado em Passos => 341/341
+Cidade Fortuna de Minas:  212/212 => 100.0%
+Mamógrafo 136 instalado em Esmeraldas => 212/212
+Cidade Francisco Badaró:  722/722 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 722/722
+Cidade Francisco Dumont:  0/331 => 0.0%
+Cidade Francisco Sá:  1827/1827 => 100.0%
+Mamógrafo 261 instalado em Francisco Sá => 1827/1827
+Cidade Franciscópolis:  409/409 => 100.0%
+Mamógrafo 278 instalado em Itambacuri => 409/409
+Cidade Frei Gaspar:  426/426 => 100.0%
+Mamógrafo 99 instalado em Ouro Verde de Minas => 426/426
+Cidade Frei Inocêncio:  0/729 => 0.0%
+Cidade Frei Lagonegro:  232/232 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 232/232
+Cidade Fronteira:  794/1127 => 70.45252883762201%
+Mamógrafo 141 instalado em Frutal => 794/1127
+Cidade Fronteira dos Vales:  0/331 => 0.0%
+Cidade Fruta de Leite:  401/401 => 100.0%
+Mamógrafo 178 instalado em Salinas => 401/401
+Cidade Frutal:  4801/4801 => 100.0%
+Mamógrafo 141 instalado em Frutal => 4801/4801
+Cidade Funilândia:  315/315 => 100.0%
+Mamógrafo 132 instalado em Pedro Leopoldo => 165/315
+Mamógrafo 165 instalado em Capim Branco => 150/315
+Cidade Galiléia:  617/617 => 100.0%
+Mamógrafo 247 instalado em Conselheiro Pena => 617/617
+Cidade Gameleiras:  400/400 => 100.0%
+Mamógrafo 252 instalado em Monte Azul => 400/400
+Cidade Glaucilândia:  232/232 => 100.0%
+Mamógrafo 171 instalado em Montes Claros => 232/232
+Cidade Goiabeira:  260/260 => 100.0%
+Mamógrafo 204 instalado em Mantena => 260/260
+Cidade Goianá:  368/368 => 100.0%
+Mamógrafo 202 instalado em Guarani => 368/368
+Cidade Gonçalves:  377/377 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 377/377
+Cidade Gonzaga:  450/450 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 450/450
+Cidade Gouveia:  0/1012 => 0.0%
+Cidade Governador Valadares:  20274/24041 => 84.33093465330062%
+Mamógrafo 35 instalado em Governador Valadares => 6758/24041
+Mamógrafo 48 instalado em Governador Valadares => 6758/24041
+Mamógrafo 82 instalado em Governador Valadares => 6758/24041
+Cidade Grão Mogol:  0/1008 => 0.0%
+Cidade Grupiara:  121/121 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 121/121
+Cidade Guanhães:  0/2591 => 0.0%
+Cidade Guapé:  1151/1151 => 100.0%
+Mamógrafo 184 instalado em Piumhi => 1151/1151
+Cidade Guaraciaba:  854/854 => 100.0%
+Mamógrafo 333 instalado em Piranga => 854/854
+Cidade Guaraciama:  382/382 => 100.0%
+Mamógrafo 162 instalado em Bocaiúva => 382/382
+Cidade Guaranésia:  1614/1614 => 100.0%
+Mamógrafo 294 instalado em Guaranésia => 1614/1614
+Cidade Guarani:  770/770 => 100.0%
+Mamógrafo 202 instalado em Guarani => 770/770
+Cidade Guarará:  359/359 => 100.0%
+Mamógrafo 203 instalado em São João Nepomuceno => 359/359
+Cidade Guarda-Mor:  527/527 => 100.0%
+Mamógrafo 268 instalado em Vazante => 527/527
+Cidade Guaxupé:  4611/4611 => 100.0%
+Mamógrafo 144 instalado em Guaxupé => 4611/4611
+Cidade Guidoval:  645/645 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 645/645
+Cidade Guimarânia:  138/611 => 22.585924713584287%
+Mamógrafo 195 instalado em Patos de Minas => 138/611
+Cidade Guiricema:  782/782 => 100.0%
+Mamógrafo 174 instalado em Visconde do Rio Branco => 782/782
+Cidade Gurinhatã:  577/577 => 100.0%
+Mamógrafo 212 instalado em Ituiutaba => 577/577
+Cidade Heliodora:  547/547 => 100.0%
+Mamógrafo 267 instalado em Lambari => 547/547
+Cidade Iapu:  875/875 => 100.0%
+Mamógrafo 211 instalado em Ipatinga => 875/875
+Cidade Ibertioga:  436/436 => 100.0%
+Mamógrafo 260 instalado em Barroso => 436/436
+Cidade Ibiá:  0/2061 => 0.0%
+Cidade Ibiaí:  0/543 => 0.0%
+Cidade Ibiracatu:  416/416 => 100.0%
+Mamógrafo 143 instalado em Januária => 249/416
+Mamógrafo 276 instalado em São João da Ponte => 167/416
+Cidade Ibiraci:  944/944 => 100.0%
+Mamógrafo 300 instalado em Cássia => 944/944
+Cidade Ibirité:  13227/13227 => 100.0%
+Mamógrafo 63 instalado em Ibirité => 6758/13227
+Mamógrafo 123 instalado em Ibirité => 6469/13227
+Cidade Ibitiúra de Minas:  299/299 => 100.0%
+Mamógrafo 169 instalado em Andradas => 299/299
+Cidade Ibituruna:  227/227 => 100.0%
+Mamógrafo 243 instalado em Lavras => 227/227
+Cidade Icaraí de Minas:  0/639 => 0.0%
+Cidade Igarapé:  2864/2864 => 100.0%
+Mamógrafo 188 instalado em Igarapé => 2864/2864
+Cidade Igaratinga:  751/751 => 100.0%
+Mamógrafo 207 instalado em Mateus Leme => 751/751
+Cidade Iguatama:  791/791 => 100.0%
+Mamógrafo 156 instalado em Lagoa da Prata => 259/791
+Mamógrafo 168 instalado em Arcos => 532/791
+Cidade Ijaci:  505/505 => 100.0%
+Mamógrafo 224 instalado em Nepomuceno => 505/505
+Cidade Ilicínea:  956/956 => 100.0%
+Mamógrafo 221 instalado em Ilicínea => 956/956
+Cidade Imbé de Minas:  495/495 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 495/495
+Cidade Inconfidentes:  645/645 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 645/645
+Cidade Indaiabira:  546/546 => 100.0%
+Mamógrafo 205 instalado em Taiobeiras => 546/546
+Cidade Indianópolis:  474/474 => 100.0%
+Mamógrafo 163 instalado em Araguari => 474/474
+Cidade Ingaí:  217/217 => 100.0%
+Mamógrafo 243 instalado em Lavras => 217/217
+Cidade Inhapim:  2086/2086 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 2086/2086
+Cidade Inhaúma:  494/494 => 100.0%
+Mamógrafo 136 instalado em Esmeraldas => 494/494
+Cidade Inimutaba:  572/572 => 100.0%
+Mamógrafo 118 instalado em Curvelo => 217/572
+Mamógrafo 231 instalado em Corinto => 355/572
+Cidade Ipaba:  1264/1264 => 100.0%
+Mamógrafo 186 instalado em Coronel Fabriciano => 1264/1264
+Cidade Ipanema:  1615/1615 => 100.0%
+Mamógrafo 286 instalado em Ipanema => 1615/1615
+Cidade Ipatinga:  22625/22625 => 100.0%
+Mamógrafo 52 instalado em Ipatinga => 6758/22625
+Mamógrafo 94 instalado em Ipatinga => 6758/22625
+Mamógrafo 209 instalado em Ipatinga => 6758/22625
+Mamógrafo 211 instalado em Ipatinga => 2351/22625
+Cidade Ipiaçu:  358/358 => 100.0%
+Mamógrafo 319 instalado em Capinópolis => 358/358
+Cidade Ipuiúna:  861/861 => 100.0%
+Mamógrafo 169 instalado em Andradas => 620/861
+Mamógrafo 190 instalado em Ouro Fino => 241/861
+Cidade Iraí de Minas:  529/529 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 529/529
+Cidade Itabira:  10352/10352 => 100.0%
+Mamógrafo 88 instalado em Itabira => 6758/10352
+Mamógrafo 164 instalado em Itabira => 3594/10352
+Cidade Itabirinha:  884/884 => 100.0%
+Mamógrafo 204 instalado em Mantena => 884/884
+Cidade Itabirito:  4105/4105 => 100.0%
+Mamógrafo 159 instalado em Itabirito => 4105/4105
+Cidade Itacambira:  0/349 => 0.0%
+Cidade Itacarambi:  1185/1185 => 100.0%
+Mamógrafo 238 instalado em Itacarambi => 1185/1185
+Cidade Itaguara:  1094/1094 => 100.0%
+Mamógrafo 322 instalado em Itaguara => 1094/1094
+Cidade Itaipé:  726/726 => 100.0%
+Mamógrafo 235 instalado em Novo Cruzeiro => 726/726
+Cidade Itajubá:  8434/8434 => 100.0%
+Mamógrafo 102 instalado em Itajubá => 6758/8434
+Mamógrafo 282 instalado em Itajubá => 1676/8434
+Cidade Itamarandiba:  2231/2231 => 100.0%
+Mamógrafo 199 instalado em Capelinha => 2231/2231
+Cidade Itamarati de Minas:  382/382 => 100.0%
+Mamógrafo 146 instalado em Leopoldina => 382/382
+Cidade Itambacuri:  1717/1717 => 100.0%
+Mamógrafo 278 instalado em Itambacuri => 1717/1717
+Cidade Itambé do Mato Dentro:  207/207 => 100.0%
+Mamógrafo 164 instalado em Itabira => 207/207
+Cidade Itamogi:  928/928 => 100.0%
+Mamógrafo 126 instalado em São Sebastião do Paraíso => 350/928
+Mamógrafo 144 instalado em Guaxupé => 455/928
+Mamógrafo 253 instalado em Monte Santo de Minas => 123/928
+Cidade Itamonte:  1255/1255 => 100.0%
+Mamógrafo 312 instalado em Passa Quatro => 1255/1255
+Cidade Itanhandu:  1349/1349 => 100.0%
+Mamógrafo 323 instalado em Itanhandu => 1349/1349
+Cidade Itanhomi:  1019/1019 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 1019/1019
+Cidade Itaobim:  1605/1605 => 100.0%
+Mamógrafo 289 instalado em Itaobim => 1605/1605
+Cidade Itapagipe:  1245/1245 => 100.0%
+Mamógrafo 264 instalado em Campina Verde => 1245/1245
+Cidade Itapecerica:  2000/2000 => 100.0%
+Mamógrafo 245 instalado em Itapecerica => 2000/2000
+Cidade Itapeva:  735/735 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 735/735
+Cidade Itatiaiuçu:  810/810 => 100.0%
+Mamógrafo 179 instalado em Brumadinho => 810/810
+Cidade Itaú de Minas:  1456/1456 => 100.0%
+Mamógrafo 309 instalado em Itaú de Minas => 1456/1456
+Cidade Itaúna:  8111/8111 => 100.0%
+Mamógrafo 108 instalado em Itaúna => 6758/8111
+Mamógrafo 317 instalado em Itaúna => 1353/8111
+Cidade Itaverava:  465/465 => 100.0%
+Mamógrafo 124 instalado em Ouro Preto => 62/465
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 403/465
+Cidade Itinga:  974/974 => 100.0%
+Mamógrafo 289 instalado em Itaobim => 974/974
+Cidade Itueta:  525/525 => 100.0%
+Mamógrafo 219 instalado em Aimorés => 525/525
+Cidade Ituiutaba:  9106/9106 => 100.0%
+Mamógrafo 97 instalado em Ituiutaba => 6758/9106
+Mamógrafo 212 instalado em Ituiutaba => 2348/9106
+Cidade Itumirim:  528/528 => 100.0%
+Mamógrafo 224 instalado em Nepomuceno => 528/528
+Cidade Iturama:  0/2990 => 0.0%
+Cidade Itutinga:  363/363 => 100.0%
+Mamógrafo 243 instalado em Lavras => 363/363
+Cidade Jaboticatubas:  1413/1413 => 100.0%
+Mamógrafo 313 instalado em Jaboticatubas => 1413/1413
+Cidade Jacinto:  937/937 => 100.0%
+Mamógrafo 182 instalado em Almenara => 937/937
+Cidade Jacuí:  643/643 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 643/643
+Cidade Jacutinga:  2008/2008 => 100.0%
+Mamógrafo 246 instalado em Jacutinga => 2008/2008
+Cidade Jaguaraçu:  273/273 => 100.0%
+Mamógrafo 186 instalado em Coronel Fabriciano => 273/273
+Cidade Jaíba:  2077/2077 => 100.0%
+Mamógrafo 240 instalado em Jaíba => 2077/2077
+Cidade Jampruca:  0/373 => 0.0%
+Cidade Janaúba:  5131/5131 => 100.0%
+Mamógrafo 133 instalado em Janaúba => 5131/5131
+Cidade Januária:  4733/4733 => 100.0%
+Mamógrafo 143 instalado em Januária => 4733/4733
+Cidade Japaraíba:  333/333 => 100.0%
+Mamógrafo 156 instalado em Lagoa da Prata => 333/333
+Cidade Japonvar:  572/572 => 100.0%
+Mamógrafo 213 instalado em Brasília de Minas => 572/572
+Cidade Jeceaba:  492/492 => 100.0%
+Mamógrafo 153 instalado em Congonhas => 492/492
+Cidade Jenipapo de Minas:  0/446 => 0.0%
+Cidade Jequeri:  1076/1076 => 100.0%
+Mamógrafo 346 instalado em Urucânia => 1076/1076
+Cidade Jequitaí:  0/646 => 0.0%
+Cidade Jequitibá:  405/405 => 100.0%
+Mamógrafo 165 instalado em Capim Branco => 405/405
+Cidade Jequitinhonha:  1774/1774 => 100.0%
+Mamógrafo 270 instalado em Jequitinhonha => 1774/1774
+Cidade Jesuânia:  435/435 => 100.0%
+Mamógrafo 166 instalado em Cristina => 435/435
+Cidade Joaíma:  1067/1067 => 100.0%
+Mamógrafo 270 instalado em Jequitinhonha => 1067/1067
+Cidade Joanésia:  468/468 => 100.0%
+Mamógrafo 223 instalado em Santana do Paraíso => 468/468
+Cidade João Monlevade:  7334/7334 => 100.0%
+Mamógrafo 112 instalado em João Monlevade => 6758/7334
+Mamógrafo 164 instalado em Itabira => 576/7334
+Cidade João Pinheiro:  0/3578 => 0.0%
+Cidade Joaquim Felício:  0/328 => 0.0%
+Cidade Jordânia:  0/764 => 0.0%
+Cidade José Gonçalves de Minas:  0/288 => 0.0%
+Cidade José Raydan:  315/315 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 315/315
+Cidade Josenópolis:  0/294 => 0.0%
+Cidade Nova União:  488/488 => 100.0%
+Mamógrafo 155 instalado em Santa Luzia => 488/488
+Cidade Juatuba:  1814/1814 => 100.0%
+Mamógrafo 262 instalado em Juatuba => 1814/1814
+Cidade Juiz de Fora:  52323/52323 => 100.0%
+Mamógrafo 5 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 7 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 11 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 19 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 30 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 51 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 69 instalado em Juiz de Fora => 6758/52323
+Mamógrafo 140 instalado em Juiz de Fora => 5017/52323
+Cidade Juramento:  315/315 => 100.0%
+Mamógrafo 171 instalado em Montes Claros => 315/315
+Cidade Juruaia:  748/748 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 748/748
+Cidade Juvenília:  0/405 => 0.0%
+Cidade Ladainha:  1127/1127 => 100.0%
+Mamógrafo 324 instalado em Ladainha => 1127/1127
+Cidade Lagamar:  709/709 => 100.0%
+Mamógrafo 268 instalado em Vazante => 709/709
+Cidade Lagoa da Prata:  4166/4166 => 100.0%
+Mamógrafo 156 instalado em Lagoa da Prata => 4166/4166
+Cidade Lagoa dos Patos:  272/272 => 100.0%
+Mamógrafo 250 instalado em Coração de Jesus => 272/272
+Cidade Lagoa Dourada:  978/978 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 978/978
+Cidade Lagoa Formosa:  1584/1584 => 100.0%
+Mamógrafo 292 instalado em Lagoa Formosa => 1584/1584
+Cidade Lagoa Grande:  0/683 => 0.0%
+Cidade Lagoa Santa:  4866/4866 => 100.0%
+Mamógrafo 139 instalado em Lagoa Santa => 4866/4866
+Cidade Lajinha:  1559/1559 => 100.0%
+Mamógrafo 299 instalado em Lajinha => 1559/1559
+Cidade Lambari:  1801/1801 => 100.0%
+Mamógrafo 267 instalado em Lambari => 1801/1801
+Cidade Lamim:  279/279 => 100.0%
+Mamógrafo 180 instalado em Ouro Branco => 279/279
+Cidade Laranjal:  611/611 => 100.0%
+Mamógrafo 320 instalado em Laranjal => 611/611
+Cidade Lassance:  513/513 => 100.0%
+Mamógrafo 192 instalado em Várzea da Palma => 513/513
+Cidade Lavras:  8818/8818 => 100.0%
+Mamógrafo 98 instalado em Lavras => 6758/8818
+Mamógrafo 243 instalado em Lavras => 2060/8818
+Cidade Leandro Ferreira:  260/260 => 100.0%
+Mamógrafo 138 instalado em Nova Serrana => 260/260
+Cidade Leme do Prado:  343/343 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 343/343
+Cidade Leopoldina:  4760/4760 => 100.0%
+Mamógrafo 146 instalado em Leopoldina => 4760/4760
+Cidade Liberdade:  0/507 => 0.0%
+Cidade Lima Duarte:  0/1491 => 0.0%
+Cidade Limeira do Oeste:  0/581 => 0.0%
+Cidade Lontra:  585/585 => 100.0%
+Mamógrafo 276 instalado em São João da Ponte => 585/585
+Cidade Luisburgo:  462/462 => 100.0%
+Mamógrafo 249 instalado em Espera Feliz => 462/462
+Cidade Luislândia:  416/416 => 100.0%
+Mamógrafo 170 instalado em São Francisco => 416/416
+Cidade Luminárias:  452/452 => 100.0%
+Mamógrafo 243 instalado em Lavras => 452/452
+Cidade Luz:  1622/1622 => 100.0%
+Mamógrafo 288 instalado em Luz => 1622/1622
+Cidade Machacalis:  0/500 => 0.0%
+Cidade Machado:  3367/3367 => 100.0%
+Mamógrafo 176 instalado em Machado => 3367/3367
+Cidade Madre de Deus de Minas:  447/447 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 447/447
+Cidade Malacacheta:  1417/1417 => 100.0%
+Mamógrafo 302 instalado em Malacacheta => 1417/1417
+Cidade Mamonas:  558/558 => 100.0%
+Mamógrafo 214 instalado em Espinosa => 558/558
+Cidade Manga:  1390/1390 => 100.0%
+Mamógrafo 318 instalado em Manga => 1390/1390
+Cidade Manhuaçu:  6588/6588 => 100.0%
+Mamógrafo 125 instalado em Manhuaçu => 6588/6588
+Cidade Manhumirim:  1813/1813 => 100.0%
+Mamógrafo 274 instalado em Manhumirim => 1813/1813
+Cidade Mantena:  2415/2415 => 100.0%
+Mamógrafo 204 instalado em Mantena => 2415/2415
+Cidade Maravilhas:  594/594 => 100.0%
+Mamógrafo 327 instalado em Maravilhas => 594/594
+Cidade Mar de Espanha:  1093/1093 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 1093/1093
+Cidade Maria da Fé:  1218/1218 => 100.0%
+Mamógrafo 166 instalado em Cristina => 1218/1218
+Cidade Mariana:  4475/4475 => 100.0%
+Mamógrafo 150 instalado em Mariana => 4475/4475
+Cidade Marilac:  323/323 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 323/323
+Cidade Mário Campos:  1097/1097 => 100.0%
+Mamógrafo 123 instalado em Ibirité => 289/1097
+Mamógrafo 130 instalado em Betim => 808/1097
+Cidade Maripá de Minas:  253/253 => 100.0%
+Mamógrafo 203 instalado em São João Nepomuceno => 253/253
+Cidade Marliéria:  334/334 => 100.0%
+Mamógrafo 186 instalado em Coronel Fabriciano => 334/334
+Cidade Marmelópolis:  272/272 => 100.0%
+Mamógrafo 166 instalado em Cristina => 272/272
+Cidade Martinho Campos:  1107/1107 => 100.0%
+Mamógrafo 206 instalado em Pompéu => 1107/1107
+Cidade Martins Soares:  542/542 => 100.0%
+Mamógrafo 274 instalado em Manhumirim => 542/542
+Cidade Mata Verde:  0/536 => 0.0%
+Cidade Materlândia:  0/329 => 0.0%
+Cidade Mateus Leme:  2381/2381 => 100.0%
+Mamógrafo 207 instalado em Mateus Leme => 2381/2381
+Cidade Matias Barbosa:  1277/1277 => 100.0%
+Mamógrafo 140 instalado em Juiz de Fora => 1277/1277
+Cidade Matias Cardoso:  609/609 => 100.0%
+Mamógrafo 318 instalado em Manga => 609/609
+Cidade Matipó:  1343/1343 => 100.0%
+Mamógrafo 194 instalado em Caputira => 1343/1343
+Cidade Mato Verde:  1055/1055 => 100.0%
+Mamógrafo 183 instalado em Porteirinha => 1055/1055
+Cidade Matozinhos:  2967/2967 => 100.0%
+Mamógrafo 256 instalado em Matozinhos => 2967/2967
+Cidade Matutina:  365/365 => 100.0%
+Mamógrafo 196 instalado em São Gotardo => 365/365
+Cidade Medeiros:  286/286 => 100.0%
+Mamógrafo 217 instalado em Bambuí => 286/286
+Cidade Medina:  1553/1553 => 100.0%
+Mamógrafo 298 instalado em Medina => 1553/1553
+Cidade Mendes Pimentel:  0/556 => 0.0%
+Cidade Mercês:  882/882 => 100.0%
+Mamógrafo 202 instalado em Guarani => 844/882
+Mamógrafo 301 instalado em Rio Pomba => 38/882
+Cidade Mesquita:  516/516 => 100.0%
+Mamógrafo 186 instalado em Coronel Fabriciano => 64/516
+Mamógrafo 211 instalado em Ipatinga => 452/516
+Cidade Minas Novas:  2064/2064 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 2064/2064
+Cidade Minduri:  356/356 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 356/356
+Cidade Mirabela:  946/946 => 100.0%
+Mamógrafo 213 instalado em Brasília de Minas => 946/946
+Cidade Miradouro:  853/853 => 100.0%
+Mamógrafo 193 instalado em Muriaé => 853/853
+Cidade Miraí:  1194/1194 => 100.0%
+Mamógrafo 193 instalado em Muriaé => 1194/1194
+Cidade Miravânia:  300/300 => 100.0%
+Mamógrafo 318 instalado em Manga => 300/300
+Cidade Moeda:  412/412 => 100.0%
+Mamógrafo 159 instalado em Itabirito => 412/412
+Cidade Moema:  602/602 => 100.0%
+Mamógrafo 154 instalado em Bom Despacho => 602/602
+Cidade Monjolos:  188/188 => 100.0%
+Mamógrafo 231 instalado em Corinto => 188/188
+Cidade Monsenhor Paulo:  686/686 => 100.0%
+Mamógrafo 267 instalado em Lambari => 686/686
+Cidade Montalvânia:  0/1211 => 0.0%
+Cidade Monte Alegre de Minas:  1703/1703 => 100.0%
+Mamógrafo 280 instalado em Monte Alegre de Minas => 1703/1703
+Cidade Monte Azul:  1936/1936 => 100.0%
+Mamógrafo 252 instalado em Monte Azul => 1936/1936
+Cidade Monte Belo:  1115/1115 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 1115/1115
+Cidade Monte Carmelo:  4140/4140 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 4140/4140
+Cidade Monte Formoso:  291/291 => 100.0%
+Mamógrafo 326 instalado em Padre Paraíso => 291/291
+Cidade Monte Santo de Minas:  1913/1913 => 100.0%
+Mamógrafo 253 instalado em Monte Santo de Minas => 1913/1913
+Cidade Montes Claros:  30534/30534 => 100.0%
+Mamógrafo 18 instalado em Montes Claros => 6758/30534
+Mamógrafo 31 instalado em Montes Claros => 6758/30534
+Mamógrafo 50 instalado em Montes Claros => 6758/30534
+Mamógrafo 87 instalado em Montes Claros => 6758/30534
+Mamógrafo 171 instalado em Montes Claros => 3502/30534
+Cidade Monte Sião:  1955/1955 => 100.0%
+Mamógrafo 254 instalado em Monte Sião => 1955/1955
+Cidade Montezuma:  508/508 => 100.0%
+Mamógrafo 251 instalado em Rio Pardo de Minas => 508/508
+Cidade Morada Nova de Minas:  0/724 => 0.0%
+Cidade Morro da Garça:  215/215 => 100.0%
+Mamógrafo 231 instalado em Corinto => 215/215
+Cidade Morro do Pilar:  0/283 => 0.0%
+Cidade Munhoz:  534/534 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 532/534
+Mamógrafo 201 instalado em Cambuí => 2/534
+Cidade Muriaé:  9483/9483 => 100.0%
+Mamógrafo 91 instalado em Muriaé => 6758/9483
+Mamógrafo 193 instalado em Muriaé => 2725/9483
+Cidade Mutum:  2183/2183 => 100.0%
+Mamógrafo 225 instalado em Mutum => 2183/2183
+Cidade Muzambinho:  1876/1876 => 100.0%
+Mamógrafo 255 instalado em Muzambinho => 1876/1876
+Cidade Nacip Raydan:  230/230 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 230/230
+Cidade Nanuque:  3385/3385 => 100.0%
+Mamógrafo 173 instalado em Nanuque => 3385/3385
+Cidade Naque:  477/477 => 100.0%
+Mamógrafo 211 instalado em Ipatinga => 477/477
+Cidade Natalândia:  0/245 => 0.0%
+Cidade Natércia:  419/419 => 100.0%
+Mamógrafo 267 instalado em Lambari => 419/419
+Cidade Nazareno:  668/668 => 100.0%
+Mamógrafo 243 instalado em Lavras => 668/668
+Cidade Nepomuceno:  2236/2236 => 100.0%
+Mamógrafo 224 instalado em Nepomuceno => 2236/2236
+Cidade Ninheira:  0/701 => 0.0%
+Cidade Nova Belém:  0/295 => 0.0%
+Cidade Nova Era:  1572/1572 => 100.0%
+Mamógrafo 293 instalado em Nova Era => 1572/1572
+Cidade Nova Lima:  7762/7762 => 100.0%
+Mamógrafo 106 instalado em Nova Lima => 6758/7762
+Mamógrafo 131 instalado em Belo Horizonte => 1004/7762
+Cidade Nova Módica:  0/301 => 0.0%
+Cidade Nova Ponte:  0/992 => 0.0%
+Cidade Nova Porteirinha:  526/526 => 100.0%
+Mamógrafo 133 instalado em Janaúba => 526/526
+Cidade Nova Resende:  1261/1261 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 1261/1261
+Cidade Nova Serrana:  5015/5015 => 100.0%
+Mamógrafo 138 instalado em Nova Serrana => 5015/5015
+Cidade Novo Cruzeiro:  2068/2068 => 100.0%
+Mamógrafo 235 instalado em Novo Cruzeiro => 2068/2068
+Cidade Novo Oriente de Minas:  0/719 => 0.0%
+Cidade Novorizonte:  350/350 => 100.0%
+Mamógrafo 178 instalado em Salinas => 350/350
+Cidade Olaria:  0/179 => 0.0%
+Cidade Olhos-d'Água:  360/360 => 100.0%
+Mamógrafo 162 instalado em Bocaiúva => 360/360
+Cidade Olímpio Noronha:  218/218 => 100.0%
+Mamógrafo 166 instalado em Cristina => 218/218
+Cidade Oliveira:  3707/3707 => 100.0%
+Mamógrafo 161 instalado em Oliveira => 3707/3707
+Cidade Oliveira Fortes:  195/195 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 195/195
+Cidade Onça de Pitangui:  240/240 => 100.0%
+Mamógrafo 220 instalado em Pitangui => 240/240
+Cidade Oratórios:  384/384 => 100.0%
+Mamógrafo 128 instalado em Ponte Nova => 384/384
+Cidade Orizânia:  548/548 => 100.0%
+Mamógrafo 194 instalado em Caputira => 548/548
+Cidade Ouro Branco:  3273/3273 => 100.0%
+Mamógrafo 180 instalado em Ouro Branco => 3273/3273
+Cidade Ouro Fino:  2894/2894 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 2894/2894
+Cidade Ouro Preto:  6388/6388 => 100.0%
+Mamógrafo 124 instalado em Ouro Preto => 6388/6388
+Cidade Ouro Verde de Minas:  420/420 => 100.0%
+Mamógrafo 99 instalado em Ouro Verde de Minas => 420/420
+Cidade Padre Carvalho:  0/370 => 0.0%
+Cidade Padre Paraíso:  1339/1339 => 100.0%
+Mamógrafo 326 instalado em Padre Paraíso => 1339/1339
+Cidade Paineiras:  453/453 => 100.0%
+Mamógrafo 234 instalado em Abaeté => 453/453
+Cidade Pains:  741/741 => 100.0%
+Mamógrafo 156 instalado em Lagoa da Prata => 741/741
+Cidade Pai Pedro:  434/434 => 100.0%
+Mamógrafo 183 instalado em Porteirinha => 434/434
+Cidade Paiva:  141/141 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 141/141
+Cidade Palma:  581/581 => 100.0%
+Mamógrafo 320 instalado em Laranjal => 581/581
+Cidade Palmópolis:  0/523 => 0.0%
+Cidade Papagaios:  1117/1117 => 100.0%
+Mamógrafo 206 instalado em Pompéu => 1117/1117
+Cidade Paracatu:  6602/6602 => 100.0%
+Mamógrafo 116 instalado em Paracatu => 6602/6602
+Cidade Pará de Minas:  7646/7646 => 100.0%
+Mamógrafo 107 instalado em Pará de Minas => 6758/7646
+Mamógrafo 207 instalado em Mateus Leme => 888/7646
+Cidade Paraguaçu:  1758/1758 => 100.0%
+Mamógrafo 271 instalado em Paraguaçu => 1758/1758
+Cidade Paraisópolis:  1719/1719 => 100.0%
+Mamógrafo 279 instalado em Paraisópolis => 1719/1719
+Cidade Paraopeba:  1983/1983 => 100.0%
+Mamógrafo 248 instalado em Paraopeba => 1983/1983
+Cidade Passabém:  148/148 => 100.0%
+Mamógrafo 164 instalado em Itabira => 148/148
+Cidade Passa Quatro:  1470/1470 => 100.0%
+Mamógrafo 312 instalado em Passa Quatro => 1470/1470
+Cidade Passa Tempo:  772/772 => 100.0%
+Mamógrafo 230 instalado em Cláudio => 772/772
+Cidade Passa Vinte:  180/180 => 100.0%
+Mamógrafo 344 instalado em Santa Rita de Jacutinga => 180/180
+Cidade Passos:  9842/9842 => 100.0%
+Mamógrafo 90 instalado em Passos => 6758/9842
+Mamógrafo 181 instalado em Passos => 3084/9842
+Cidade Patis:  368/368 => 100.0%
+Mamógrafo 213 instalado em Brasília de Minas => 368/368
+Cidade Patos de Minas:  13378/13378 => 100.0%
+Mamógrafo 115 instalado em Patos de Minas => 6758/13378
+Mamógrafo 195 instalado em Patos de Minas => 6620/13378
+Cidade Patrocínio:  6758/7100 => 95.1830985915493%
+Mamógrafo 113 instalado em Patrocínio => 6758/7100
+Cidade Patrocínio do Muriaé:  464/464 => 100.0%
+Mamógrafo 193 instalado em Muriaé => 464/464
+Cidade Paula Cândido:  731/731 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 731/731
+Cidade Paulistas:  373/373 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 373/373
+Cidade Pavão:  629/629 => 100.0%
+Mamógrafo 287 instalado em Carlos Chagas => 629/629
+Cidade Peçanha:  1244/1244 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 1244/1244
+Cidade Pedra Azul:  1814/1814 => 100.0%
+Mamógrafo 263 instalado em Pedra Azul => 1814/1814
+Cidade Pedra Bonita:  464/464 => 100.0%
+Mamógrafo 291 instalado em Divino => 464/464
+Cidade Pedra do Anta:  290/290 => 100.0%
+Mamógrafo 346 instalado em Urucânia => 290/290
+Cidade Pedra do Indaiá:  355/355 => 100.0%
+Mamógrafo 156 instalado em Lagoa da Prata => 355/355
+Cidade Pedra Dourada:  165/165 => 100.0%
+Mamógrafo 185 instalado em Carangola => 165/165
+Cidade Pedralva:  994/994 => 100.0%
+Mamógrafo 166 instalado em Cristina => 994/994
+Cidade Pedras de Maria da Cruz:  725/725 => 100.0%
+Mamógrafo 143 instalado em Januária => 725/725
+Cidade Pedrinópolis:  0/308 => 0.0%
+Cidade Pedro Leopoldo:  5555/5555 => 100.0%
+Mamógrafo 132 instalado em Pedro Leopoldo => 5555/5555
+Cidade Pedro Teixeira:  0/148 => 0.0%
+Cidade Pequeri:  291/291 => 100.0%
+Mamógrafo 203 instalado em São João Nepomuceno => 291/291
+Cidade Pequi:  356/356 => 100.0%
+Mamógrafo 220 instalado em Pitangui => 356/356
+Cidade Perdigão:  676/676 => 100.0%
+Mamógrafo 138 instalado em Nova Serrana => 676/676
+Cidade Perdizes:  0/1155 => 0.0%
+Cidade Perdões:  1859/1859 => 100.0%
+Mamógrafo 257 instalado em Perdões => 1859/1859
+Cidade Periquito:  521/521 => 100.0%
+Mamógrafo 223 instalado em Santana do Paraíso => 521/521
+Cidade Pescador:  305/305 => 100.0%
+Mamógrafo 278 instalado em Itambacuri => 305/305
+Cidade Piau:  252/252 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 252/252
+Cidade Piedade de Caratinga:  524/524 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 524/524
+Cidade Piedade de Ponte Nova:  337/337 => 100.0%
+Mamógrafo 232 instalado em Raul Soares => 337/337
+Cidade Piedade do Rio Grande:  460/460 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 460/460
+Cidade Piedade dos Gerais:  423/423 => 100.0%
+Mamógrafo 179 instalado em Brumadinho => 104/423
+Mamógrafo 322 instalado em Itaguara => 319/423
+Cidade Pimenta:  747/747 => 100.0%
+Mamógrafo 184 instalado em Piumhi => 747/747
+Cidade Pingo-d'Água:  375/375 => 100.0%
+Mamógrafo 331 instalado em Bom Jesus do Galho => 375/375
+Cidade Pintópolis:  457/457 => 100.0%
+Mamógrafo 39 instalado em Pintópolis => 457/457
+Cidade Piracema:  588/588 => 100.0%
+Mamógrafo 230 instalado em Cláudio => 588/588
+Cidade Pirajuba:  314/314 => 100.0%
+Mamógrafo 141 instalado em Frutal => 314/314
+Cidade Piranga:  1292/1292 => 100.0%
+Mamógrafo 333 instalado em Piranga => 1292/1292
+Cidade Piranguçu:  454/454 => 100.0%
+Mamógrafo 166 instalado em Cristina => 454/454
+Cidade Piranguinho:  675/675 => 100.0%
+Mamógrafo 166 instalado em Cristina => 183/675
+Mamógrafo 175 instalado em Santa Rita do Sapucaí => 492/675
+Cidade Pirapetinga:  934/934 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 934/934
+Cidade Pirapora:  4473/4473 => 100.0%
+Mamógrafo 149 instalado em Pirapora => 4473/4473
+Cidade Piraúba:  985/985 => 100.0%
+Mamógrafo 202 instalado em Guarani => 985/985
+Cidade Pitangui:  2230/2230 => 100.0%
+Mamógrafo 220 instalado em Pitangui => 2230/2230
+Cidade Piumhi:  2982/2982 => 100.0%
+Mamógrafo 184 instalado em Piumhi => 2982/2982
+Cidade Planura:  849/849 => 100.0%
+Mamógrafo 141 instalado em Frutal => 849/849
+Cidade Poço Fundo:  1474/1474 => 100.0%
+Mamógrafo 305 instalado em Poço Fundo => 1474/1474
+Cidade Poços de Caldas:  14742/14742 => 100.0%
+Mamógrafo 57 instalado em Poços de Caldas => 6758/14742
+Mamógrafo 103 instalado em Poços de Caldas => 6758/14742
+Mamógrafo 239 instalado em Poços de Caldas => 1226/14742
+Cidade Pocrane:  794/794 => 100.0%
+Mamógrafo 225 instalado em Mutum => 794/794
+Cidade Pompéu:  2396/2396 => 100.0%
+Mamógrafo 206 instalado em Pompéu => 2396/2396
+Cidade Ponte Nova:  5539/5539 => 100.0%
+Mamógrafo 128 instalado em Ponte Nova => 5539/5539
+Cidade Ponto Chique:  0/257 => 0.0%
+Cidade Ponto dos Volantes:  743/743 => 100.0%
+Mamógrafo 289 instalado em Itaobim => 743/743
+Cidade Porteirinha:  3035/3035 => 100.0%
+Mamógrafo 183 instalado em Porteirinha => 3035/3035
+Cidade Porto Firme:  878/878 => 100.0%
+Mamógrafo 333 instalado em Piranga => 878/878
+Cidade Poté:  1152/1152 => 100.0%
+Mamógrafo 142 instalado em Teófilo Otoni => 1152/1152
+Cidade Pouso Alegre:  12188/12188 => 100.0%
+Mamógrafo 68 instalado em Pouso Alegre => 6758/12188
+Mamógrafo 129 instalado em Pouso Alegre => 5430/12188
+Cidade Pouso Alto:  590/590 => 100.0%
+Mamógrafo 157 instalado em São Lourenço => 590/590
+Cidade Prados:  755/755 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 755/755
+Cidade Prata:  2170/2170 => 100.0%
+Mamógrafo 229 instalado em Prata => 2170/2170
+Cidade Pratápolis:  839/839 => 100.0%
+Mamógrafo 181 instalado em Passos => 839/839
+Cidade Pratinha:  0/295 => 0.0%
+Cidade Presidente Bernardes:  450/450 => 100.0%
+Mamógrafo 333 instalado em Piranga => 450/450
+Cidade Presidente Juscelino:  0/297 => 0.0%
+Cidade Presidente Kubitschek:  0/210 => 0.0%
+Cidade Presidente Olegário:  1567/1567 => 100.0%
+Mamógrafo 295 instalado em Presidente Olegário => 1567/1567
+Cidade Alto Jequitibá:  720/720 => 100.0%
+Mamógrafo 249 instalado em Espera Feliz => 720/720
+Cidade Prudente de Morais:  829/829 => 100.0%
+Mamógrafo 121 instalado em Sete Lagoas => 320/829
+Mamógrafo 132 instalado em Pedro Leopoldo => 509/829
+Cidade Quartel Geral:  285/285 => 100.0%
+Mamógrafo 234 instalado em Abaeté => 285/285
+Cidade Queluzito:  181/181 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 181/181
+Cidade Raposos:  1395/1395 => 100.0%
+Mamógrafo 316 instalado em Raposos => 1395/1395
+Cidade Raul Soares:  2104/2104 => 100.0%
+Mamógrafo 232 instalado em Raul Soares => 2104/2104
+Cidade Recreio:  962/962 => 100.0%
+Mamógrafo 146 instalado em Leopoldina => 962/962
+Cidade Reduto:  505/505 => 100.0%
+Mamógrafo 125 instalado em Manhuaçu => 170/505
+Mamógrafo 194 instalado em Caputira => 335/505
+Cidade Resende Costa:  1022/1022 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 1022/1022
+Cidade Resplendor:  1499/1499 => 100.0%
+Mamógrafo 304 instalado em Resplendor => 1499/1499
+Cidade Ressaquinha:  420/420 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 420/420
+Cidade Riachinho:  0/595 => 0.0%
+Cidade Riacho dos Machados:  653/653 => 100.0%
+Mamógrafo 183 instalado em Porteirinha => 653/653
+Cidade Ribeirão das Neves:  24578/24578 => 100.0%
+Mamógrafo 28 instalado em Ribeirão das Neves => 6758/24578
+Mamógrafo 46 instalado em Ribeirão das Neves => 6758/24578
+Mamógrafo 78 instalado em Ribeirão das Neves => 6758/24578
+Mamógrafo 152 instalado em Ribeirão das Neves => 4304/24578
+Cidade Ribeirão Vermelho:  375/375 => 100.0%
+Mamógrafo 332 instalado em Ribeirão Vermelho => 375/375
+Cidade Rio Acima:  760/760 => 100.0%
+Mamógrafo 131 instalado em Belo Horizonte => 603/760
+Mamógrafo 145 instalado em Sabará => 157/760
+Cidade Rio Casca:  1248/1248 => 100.0%
+Mamógrafo 232 instalado em Raul Soares => 1248/1248
+Cidade Rio Doce:  229/229 => 100.0%
+Mamógrafo 128 instalado em Ponte Nova => 229/229
+Cidade Rio do Prado:  0/401 => 0.0%
+Cidade Rio Espera:  522/522 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 196/522
+Mamógrafo 333 instalado em Piranga => 326/522
+Cidade Rio Manso:  466/466 => 100.0%
+Mamógrafo 179 instalado em Brumadinho => 466/466
+Cidade Rio Novo:  775/775 => 100.0%
+Mamógrafo 202 instalado em Guarani => 775/775
+Cidade Rio Paranaíba:  1004/1004 => 100.0%
+Mamógrafo 191 instalado em Carmo do Paranaíba => 1004/1004
+Cidade Rio Pardo de Minas:  1983/1983 => 100.0%
+Mamógrafo 251 instalado em Rio Pardo de Minas => 1983/1983
+Cidade Rio Piracicaba:  1319/1319 => 100.0%
+Mamógrafo 328 instalado em Rio Piracicaba => 1319/1319
+Cidade Rio Pomba:  1530/1530 => 100.0%
+Mamógrafo 301 instalado em Rio Pomba => 1530/1530
+Cidade Rio Preto:  492/492 => 100.0%
+Mamógrafo 344 instalado em Santa Rita de Jacutinga => 492/492
+Cidade Rio Vermelho:  980/980 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 980/980
+Cidade Ritápolis:  499/499 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 499/499
+Cidade Rochedo de Minas:  183/183 => 100.0%
+Mamógrafo 202 instalado em Guarani => 183/183
+Cidade Rodeiro:  564/564 => 100.0%
+Mamógrafo 202 instalado em Guarani => 564/564
+Cidade Romaria:  320/320 => 100.0%
+Mamógrafo 160 instalado em Monte Carmelo => 320/320
+Cidade Rosário da Limeira:  345/345 => 100.0%
+Mamógrafo 193 instalado em Muriaé => 246/345
+Mamógrafo 310 instalado em Ervália => 99/345
+Cidade Rubelita:  584/584 => 100.0%
+Mamógrafo 178 instalado em Salinas => 584/584
+Cidade Rubim:  777/777 => 100.0%
+Mamógrafo 182 instalado em Almenara => 777/777
+Cidade Sabará:  11336/11336 => 100.0%
+Mamógrafo 73 instalado em Sabará => 6758/11336
+Mamógrafo 145 instalado em Sabará => 4578/11336
+Cidade Sabinópolis:  0/1198 => 0.0%
+Cidade Sacramento:  2042/2042 => 100.0%
+Mamógrafo 242 instalado em Sacramento => 2042/2042
+Cidade Salinas:  3134/3134 => 100.0%
+Mamógrafo 178 instalado em Salinas => 3134/3134
+Cidade Salto da Divisa:  0/504 => 0.0%
+Cidade Santa Bárbara:  2411/2411 => 100.0%
+Mamógrafo 208 instalado em Santa Bárbara => 2411/2411
+Cidade Santa Bárbara do Leste:  622/622 => 100.0%
+Mamógrafo 194 instalado em Caputira => 622/622
+Cidade Santa Bárbara do Monte Verde:  0/240 => 0.0%
+Cidade Santa Bárbara do Tugúrio:  399/399 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 399/399
+Cidade Santa Cruz de Minas:  717/717 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 717/717
+Cidade Santa Cruz de Salinas:  0/327 => 0.0%
+Cidade Santa Cruz do Escalvado:  416/416 => 100.0%
+Mamógrafo 346 instalado em Urucânia => 416/416
+Cidade Santa Efigênia de Minas:  344/344 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 344/344
+Cidade Santa Fé de Minas:  0/274 => 0.0%
+Cidade Santa Helena de Minas:  0/403 => 0.0%
+Cidade Santa Juliana:  0/917 => 0.0%
+Cidade Santa Luzia:  17811/17811 => 100.0%
+Mamógrafo 47 instalado em Santa Luzia => 6758/17811
+Mamógrafo 86 instalado em Santa Luzia => 6758/17811
+Mamógrafo 155 instalado em Santa Luzia => 4295/17811
+Cidade Santa Margarida:  1133/1133 => 100.0%
+Mamógrafo 194 instalado em Caputira => 1133/1133
+Cidade Santa Maria de Itabira:  792/792 => 100.0%
+Mamógrafo 164 instalado em Itabira => 792/792
+Cidade Santa Maria do Salto:  0/403 => 0.0%
+Cidade Santa Maria do Suaçuí:  1072/1072 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 1072/1072
+Cidade Santana da Vargem:  624/624 => 100.0%
+Mamógrafo 148 instalado em Três Pontas => 624/624
+Cidade Santana de Cataguases:  339/339 => 100.0%
+Mamógrafo 193 instalado em Muriaé => 339/339
+Cidade Santana de Pirapama:  0/642 => 0.0%
+Cidade Santana do Deserto:  347/347 => 100.0%
+Mamógrafo 330 instalado em Bicas => 347/347
+Cidade Santana do Garambéu:  0/183 => 0.0%
+Cidade Santana do Jacaré:  378/378 => 100.0%
+Mamógrafo 137 instalado em Campo Belo => 56/378
+Mamógrafo 161 instalado em Oliveira => 322/378
+Cidade Santana do Manhuaçu:  657/657 => 100.0%
+Mamógrafo 274 instalado em Manhumirim => 657/657
+Cidade Santana do Paraíso:  2192/2192 => 100.0%
+Mamógrafo 223 instalado em Santana do Paraíso => 2192/2192
+Cidade Santana do Riacho:  0/336 => 0.0%
+Cidade Santana dos Montes:  318/318 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 318/318
+Cidade Santa Rita de Caldas:  854/854 => 100.0%
+Mamógrafo 169 instalado em Andradas => 854/854
+Cidade Santa Rita de Jacutinga:  438/438 => 100.0%
+Mamógrafo 344 instalado em Santa Rita de Jacutinga => 438/438
+Cidade Santa Rita de Minas:  529/529 => 100.0%
+Mamógrafo 194 instalado em Caputira => 189/529
+Mamógrafo 233 instalado em Inhapim => 340/529
+Cidade Santa Rita de Ibitipoca:  0/312 => 0.0%
+Cidade Santa Rita do Itueto:  476/476 => 100.0%
+Mamógrafo 219 instalado em Aimorés => 476/476
+Cidade Santa Rita do Sapucaí:  3318/3318 => 100.0%
+Mamógrafo 175 instalado em Santa Rita do Sapucaí => 3318/3318
+Cidade Santa Rosa da Serra:  0/266 => 0.0%
+Cidade Santa Vitória:  1623/1623 => 100.0%
+Mamógrafo 285 instalado em Santa Vitória => 1623/1623
+Cidade Santo Antônio do Amparo:  1472/1472 => 100.0%
+Mamógrafo 308 instalado em Santo Antônio do Amparo => 1472/1472
+Cidade Santo Antônio do Aventureiro:  321/321 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 321/321
+Cidade Santo Antônio do Grama:  358/358 => 100.0%
+Mamógrafo 232 instalado em Raul Soares => 358/358
+Cidade Santo Antônio do Itambé:  0/283 => 0.0%
+Cidade Santo Antônio do Jacinto:  0/875 => 0.0%
+Cidade Santo Antônio do Monte:  2225/2225 => 100.0%
+Mamógrafo 154 instalado em Bom Despacho => 1321/2225
+Mamógrafo 156 instalado em Lagoa da Prata => 904/2225
+Cidade Santo Antônio do Retiro:  480/480 => 100.0%
+Mamógrafo 251 instalado em Rio Pardo de Minas => 480/480
+Cidade Santo Antônio do Rio Abaixo:  0/153 => 0.0%
+Cidade Santo Hipólito:  265/265 => 100.0%
+Mamógrafo 231 instalado em Corinto => 265/265
+Cidade Santos Dumont:  4474/4474 => 100.0%
+Mamógrafo 151 instalado em Santos Dumont => 4474/4474
+Cidade São Bento Abade:  331/331 => 100.0%
+Mamógrafo 243 instalado em Lavras => 331/331
+Cidade São Brás do Suaçuí:  337/337 => 100.0%
+Mamógrafo 147 instalado em Conselheiro Lafaiete => 337/337
+Cidade São Domingos das Dores:  401/401 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 401/401
+Cidade São Domingos do Prata:  1566/1566 => 100.0%
+Mamógrafo 293 instalado em Nova Era => 1566/1566
+Cidade São Félix de Minas:  0/252 => 0.0%
+Cidade São Francisco:  3547/3547 => 100.0%
+Mamógrafo 170 instalado em São Francisco => 3547/3547
+Cidade São Francisco de Paula:  559/559 => 100.0%
+Mamógrafo 161 instalado em Oliveira => 559/559
+Cidade São Francisco de Sales:  0/510 => 0.0%
+Cidade São Francisco do Glória:  431/431 => 100.0%
+Mamógrafo 185 instalado em Carangola => 431/431
+Cidade São Geraldo:  891/891 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 891/891
+Cidade São Geraldo da Piedade:  363/363 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 363/363
+Cidade São Geraldo do Baixio:  286/286 => 100.0%
+Mamógrafo 247 instalado em Conselheiro Pena => 286/286
+Cidade São Gonçalo do Abaeté:  472/472 => 100.0%
+Mamógrafo 342 instalado em Varjão de Minas => 472/472
+Cidade São Gonçalo do Pará:  904/904 => 100.0%
+Mamógrafo 138 instalado em Nova Serrana => 375/904
+Mamógrafo 220 instalado em Pitangui => 529/904
+Cidade São Gonçalo do Rio Abaixo:  764/764 => 100.0%
+Mamógrafo 158 instalado em Caeté => 764/764
+Cidade São Gonçalo do Sapucaí:  2061/2061 => 100.0%
+Mamógrafo 176 instalado em Machado => 465/2061
+Mamógrafo 321 instalado em Campanha => 1596/2061
+Cidade São Gotardo:  2583/2583 => 100.0%
+Mamógrafo 196 instalado em São Gotardo => 2583/2583
+Cidade São João Batista do Glória:  610/610 => 100.0%
+Mamógrafo 181 instalado em Passos => 610/610
+Cidade São João da Lagoa:  348/348 => 100.0%
+Mamógrafo 250 instalado em Coração de Jesus => 348/348
+Cidade São João da Mata:  252/252 => 100.0%
+Mamógrafo 176 instalado em Machado => 252/252
+Cidade São João da Ponte:  1745/1745 => 100.0%
+Mamógrafo 276 instalado em São João da Ponte => 1745/1745
+Cidade São João das Missões:  579/579 => 100.0%
+Mamógrafo 238 instalado em Itacarambi => 579/579
+Cidade São João del Rei:  8597/8597 => 100.0%
+Mamógrafo 101 instalado em São João del Rei => 6758/8597
+Mamógrafo 259 instalado em São João del Rei => 1839/8597
+Cidade São João do Manhuaçu:  766/766 => 100.0%
+Mamógrafo 194 instalado em Caputira => 766/766
+Cidade São João do Manteninha:  448/448 => 100.0%
+Mamógrafo 204 instalado em Mantena => 448/448
+Cidade São João do Oriente:  678/678 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 678/678
+Cidade São João do Pacuí:  284/284 => 100.0%
+Mamógrafo 250 instalado em Coração de Jesus => 284/284
+Cidade São João do Paraíso:  0/1641 => 0.0%
+Cidade São João Evangelista:  1230/1230 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 1230/1230
+Cidade São João Nepomuceno:  2444/2444 => 100.0%
+Mamógrafo 203 instalado em São João Nepomuceno => 2444/2444
+Cidade São Joaquim de Bicas:  1845/1845 => 100.0%
+Mamógrafo 130 instalado em Betim => 614/1845
+Mamógrafo 179 instalado em Brumadinho => 1231/1845
+Cidade São José da Barra:  600/600 => 100.0%
+Mamógrafo 181 instalado em Passos => 600/600
+Cidade São José da Lapa:  1708/1708 => 100.0%
+Mamógrafo 277 instalado em São José da Lapa => 1708/1708
+Cidade São José da Safira:  276/276 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 276/276
+Cidade São José da Varginha:  338/338 => 100.0%
+Mamógrafo 136 instalado em Esmeraldas => 338/338
+Cidade São José do Alegre:  353/353 => 100.0%
+Mamógrafo 166 instalado em Cristina => 353/353
+Cidade São José do Divino:  0/298 => 0.0%
+Cidade São José do Goiabal:  0/509 => 0.0%
+Cidade São José do Jacuri:  493/493 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 493/493
+Cidade São José do Mantimento:  216/216 => 100.0%
+Mamógrafo 286 instalado em Ipanema => 216/216
+Cidade São Lourenço:  4096/4096 => 100.0%
+Mamógrafo 157 instalado em São Lourenço => 4096/4096
+Cidade São Miguel do Anta:  574/574 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 574/574
+Cidade São Pedro da União:  457/457 => 100.0%
+Mamógrafo 58 instalado em Nova Resende => 457/457
+Cidade São Pedro dos Ferros:  739/739 => 100.0%
+Mamógrafo 194 instalado em Caputira => 739/739
+Cidade São Pedro do Suaçuí:  433/433 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 433/433
+Cidade São Romão:  682/682 => 100.0%
+Mamógrafo 170 instalado em São Francisco => 682/682
+Cidade São Roque de Minas:  0/593 => 0.0%
+Cidade São Sebastião da Bela Vista:  404/404 => 100.0%
+Mamógrafo 175 instalado em Santa Rita do Sapucaí => 404/404
+Cidade São Sebastião da Vargem Alegre:  246/246 => 100.0%
+Mamógrafo 275 instalado em São Geraldo => 246/246
+Cidade São Sebastião do Anta:  408/408 => 100.0%
+Mamógrafo 233 instalado em Inhapim => 408/408
+Cidade São Sebastião do Maranhão:  748/748 => 100.0%
+Mamógrafo 341 instalado em São José do Jacuri => 748/748
+Cidade São Sebastião do Oeste:  486/486 => 100.0%
+Mamógrafo 230 instalado em Cláudio => 486/486
+Cidade São Sebastião do Paraíso:  5851/5851 => 100.0%
+Mamógrafo 126 instalado em São Sebastião do Paraíso => 5851/5851
+Cidade São Sebastião do Rio Preto:  0/137 => 0.0%
+Cidade São Sebastião do Rio Verde:  209/209 => 100.0%
+Mamógrafo 157 instalado em São Lourenço => 209/209
+Cidade São Tiago:  917/917 => 100.0%
+Mamógrafo 161 instalado em Oliveira => 913/917
+Mamógrafo 259 instalado em São João del Rei => 4/917
+Cidade São Tomás de Aquino:  557/557 => 100.0%
+Mamógrafo 126 instalado em São Sebastião do Paraíso => 557/557
+Cidade São Tomé das Letras:  557/557 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 557/557
+Cidade São Vicente de Minas:  0/625 => 0.0%
+Cidade Sapucaí-Mirim:  509/509 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 509/509
+Cidade Sardoá:  409/409 => 100.0%
+Mamógrafo 335 instalado em Coroaci => 409/409
+Cidade Sarzedo:  2175/2175 => 100.0%
+Mamógrafo 226 instalado em Sarzedo => 2175/2175
+Cidade Setubinha:  662/662 => 100.0%
+Mamógrafo 199 instalado em Capelinha => 175/662
+Mamógrafo 235 instalado em Novo Cruzeiro => 487/662
+Cidade Sem-Peixe:  0/253 => 0.0%
+Cidade Senador Amaral:  414/414 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 414/414
+Cidade Senador Cortes:  168/168 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 168/168
+Cidade Senador Firmino:  630/630 => 100.0%
+Mamógrafo 314 instalado em Tocantins => 630/630
+Cidade Senador José Bento:  178/178 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 178/178
+Cidade Senador Modestino Gonçalves:  0/350 => 0.0%
+Cidade Senhora de Oliveira:  462/462 => 100.0%
+Mamógrafo 333 instalado em Piranga => 462/462
+Cidade Senhora do Porto:  0/252 => 0.0%
+Cidade Senhora dos Remédios:  870/870 => 100.0%
+Mamógrafo 227 instalado em Carandaí => 870/870
+Cidade Sericita:  520/520 => 100.0%
+Mamógrafo 296 instalado em Abre Campo => 520/520
+Cidade Seritinga:  168/168 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 168/168
+Cidade Serra Azul de Minas:  0/273 => 0.0%
+Cidade Serra da Saudade:  77/77 => 100.0%
+Mamógrafo 196 instalado em São Gotardo => 77/77
+Cidade Serra dos Aimorés:  648/648 => 100.0%
+Mamógrafo 173 instalado em Nanuque => 648/648
+Cidade Serra do Salitre:  0/835 => 0.0%
+Cidade Serrania:  625/625 => 100.0%
+Mamógrafo 176 instalado em Machado => 625/625
+Cidade Serranópolis de Minas:  337/337 => 100.0%
+Mamógrafo 183 instalado em Porteirinha => 337/337
+Cidade Serranos:  164/164 => 100.0%
+Mamógrafo 236 instalado em Caxambu => 164/164
+Cidade Serro:  0/1533 => 0.0%
+Cidade Sete Lagoas:  19954/19954 => 100.0%
+Mamógrafo 41 instalado em Sete Lagoas => 6758/19954
+Mamógrafo 67 instalado em Sete Lagoas => 6758/19954
+Mamógrafo 121 instalado em Sete Lagoas => 6438/19954
+Cidade Silveirânia:  184/184 => 100.0%
+Mamógrafo 202 instalado em Guarani => 184/184
+Cidade Silvianópolis:  515/515 => 100.0%
+Mamógrafo 176 instalado em Machado => 515/515
+Cidade Simão Pereira:  0/234 => 0.0%
+Cidade Simonésia:  1341/1341 => 100.0%
+Mamógrafo 274 instalado em Manhumirim => 1341/1341
+Cidade Sobrália:  508/508 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 508/508
+Cidade Soledade de Minas:  498/498 => 100.0%
+Mamógrafo 157 instalado em São Lourenço => 498/498
+Cidade Tabuleiro:  368/368 => 100.0%
+Mamógrafo 202 instalado em Guarani => 368/368
+Cidade Taiobeiras:  2427/2427 => 100.0%
+Mamógrafo 205 instalado em Taiobeiras => 2427/2427
+Cidade Taparuba:  276/276 => 100.0%
+Mamógrafo 225 instalado em Mutum => 276/276
+Cidade Tapira:  0/349 => 0.0%
+Cidade Tapiraí:  166/166 => 100.0%
+Mamógrafo 217 instalado em Bambuí => 166/166
+Cidade Taquaraçu de Minas:  295/295 => 100.0%
+Mamógrafo 139 instalado em Lagoa Santa => 295/295
+Cidade Tarumirim:  1202/1202 => 100.0%
+Mamógrafo 336 instalado em Tarumirim => 1202/1202
+Cidade Teixeiras:  1061/1061 => 100.0%
+Mamógrafo 114 instalado em Viçosa => 4/1061
+Mamógrafo 275 instalado em São Geraldo => 1057/1061
+Cidade Teófilo Otoni:  11513/11513 => 100.0%
+Mamógrafo 72 instalado em Teófilo Otoni => 6758/11513
+Mamógrafo 142 instalado em Teófilo Otoni => 4755/11513
+Cidade Timóteo:  7902/7902 => 100.0%
+Mamógrafo 105 instalado em Timóteo => 6758/7902
+Mamógrafo 186 instalado em Coronel Fabriciano => 1144/7902
+Cidade Tiradentes:  678/678 => 100.0%
+Mamógrafo 259 instalado em São João del Rei => 678/678
+Cidade Tiros:  629/629 => 100.0%
+Mamógrafo 191 instalado em Carmo do Paranaíba => 629/629
+Cidade Tocantins:  1404/1404 => 100.0%
+Mamógrafo 314 instalado em Tocantins => 1404/1404
+Cidade Tocos do Moji:  376/376 => 100.0%
+Mamógrafo 190 instalado em Ouro Fino => 376/376
+Cidade Toledo:  475/475 => 100.0%
+Mamógrafo 201 instalado em Cambuí => 475/475
+Cidade Tombos:  871/871 => 100.0%
+Mamógrafo 185 instalado em Carangola => 871/871
+Cidade Três Corações:  6412/6412 => 100.0%
+Mamógrafo 122 instalado em Três Corações => 6412/6412
+Cidade Três Marias:  2492/2492 => 100.0%
+Mamógrafo 200 instalado em Três Marias => 2492/2492
+Cidade Três Pontas:  4798/4798 => 100.0%
+Mamógrafo 148 instalado em Três Pontas => 4798/4798
+Cidade Tumiritinga:  483/483 => 100.0%
+Mamógrafo 247 instalado em Conselheiro Pena => 483/483
+Cidade Tupaciguara:  2210/2210 => 100.0%
+Mamógrafo 228 instalado em Tupaciguara => 2210/2210
+Cidade Turmalina:  1294/1294 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 1294/1294
+Cidade Turvolândia:  375/375 => 100.0%
+Mamógrafo 176 instalado em Machado => 375/375
+Cidade Ubá:  9114/9114 => 100.0%
+Mamógrafo 96 instalado em Ubá => 6758/9114
+Mamógrafo 174 instalado em Visconde do Rio Branco => 2356/9114
+Cidade Ubaí:  757/757 => 100.0%
+Mamógrafo 213 instalado em Brasília de Minas => 757/757
+Cidade Ubaporanga:  983/983 => 100.0%
+Mamógrafo 339 instalado em Ubaporanga => 983/983
+Cidade Uberaba:  27032/28193 => 95.8819565140283%
+Mamógrafo 22 instalado em Uberaba => 6758/28193
+Mamógrafo 38 instalado em Uberaba => 6758/28193
+Mamógrafo 56 instalado em Uberaba => 6758/28193
+Mamógrafo 104 instalado em Uberaba => 6758/28193
+Cidade Uberlândia:  56917/56917 => 100.0%
+Mamógrafo 0 instalado em Uberlândia => 6758/56917
+Mamógrafo 3 instalado em Uberlândia => 6758/56917
+Mamógrafo 8 instalado em Uberlândia => 6758/56917
+Mamógrafo 17 instalado em Uberlândia => 6758/56917
+Mamógrafo 21 instalado em Uberlândia => 6758/56917
+Mamógrafo 34 instalado em Uberlândia => 6758/56917
+Mamógrafo 54 instalado em Uberlândia => 6758/56917
+Mamógrafo 95 instalado em Uberlândia => 6758/56917
+Mamógrafo 189 instalado em Uberlândia => 2853/56917
+Cidade Umburatiba:  0/199 => 0.0%
+Cidade Unaí:  6512/6512 => 100.0%
+Mamógrafo 119 instalado em Unaí => 6512/6512
+Cidade União de Minas:  0/350 => 0.0%
+Cidade Uruana de Minas:  0/265 => 0.0%
+Cidade Urucânia:  841/841 => 100.0%
+Mamógrafo 346 instalado em Urucânia => 841/841
+Cidade Urucuia:  0/791 => 0.0%
+Cidade Vargem Alegre:  544/544 => 100.0%
+Mamógrafo 211 instalado em Ipatinga => 424/544
+Mamógrafo 233 instalado em Inhapim => 120/544
+Cidade Vargem Bonita:  195/195 => 100.0%
+Mamógrafo 184 instalado em Piumhi => 195/195
+Cidade Vargem Grande do Rio Pardo:  0/332 => 0.0%
+Cidade Varginha:  11696/11696 => 100.0%
+Mamógrafo 80 instalado em Varginha => 6758/11696
+Mamógrafo 135 instalado em Varginha => 4938/11696
+Cidade Varjão de Minas:  440/440 => 100.0%
+Mamógrafo 342 instalado em Varjão de Minas => 440/440
+Cidade Várzea da Palma:  2811/2811 => 100.0%
+Mamógrafo 192 instalado em Várzea da Palma => 2811/2811
+Cidade Varzelândia:  1236/1236 => 100.0%
+Mamógrafo 276 instalado em São João da Ponte => 1236/1236
+Cidade Vazante:  1775/1775 => 100.0%
+Mamógrafo 268 instalado em Vazante => 1775/1775
+Cidade Verdelândia:  476/476 => 100.0%
+Mamógrafo 133 instalado em Janaúba => 476/476
+Cidade Veredinha:  406/406 => 100.0%
+Mamógrafo 237 instalado em Minas Novas => 406/406
+Cidade Veríssimo:  0/313 => 0.0%
+Cidade Vermelho Novo:  364/364 => 100.0%
+Mamógrafo 194 instalado em Caputira => 364/364
+Cidade Vespasiano:  8784/8784 => 100.0%
+Mamógrafo 100 instalado em Vespasiano => 6758/8784
+Mamógrafo 241 instalado em Vespasiano => 2026/8784
+Cidade Viçosa:  6754/6754 => 100.0%
+Mamógrafo 114 instalado em Viçosa => 6754/6754
+Cidade Vieiras:  336/336 => 100.0%
+Mamógrafo 185 instalado em Carangola => 336/336
+Cidade Mathias Lobato:  0/266 => 0.0%
+Cidade Virgem da Lapa:  0/1060 => 0.0%
+Cidade Virgínia:  790/790 => 100.0%
+Mamógrafo 166 instalado em Cristina => 790/790
+Cidade Virginópolis:  0/876 => 0.0%
+Cidade Virgolândia:  452/452 => 100.0%
+Mamógrafo 338 instalado em Virgolândia => 452/452
+Cidade Visconde do Rio Branco:  3419/3419 => 100.0%
+Mamógrafo 174 instalado em Visconde do Rio Branco => 3419/3419
+Cidade Volta Grande:  432/432 => 100.0%
+Mamógrafo 177 instalado em Além Paraíba => 432/432
+Cidade Wenceslau Braz:  223/223 => 100.0%
+Mamógrafo 282 instalado em Itajubá => 223/223
+Coberturas
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.3161290322580645
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.7697915480123021
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.48616600790513836
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.08951104100946372
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.7045252883762201
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.8433093465330062
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.22585924713584288
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.951830985915493
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.9588195651402831
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0

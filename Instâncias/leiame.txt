@@ -1,0 +1,15 @@
+Um instância do PMLAM tem a seguinte estrutura:
+
+Dados 										Número de Linhas
+
+Sigla do Estado brasileiro							1
+n = número de cidades								1
+p = número de mamógrafos a serem localizados					1
+R = distância máxima que uma mulher pode viajar (em km)			1
+cap = capacidade anual realização de mamografias de um mamógrafo		1
+Código ibge da cidade								n
+Nome da Cidade									n
+Demanda anual por mamografiasa em uma demanda					n
+Distância da cidade i para a cidade j (em km)					n x n
+Número de equipamentos instalados na cidade					n
+Número de equipamentos instalados na cidade sob gestão municipal		n
